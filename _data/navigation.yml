@@ -1,12 +1,10 @@
 main:
   - title: "Quick-Start Guide"
     url: /quick-start/
-  - title: "🛒 Buy"
-    url: /buy/
   - title: "About"
     url: /about/
-  - title: "rnext.it"
-    url: https://rnext.it
+  - title: "🛒 Buy"
+    url: /buy/
 
 docs:
   - title: Getting Started

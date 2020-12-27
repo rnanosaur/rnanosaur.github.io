@@ -1,10 +1,7 @@
 ---
 title: "Quick-Start Guide"
 permalink: /quick-start/
-toc: true
-toc_label: "Table of Contents"
-toc_icon: "cog"
-toc_sticky: true
+classes: wide
 ---
 
 Are you ready to start? Well done!
