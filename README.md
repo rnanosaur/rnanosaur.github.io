@@ -9,7 +9,6 @@ To open the website go to:
 bundle
 bundle exec jekyll serve --livereload
 ```
-
 ### Theme reference
 
 * https://mmistakes.github.io/minimal-mistakes/

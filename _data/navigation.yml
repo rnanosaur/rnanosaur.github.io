@@ -1,0 +1,19 @@
+main:
+  - title: "Quick-Start Guide"
+    url: /quick-start/
+  - title: "🛒 Buy"
+    url: /buy/
+  - title: "About"
+    url: /about/
+  - title: "rnext.it"
+    url: https://rnext.it
+
+docs:
+  - title: Getting Started
+    children:
+      - title: "Quick-Start Guide"
+        url: /quick-start/
+      - title: "Bill of Material"
+        url: /bill-of-material/
+      - title: "Assembly"
+        url: /assembly/
