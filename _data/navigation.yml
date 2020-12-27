@@ -13,17 +13,14 @@ docs:
         url: /quick-start/
       - title: "Bill of Material"
         url: /bill-of-material/
+      - title: "Expansion board"
+        url: /expansion-board/
       - title: "Assembly"
         url: /assembly/
       - title: "Install"
         url: /install/
 
-  - title: "Work with NanoSaur" 
-    childern:
-      - title: "Run ROS"
-        url: /ros/
-
   - title: Customize
-    childern:
+    children:
       - title: "Chassis"
         url: /chassis/

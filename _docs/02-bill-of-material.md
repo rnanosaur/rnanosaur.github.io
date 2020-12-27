@@ -26,18 +26,24 @@ If you don't want print or you don't have a 3D printer you can buy all parts you
 | Quantity | Part                | Cost | URL | Notes |
 |:--------:|---------------------|------|-----|-------|
 | 1        | Noctua 4x4cm fan    | $99  |     |       |
+| 1        | Noctua 4x4cm fan    | $99  |     |       |
+| 1        | Noctua 4x4cm fan    | $99  |     |       |
 
 # Components to print
 
-| Quantity | Part        | Material        | Time  |
-|:--------:|-------------|-----------------|:-----:|
-| 1        | base-rear   | PLA green       | 5h    |
-| 1        | base-front  | PLA green       | 1:30h |
-| 1        | cover       | PLA green       | 1:30h |
-| 2        | slider      | PLA green       | 1h    |
-| 1        | flap-up     | PLA green       | 45min |
-| 1        | flap-botton | PLA green       | 45min |
-| 2        | sprocket    | PLA green/black | 1h    |
-| 2        | wheel       | PLA green/black | 1h    |
-| 2        | track       | TPU black/grey  | 1:30h |
+Well, you have all components, now you need only to 3D print the robot. All parts are simple to print but, need time to be done, below there is a short table with the average time for each part.
+
+To print your 
+
+| Quantity | Part            | Material        | Time  |
+|:--------:|-----------------|-----------------|:-----:|
+| 1        | base-rear.stl   | PLA green       | 5h    |
+| 1        | base-front.stl  | PLA green       | 1:30h |
+| 1        | cover.stl       | PLA green       | 1:30h |
+| 2        | slider.stl      | PLA green       | 1h    |
+| 1        | flap-up.stl     | PLA green       | 45min |
+| 1        | flap-bottom.stl | PLA green       | 45min |
+| 2        | sprocket.stl    | PLA green/black | 1h    |
+| 2        | wheel.stl       | PLA green/black | 1h    |
+| 2        | track.stl       | TPU black/grey  | 1:30h |
 
