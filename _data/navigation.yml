@@ -17,3 +17,15 @@ docs:
         url: /bill-of-material/
       - title: "Assembly"
         url: /assembly/
+      - title: "Install"
+        url: /install/
+
+  - title: "Work with NanoSaur" 
+    childern:
+      - title: "Run ROS"
+        url: /ros/
+
+  - title: Customize
+    childern:
+      - title: "Chassis"
+        url: /chassis/
