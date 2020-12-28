@@ -19,9 +19,9 @@ Following this guideline the total time to print NanoSaur will be:
 | [Wheels and sprockets](#wheels-and-sprockets) | **2h** |
 | [Sliders](#sliders) | **2h** |
 | [Cover](#cover) | **1h** and **45min** |
-| [Flap](#flap) | **1h** and **30min** |
+| [Flap and power bank holder](#flap-and-power-bank-holder) | **1h** and **45min** |
 | [Track](#print-tracks) | 2x **1h** and **30min** |
-| **Total** | **16h** and **45min** |
+| **Total** | **17h** |
 
 # Print PLA parts
 
@@ -71,14 +71,15 @@ To print this parts you need a **PLA green**. The average time will be: **1h** a
 |:--------:|-----------------|:-------:|
 | 1        | [cover.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/cover.stl) | <script src="https://embed.github.com/view/3d/rnanosaur/nanosaur/master/nanosaur_description/meshes/cover.stl?height=320&width=320"></script> |
 
-## Flap
+## Flap and Power bank holder
 
-To print this parts you need a **PLA green**. The average time will be: **1h** and **30min**.
+To print this parts you need a **PLA green**. The average time will be: **1h** and **45min**.
 
 | Quantity | Part            | 3D view |
 |:--------:|-----------------|:-------:|
 | 1        | [flap_top.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/flap_top.stl) | <script src="https://embed.github.com/view/3d/rnanosaur/nanosaur/master/nanosaur_description/meshes/flap_top.stl?height=320&width=320"></script> |
 | 1        | [flap_bottom.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/flap_bottom.stl) | <script src="https://embed.github.com/view/3d/rnanosaur/nanosaur/master/nanosaur_description/meshes/flap_bottom.stl?height=320&width=320"></script> |
+| 1        | [pb_holder.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/pb_holder.stl) | <script src="https://embed.github.com/view/3d/rnanosaur/nanosaur/master/nanosaur_description/meshes/pb_holder.stl?height=320&width=320"></script> |
 
 # Print tracks
 

@@ -80,12 +80,13 @@ Below the list of all parts, the time required for each part and the color sugge
 
 | Quantity | Part            | Material        | Time  | Notes |
 |:--------:|-----------------|-----------------|:-----:|-------|
-| 1        | base-rear.stl   | PLA green       | 5h    |       |
-| 1        | base-front.stl  | PLA green       | 1:30h |       |
+| 1        | base_rear.stl   | PLA green       | 5h    |       |
+| 1        | base_front.stl  | PLA green       | 1:30h |       |
 | 1        | cover.stl       | PLA green       | 1:45h |       |
 | 2        | slider.stl      | PLA green       | 1h    |       |
-| 1        | flap-up.stl     | PLA green       | 45min |       |
-| 1        | flap-bottom.stl | PLA green       | 45min |       |
+| 1        | pb_holder.stl   | PLA green       | 20min |       |
+| 1        | flap_top.stl    | PLA green       | 45min |       |
+| 1        | flap_bottom.stl | PLA green       | 45min |       |
 | 2        | sprocket.stl    | PLA green/black | 1h    |       |
 | 2        | wheel.stl       | PLA green/black | 1h    |       |
 | 2        | track_print.stl | TPU black/grey  | 1:30h | **Time Travel**: 30mm/s |
