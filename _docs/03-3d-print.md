@@ -83,7 +83,7 @@ To print this parts you need a **PLA green**. The average time will be: **1h** a
 
 # Print tracks
 
-The NanoSaur tracks are the hardest to print. You need a good 3D printer, better if your printer is direct drive. Otherwise I suggest to use a Ninjatek TPU, sufficient elastic to make the track.
+The NanoSaur tracks are the hardest to print. You need a good 3D printer, better if your printer is direct drive. Otherwise I suggest to use a Ninjatek TPU, sufficient elastic to make these tracks.
 
 | Quantity | Part            | 3D view |
 |:--------:|-----------------|:-------:|
