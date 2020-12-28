@@ -45,6 +45,8 @@ This last table is to build the expansion board to connect the NVIDIA Jetson to 
 | 1        | USB cable               | $3   |     |       |
 | 1        | Female jack             | $3   |     |       |
 
+To build the expansion board follow [this page](04-expansion-board)
+
 ## 3D parts
 
 If you want print NanoSaur, you should buy these spool. I suggest the Ninjatek TPU if you use a bowden 3D printer. Otherwise you can use other type of TPU.
