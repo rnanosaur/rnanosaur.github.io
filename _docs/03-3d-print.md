@@ -34,17 +34,17 @@ You can split all parts following this guideline and setup the printer using thi
 
 To print this parts you need a **PLA green**. The average time will be: **5h** 
 
-| Quantity | Part            |
-|:--------:|-----------------|
-| 1        | base-rear.stl   |
+| Quantity | Part            | 3D view |
+|:--------:|-----------------|:-------:|
+| 1        | [base_rear.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/base_rear.stl) | <script src="https://embed.github.com/view/3d/rnanosaur/nanosaur/master/nanosaur_description/meshes/base_rear.stl?height=320&width=320"></script> |
 
 ## Base front
 
 To print this parts you need a **PLA green**. The average time will be: **1h** and **30min**.
 
-| Quantity | Part            |
-|:--------:|-----------------|
-| 1        | base-front.stl  |
+| Quantity | Part            | 3D view |
+|:--------:|-----------------|:-------:|
+| 1        | [base_front.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/base_front.stl) | <script src="https://embed.github.com/view/3d/rnanosaur/nanosaur/master/nanosaur_description/meshes/base_front.stl?height=320&width=320"></script> |
 
 ## Wheels and sprockets
 
