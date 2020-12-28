@@ -50,43 +50,43 @@ To print this parts you need a **PLA green**. The average time will be: **1h** a
 
 To print this parts you need a **PLA green/black**. The average time will be: **2h**. 
 
-| Quantity | Part            |
-|:--------:|-----------------|
-| 2        | sprocket.stl    |
-| 2        | wheel.stl       |
+| Quantity | Part            | 3D view |
+|:--------:|-----------------|:-------:|
+| 2        | [sprocket.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/sprocket.stl) | <script src="https://embed.github.com/view/3d/rnanosaur/nanosaur/master/nanosaur_description/meshes/sprocket.stl?height=320&width=320"></script> |
+| 2        | [wheel.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/wheel.stl) | <script src="https://embed.github.com/view/3d/rnanosaur/nanosaur/master/nanosaur_description/meshes/wheel.stl?height=320&width=320"></script> |
 
 ## Sliders
 
 To print this parts you need a **PLA green**. The average time will be: **2h**. 
 
-| Quantity | Part            |
-|:--------:|-----------------|
-| 2        | slider.stl      |
+| Quantity | Part            | 3D view |
+|:--------:|-----------------|:-------:|
+| 2        | [slider.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/slider.stl) | <script src="https://embed.github.com/view/3d/rnanosaur/nanosaur/master/nanosaur_description/meshes/slider.stl?height=320&width=320"></script> |
 
 ## Cover
 
 To print this parts you need a **PLA green**. The average time will be: **1h** and **45min**.
 
-| Quantity | Part            |
-|:--------:|-----------------|
-| 1        | cover.stl       |
+| Quantity | Part            | 3D view |
+|:--------:|-----------------|:-------:|
+| 1        | [cover.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/cover.stl) | <script src="https://embed.github.com/view/3d/rnanosaur/nanosaur/master/nanosaur_description/meshes/cover.stl?height=320&width=320"></script> |
 
 ## Flap
 
 To print this parts you need a **PLA green**. The average time will be: **1h** and **30min**.
 
-| Quantity | Part            | Material        |
-|:--------:|-----------------|-----------------|
-| 1        | flap-up.stl     | PLA green       |
-| 1        | flap-bottom.stl | PLA green       |
+| Quantity | Part            | 3D view |
+|:--------:|-----------------|:-------:|
+| 1        | [flap_top.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/flap_top.stl) | <script src="https://embed.github.com/view/3d/rnanosaur/nanosaur/master/nanosaur_description/meshes/flap_top.stl?height=320&width=320"></script> |
+| 1        | [flap_bottom.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/flap_bottom.stl) | <script src="https://embed.github.com/view/3d/rnanosaur/nanosaur/master/nanosaur_description/meshes/flap_bottom.stl?height=320&width=320"></script> |
 
 # Print tracks
 
 The NanoSaur tracks are the hardest to print. You need a good 3D printer, better if your printer is direct drive. Otherwise I suggest to use a Ninjatek TPU, sufficient elastic to make the track.
 
-| Quantity | Part            |
-|:--------:|-----------------|
-| 2        | track_print.stl |
+| Quantity | Part            | 3D view |
+|:--------:|-----------------|:-------:|
+| 2        | [track_print.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/track_print.stl) | <script src="https://embed.github.com/view/3d/rnanosaur/nanosaur/master/nanosaur_description/meshes/track_print.stl?height=320&width=320"></script> |
 
 To print this track I suggest this setup:
 * **Layer height**: 0.2mm
