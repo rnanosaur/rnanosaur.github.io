@@ -13,3 +13,6 @@ bundle exec jekyll serve --livereload
 
 * https://mmistakes.github.io/minimal-mistakes/
 * https://github.com/mmistakes/mm-github-pages-starter
+
+# Other
+* https://emojipedia.org/

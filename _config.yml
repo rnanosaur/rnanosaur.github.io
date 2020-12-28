@@ -23,7 +23,7 @@ author:
   avatar      : "https://rbonghi.github.io/assets/images/raffaello.jpg"
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedIn-square"
       url: "https://www.linkedin.com/in/raffaello-bonghi/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -45,7 +45,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedIn-square"
       url: "https://www.linkedin.com/in/raffaello-bonghi/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -66,6 +66,9 @@ collections:
   docs:
     output: true
     permalink: /:collection/:path/
+  tutorial:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # docs
@@ -75,8 +78,21 @@ defaults:
     values:
       layout: single
       author_profile: false
+      share: true
+      read_time: true
       sidebar:
         nav: "docs"
+  # _tutorial
+  - scope:
+      path: ""
+      type: tutorial
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      read_time: true
+      sidebar:
+        nav: "tutorial"
   # _pages
   - scope:
       path: "_pages"

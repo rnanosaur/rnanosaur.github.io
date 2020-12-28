@@ -1,6 +1,8 @@
 main:
   - title: "Quick-Start Guide"
     url: /quick-start/
+  - title: "Tutorials"
+    url: /tutorial/
   - title: "About"
     url: /about/
   - title: "🛒 Buy"
@@ -19,8 +21,17 @@ docs:
         url: /assembly/
       - title: "Install"
         url: /install/
-
   - title: Customize
     children:
       - title: "Chassis"
         url: /chassis/
+
+tutorial:
+  - title: Basic
+    children:
+      - title: "Hello NanoSaur"
+        url: /tutorial/basic
+  - title: Advanced
+    children:
+      - title: "ROS2 connection"
+        url: /tutorial/advanced
