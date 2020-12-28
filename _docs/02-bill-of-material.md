@@ -55,6 +55,8 @@ If you want print NanoSaur, you should buy these spool. I suggest the Ninjatek T
 | 1        | PLA black           | $15  |     |       |
 | 1        | TPU NinjaTek black  | $40  |     |       |
 
+The parts to print are [below](#components-to-print)
+
 ## Optionals
 
 These parts are not really needed to build your robot, but suggested if you want speed up the NVIDIA Jetson or assembly the robot.
@@ -69,7 +71,7 @@ These parts are not really needed to build your robot, but suggested if you want
 Well, you have all components, now you need only to 3D print the robot. All parts are simple to print but, need time to be done, below there is a short table with the average time for each part.
 
 I recommend to print all STL part with:
-* **Infill:** 0.2mm
+* **Layer height**: 0.2mm
 * **Time travel:** 50mm/s
 
 Below the list of all parts, the time required for each part and the color suggested:
@@ -78,13 +80,13 @@ Below the list of all parts, the time required for each part and the color sugge
 |:--------:|-----------------|-----------------|:-----:|-------|
 | 1        | base-rear.stl   | PLA green       | 5h    |       |
 | 1        | base-front.stl  | PLA green       | 1:30h |       |
-| 1        | cover.stl       | PLA green       | 1:30h |       |
+| 1        | cover.stl       | PLA green       | 1:45h |       |
 | 2        | slider.stl      | PLA green       | 1h    |       |
 | 1        | flap-up.stl     | PLA green       | 45min |       |
 | 1        | flap-bottom.stl | PLA green       | 45min |       |
 | 2        | sprocket.stl    | PLA green/black | 1h    |       |
 | 2        | wheel.stl       | PLA green/black | 1h    |       |
-| 2        | track.stl       | TPU black/grey  | 1:30h | **Time Travel**: 30mm/s |
+| 2        | track_print.stl | TPU black/grey  | 1:30h | **Time Travel**: 30mm/s |
 
 You can reduce the time to print your NanoSaur, printing some part together. For more details go to the [next page](/3d-print) of this guide to setup and print with your 3D printer.
 
