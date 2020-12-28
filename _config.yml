@@ -78,8 +78,8 @@ defaults:
     values:
       layout: single
       author_profile: false
-      share: true
-      read_time: true
+      share: false
+      read_time: false
       sidebar:
         nav: "docs"
   # _tutorial

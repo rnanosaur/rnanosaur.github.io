@@ -13,4 +13,6 @@ You need only to setup the MicroSD card and start your robot.
 
 # Format Micro SD
 
-# Install ROS2 NanoSaur
+
+
+# Install The Docker container NanoSaur

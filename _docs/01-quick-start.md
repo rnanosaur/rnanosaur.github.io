@@ -6,5 +6,12 @@ classes: wide
 
 Are you ready to start? Well done!
 
-NanoSaur is simple and does not need enough time to be ready and play on your desktop.
+NanoSaur is simple and does not need enough time to wandering on your desktop.
+If your are making from scratch NanoSaur you need to follow this guide in order, starting from
+1. [Bill of Material](/bill-of-material) (BOM)
+2. [3D print all parts](/3d-print) (The longest part)
+3. [Solder the Expansion board](/expansion-board)
+4. [Assembly](/assembly)
+5. [Install](/install)
 
+If you want save time, or if you don't have a 3D printer you can [buy](/buy) some parts or all robot.
