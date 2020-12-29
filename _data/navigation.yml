@@ -23,10 +23,18 @@ docs:
         url: /assembly/
       - title: "Install"
         url: /install/
+  - title: Play
+    children:
+      - title: Start with your first tutorial
+        url: /tutorial/
   - title: Customize
     children:
       - title: "Chassis"
         url: /chassis/
+  - title: Extra
+    children:
+      - title: "WiFi configuration"
+        url: /extra/wifi
 
 tutorial:
   - title: Basic
