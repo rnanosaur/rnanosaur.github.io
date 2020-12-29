@@ -1,6 +1,6 @@
 ---
-title: "Bill of Material"
-permalink: /bill-of-material/
+title: "Bill of Materials"
+permalink: /bill-of-materials/
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"

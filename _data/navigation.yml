@@ -13,8 +13,8 @@ docs:
     children:
       - title: "Quick-Start Guide"
         url: /quick-start/
-      - title: "Bill of Material"
-        url: /bill-of-material/
+      - title: "Bill of Materials"
+        url: /bill-of-materials/
       - title: "3D print"
         url: /3d-print/
       - title: "Expansion board"
