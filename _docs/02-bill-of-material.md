@@ -74,7 +74,7 @@ Well, you have all components, now you need only to 3D print the robot. All part
 
 I recommend to print all STL part with:
 * **Layer height**: 0.2mm
-* **Time travel:** 50mm/s
+* **Print speed**: 50mm/s
 
 Below the list of all parts, the time required for each part and the color suggested:
 
@@ -89,7 +89,7 @@ Below the list of all parts, the time required for each part and the color sugge
 | 1        | flap_bottom.stl | PLA green       | 45min |       |
 | 2        | sprocket.stl    | PLA green/black | 1h    |       |
 | 2        | wheel.stl       | PLA green/black | 1h    |       |
-| 2        | track_print.stl | TPU black/grey  | 1:30h | **Time Travel**: 30mm/s |
+| 2        | track_print.stl | TPU black/grey  | 1:30h | **Print speed**: 30mm/s |
 
 You can reduce the time to print your NanoSaur, printing some part together. For more details go to the [next page](/3d-print) of this guide to setup and print with your 3D printer.
 

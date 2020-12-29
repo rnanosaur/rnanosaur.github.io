@@ -1,9 +1,9 @@
 main:
-  - title: "Quick-Start Guide"
+  - title: "🔧 Make"
     url: /quick-start/
-  - title: "Tutorials"
+  - title: "🤖 Play"
     url: /tutorial/
-  - title: "About"
+  - title: "📓 About"
     url: /about/
   - title: "🛒 Buy"
     url: /buy/

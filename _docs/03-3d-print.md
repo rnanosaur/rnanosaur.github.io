@@ -27,7 +27,7 @@ Following this guideline the total time to print NanoSaur will be:
 
 You can split all parts following this guideline and setup the printer using this profile:
 * **Layer height**: 0.2mm
-* **Time travel**: 50mm/s
+* **Print speed**: 50mm/s
 * **Infill**: 15%
 
 ## Base rear
@@ -91,7 +91,7 @@ The NanoSaur tracks are the hardest to print. You need a good 3D printer, better
 
 To print this track I suggest this setup:
 * **Layer height**: 0.2mm
-* **Time travel**: 30mm/s
+* **Print speed**: 30mm/s
 * **Infill**: 10%
 
 The average time will be: **1h** and **30min** for each track
