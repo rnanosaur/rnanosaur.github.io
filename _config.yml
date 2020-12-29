@@ -23,7 +23,7 @@ author:
   avatar      : "https://rbonghi.github.io/assets/images/raffaello.jpg"
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedIn-square"
+      icon: "fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/raffaello-bonghi/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -45,7 +45,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedIn-square"
+      icon: "fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/raffaello-bonghi/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
