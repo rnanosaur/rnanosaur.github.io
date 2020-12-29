@@ -24,8 +24,8 @@ This table is your necessary needed to make NanoSaur. Few parts, starting from t
 | 2        | Pololu Micro Gearbox    | $10  |     |       |
 | 1        | Adafruit motor control  | $25  |     |       |
 | 2        | oled display            | $5   |     |       |
-| -        | 3D parts                |      |     | [3D parts](#3d-parts) |
 | -        | Expansion board         |      |     | [Expansion board](#expansion-board) |
+| -        | 3D parts                |      |     | [3D parts](#3d-parts) |
 | 20       | M2 screw 4mm            | $1   |     |       |
 | 4        | M2 screw 8mm            | $1   |     |       |
 | 2        | M2 screw 10mm           | $1   |     |       |
