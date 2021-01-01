@@ -137,5 +137,5 @@ tag_archive:
 analytics:
   provider: "google"
   google:
-    tracking_id: "UA-92957365-1"
+    tracking_id: "UA-92957365-2"
     anonymize_ip: false # default
