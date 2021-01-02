@@ -15,7 +15,6 @@ bundle exec jekyll serve --livereload
 * https://github.com/mmistakes/mm-github-pages-starter
 * https://ptc-it.de/enabling-cookie-consent-with-jekyll-minimal-mistakes/
 * https://ptc-it.de/add-favicon-to-mm-jekyll-site/
-* 
 
 # Other
 * https://emojipedia.org/
