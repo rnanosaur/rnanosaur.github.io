@@ -31,7 +31,7 @@ If you are buying form other countries follow this list
 | 6        | Ball bearings - 1/4' x 1/2' |          | Amazon    |                                     |
 | -        | Expansion board             |          |           | [Expansion board](#expansion-board) |
 | -        | 3D parts                    |          |           | [3D parts](#3d-parts)               |
-| -        | Hex M2 Screw set            |          | Amazon    | [Screw set](#screw-set)             |
+| -        | Hex M2 Screw set            | $10*     | Amazon    | [Screw set](#screw-set)             |
 
 (*) NanoSaur works with the NVIDIA Jetson Nano 2Gb or an NVIDIA Jetson Nano 4Gb
 
