@@ -1,6 +1,6 @@
 ---
 layout: splash
-excerpt: "Designed & made<br/>by [Raffaello Bonghi](https://rnext.it)"
+excerpt: "Designed & made <br/>by [Raffaello Bonghi](https://rnext.it)"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
