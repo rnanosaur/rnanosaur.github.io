@@ -8,6 +8,9 @@ name: "Raffaello Bonghi"
 
 repository: "rnanosaur/rnanosaur.github.io"
 
+twitter_username: raffaello86
+github_username: rbonghi
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -16,6 +19,9 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 # timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+after_footer_scripts :
+  - /assets/js/cookie-consent.js
 
 author:
   name        : "Raffaello Bonghi"
