@@ -15,23 +15,37 @@ If you don't want print or you don't have a 3D printer you can buy all parts you
 
 This table is your necessary needed to make NanoSaur. Few parts, starting from the NVIDIA Jetson, the PI camera, motors and the motor control.
 
-| Quantity | Part                    | Cost | URL | Notes |
-|:--------:|-------------------------|------|-----|-------|
-| 1        | NVIDIA Jetson Nano 2Gb* | $49  |     |       |
-| 1        | MicroSD card 64Gb       | $14  |     |       |
-| 1        | Power Bank              | $11  |     |       |
-| 1        | Raspberry PI camera     | $14  |     |       |
-| 2        | Pololu Micro Gearbox    | $10  |     |       |
-| 1        | Adafruit motor control  | $25  |     |       |
-| 2        | oled display            | $5   |     |       |
-| -        | Expansion board         |      |     | [Expansion board](#expansion-board) |
-| -        | 3D parts                |      |     | [3D parts](#3d-parts) |
-| 20       | M2 screw 4mm            | $1   |     |       |
-| 4        | M2 screw 8mm            | $1   |     |       |
-| 2        | M2 screw 10mm           | $1   |     |       |
-| 10       | M2 screw 20mm           | $1   |     |       |
+If you are buying form other countries follow this list
+* [:it: Italy](/extra/bom-countries#it-italy)
+* [:uk: United Kingdom](/extra/bom-countries#uk-united-kingdom)
+
+| Quantity | Part                        | Cost     | URL       | Notes                               |
+|:--------:|-----------------------------|:--------:|-----------|-------------------------------------|
+| 1        | NVIDIA Jetson Nano 2Gb*     | $59-$99  | [NVIDIA](https://developer.nvidia.com/embedded/buy/jetson-nano-devkit)|  |
+| 1        | MicroSD card 64Gb           | $14      | Amazon    |                                     |
+| 1        | Power Bank                  | $11      | Amazon    | Size max:<br/>64mm x 94mm x 20mm<br/>(3in x 4in x 0.8in) |
+| 1        | Raspberry PI camera         | $14      | Amazon    |                                     |
+| 2        | Pololu Micro Gearbox        | $10      | Pololu, Amazon |                                     |
+| 1        | Adafruit motor control      | $25      | Adafruit, Amazon |                              |
+| 2        | oled display                | $5       | Amazon    |                                     |
+| 6        | Ball bearings - 1/4' x 1/2' |          | Amazon    |                                     |
+| -        | Expansion board             |          |           | [Expansion board](#expansion-board) |
+| -        | 3D parts                    |          |           | [3D parts](#3d-parts)               |
+| -        | Hex M2 Screw set            |          | Amazon    | [Screw set](#screw-set)             |
 
 (*) NanoSaur works with the NVIDIA Jetson Nano 2Gb or an NVIDIA Jetson Nano 4Gb
+
+## Screw set
+
+NanoSaur use a short set of M2 screw, you can buy a set a set 
+
+| Quantity | Part                        | Notes |
+|:--------:|-----------------------------|-------|
+| 6        | M2 nuts                     |       |
+| 6        | Hex M2 20mm                 |       |
+| 1        | Hex M2 14mm                 |       |
+| 8        | Hex M2 6mm                  |       |
+| 20       | Hex M2 4mm                  |       |
 
 ## Expansion board
 

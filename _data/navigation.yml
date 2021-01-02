@@ -1,11 +1,11 @@
 main:
-  - title: "🔧 Make"
+  - title: ":wrench: Make"
     url: /quick-start/
-  - title: "🤖 Play"
+  - title: ":robot: Play"
     url: /tutorial/
-  - title: "📓 About"
+  - title: ":notebook: About"
     url: /about/
-  - title: "🛒 Buy"
+  - title: ":shopping_cart: Buy"
     url: /buy/
 
 docs:
@@ -33,6 +33,8 @@ docs:
         url: /chassis/
   - title: Extra
     children:
+      - title: "BOM countries"
+        url: /extra/bom-countries
       - title: "WiFi configuration"
         url: /extra/wifi
 
