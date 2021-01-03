@@ -8,8 +8,6 @@ header:
   actions:
   - label: ":sparkling_heart: be a Sponsor"
     url: "https://github.com/sponsors/rbonghi"
-  - label: ":shopping_cart: Buy"
-    url: "/buy/"
   - label: ":wrench: Make"
     url: "/quick-start/"
 intro: 
