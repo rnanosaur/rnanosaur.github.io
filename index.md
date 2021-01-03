@@ -6,7 +6,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/intro.jpg
   actions:
-  - label: ":sparkling_heart: be a Sponsor"
+  - label: ":sparkling_heart: Sponsor"
     url: "https://github.com/sponsors/rbonghi"
   - label: ":wrench: Make"
     url: "/quick-start/"
