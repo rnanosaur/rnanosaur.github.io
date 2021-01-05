@@ -1,7 +1,7 @@
-# rnanosaur.github.io
+# :sauropod: nanosaur.ai
 
 To open the website go to:
-[https://rnanosaur.github.io/](https://rnanosaur.github.io/)
+[https://nanosaur.ai](https://nanosaur.ai)
 
 ## Run locally
 
