@@ -11,6 +11,9 @@ repository: "rnanosaur/rnanosaur.github.io"
 twitter_username: raffaello86
 github_username: rbonghi
 
+twitter:
+  username: "raffaello86"
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
