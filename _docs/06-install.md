@@ -36,4 +36,13 @@ If you haven't already, connect your Jetson Nano to your Wi-Fi network.
 
 [Follow this Wi-Fi setup guide](/extra/wifi).
 
-# Install The Docker container NanoSaur
+# Install and run NanoSaur
+
+:clipboard: Copy and paste on the NVIDIA Jetson terminal the following line
+
+{% capture code %}curl https://raw.githubusercontent.com/rnanosaur/nanosaur/master/nanosaur_bringup/scripts/install.sh -o install.sh && chmod +x install.sh && sudo ./install.sh{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
+
+Follow the instructions and reboot your board!
+
+
+

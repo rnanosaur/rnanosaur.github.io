@@ -25,6 +25,7 @@ paginate_path: /page:num/
 
 after_footer_scripts :
   - /assets/js/cookie-consent.js
+  - /assets/js/copyCode.js
 
 author:
   name        : "Raffaello Bonghi"
