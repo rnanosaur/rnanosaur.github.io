@@ -7,6 +7,9 @@ toc_icon: "cog"
 toc_sticky: true
 ---
 
+**:construction: Project in draft** some parts are not done or completed.<br/>For any issue join on [Discord](https://discord.gg/NSrC52P5mw)
+{: .notice--warning}
+
 Below the bill of Materials (BOM) from other countries
 
 # :it: Italy

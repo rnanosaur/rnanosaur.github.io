@@ -7,8 +7,9 @@ classes: wide
 ---
 
 Did you follow these steps?
-1. Follow :bird: [**@raffaello86**](https://twitter.com/raffaello86) on **Twitter**
-2. Make a star on :star: [nanosaur](https://github.com/rnanosaur/nanosaur) **Github** repository
-3. Be a :sparkling_heart: [supporter](https://github.com/sponsors/rbonghi)
+* Follow :bird: [**@raffaello86**](https://twitter.com/raffaello86) on **Twitter**
+* Make a star on :star: [nanosaur](https://github.com/rnanosaur/nanosaur) **Github** repository
+* Be a :sparkling_heart: [supporter](https://github.com/sponsors/rbonghi)
+* Join on :robot: [Discord](https://discord.gg/NSrC52P5mw)
 
 # Tutorials

@@ -7,6 +7,9 @@ toc_icon: "cog"
 toc_sticky: true
 ---
 
+**:construction: Project in draft** some parts are not done or completed.<br/>For any issue join on [Discord](https://discord.gg/NSrC52P5mw)
+{: .notice--warning}
+
 If you want make your NanoSaur, it's simple and you can make directly at home, you only need few tools and print some parts to buy.
 
 If you don't want print or you don't have a 3D printer you can buy all parts you need, simple going on the [buy](/buy) page.

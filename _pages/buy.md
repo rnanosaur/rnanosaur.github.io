@@ -4,6 +4,9 @@ permalink: /buy/
 classes: wide
 ---
 
+**:construction: Project in draft** some parts are not done or completed.<br/>For any issue join on [Discord](https://discord.gg/NSrC52P5mw)
+{: .notice--warning}
+
 You don't have a 3D printer and you want a NanoSaur, don't worry I can print for you! :smile:
 
 You can choose from different boxes:
@@ -11,8 +14,3 @@ You can choose from different boxes:
 2. 3D parts
 3. electronics
 4. Only tracks
-5. Full robot
-
-At this time this page is under construction, more info will be release soon, but for more details you can write an email to:
-
-[raffaello@rnext.it](mailto:raffaello@rnext.it)
