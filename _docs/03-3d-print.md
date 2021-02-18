@@ -41,6 +41,9 @@ Following this guideline the total time to print NanoSaur will be:
 | [Track](#print-tracks) | 2x **1h** and **30min** |
 | **Total** | **17h** |
 
+**:floppy_disk: Download** you can obtain all Nanosaur parts only downloading this zip file [**nanosaur_stl.zip**](https://github.com/rnanosaur/nanosaur/releases/latest/download/nanosaur_stl.zip)
+{: .notice--success}
+
 # Print PLA parts
 
 You can split all parts following this guideline and setup the printer using this profile:
