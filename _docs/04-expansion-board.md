@@ -23,9 +23,9 @@ If you chose the number **1.** follow this steps otherwise let's go to the [next
 
 # Layout
 
-![Alt text](https://github.com/rnanosaur/nanosaur-exp-board/releases/latest/download/nanosaur-exp-board-Schematic.svg)
+![Schematics](/assets/docs/expansion-board/img/nanosaur-exp-board-Schematic.svg)
 
-{% include figure image_path="https://github.com/rnanosaur/nanosaur-exp-board/releases/latest/download/nanosaur-exp-board-Schematic.svg" alt="test svg" caption="test svg" %}
+{% include figure image_path="/assets/docs/expansion-board/img/nanosaur-exp-board-Schematic.svg alt="test svg" caption="test svg" %}
 
 # Board
 
