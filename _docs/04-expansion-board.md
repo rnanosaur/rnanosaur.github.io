@@ -43,6 +43,9 @@ The expansion board is a simple adapter to connect the motor controller and the 
 
 # Board
 
+**:floppy_disk: Download** the Nanosaur expansion board **STEP** file [**nanosaur-exp-board.step**](https://github.com/rnanosaur/nanosaur-exp-board/releases/latest/download/nanosaur-exp-board.step)
+{: .notice--success}
+
 The PCB Layout will be like the pictures below:
 
 {% include gallery id="pcb_expansion_board" caption="PCB expansion board" %}
