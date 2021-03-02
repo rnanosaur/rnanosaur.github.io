@@ -26,6 +26,12 @@ If you chose the number **1.** follow this steps otherwise let's go to the [next
 ![Alt text](https://github.com/rnanosaur/nanosaur-exp-board/releases/latest/download/nanosaur-exp-board-Schematic.svg)
 <img src="https://github.com/rnanosaur/nanosaur-exp-board/releases/latest/download/nanosaur-exp-board-Schematic.svg">
 
+<object type="image/svg+xml" data="https://github.com/rnanosaur/nanosaur-exp-board/releases/latest/download/nanosaur-exp-board-Schematic.svg">
+    <!-- Your fall back here -->
+    <img src="https://github.com/rnanosaur/nanosaur-exp-board/releases/latest/download/nanosaur-exp-board-Schematic.svg" />
+</object>
+
+
 # Board
 
 ![schematics](https://github.com/rnanosaur/nanosaur-exp-board/releases/latest/download/nanosaur-exp-board-Schematic.jpg)
