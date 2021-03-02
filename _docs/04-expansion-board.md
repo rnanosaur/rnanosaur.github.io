@@ -19,8 +19,15 @@ You have tree ways to build the expansion board:
 
 If you chose the number **1.** follow this steps otherwise let's go to the [next step](/assembly).
 
+[**schematics.pdf**](https://github.com/rnanosaur/nanosaur-exp-board/releases/latest/download/combined.pdf)
+
 # Layout
 
+![Alt text](https://github.com/rnanosaur/nanosaur-exp-board/releases/latest/download/nanosaur-exp-board-Schematic.svg)
+<img src="https://github.com/rnanosaur/nanosaur-exp-board/releases/latest/download/nanosaur-exp-board-Schematic.svg">
+
 # Board
+
+![schematics](https://github.com/rnanosaur/nanosaur-exp-board/releases/latest/download/nanosaur-exp-board-Schematic.jpg)
 
 # Assembly
