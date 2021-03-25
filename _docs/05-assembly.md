@@ -69,7 +69,7 @@ If you are here, you are ready to mount NanoSaur!
 
 {% include figure image_path="/assets/docs/assembly/NanoSaur-explode.png" alt="NanoSaur explode view" caption="NanoSaur explode view" %}
 
-There are few steps to follow to mount NanoSaur only using the tools in list, remember to collect and buy all components listed in the [Bill of Materials](/02-bill-of-materials.md)
+There are few steps to follow to mount NanoSaur only using the tools in list, remember to collect and buy all components listed in the [Bill of Materials](/bill-of-materials)
 
 We can split the NanoSaur assembly in three parts:
 * [Flap](#flap)
