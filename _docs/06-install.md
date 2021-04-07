@@ -38,11 +38,17 @@ If you haven't already, connect your Jetson Nano to your Wi-Fi network.
 
 # Install and run NanoSaur
 
+First step connect to your NVIDIA Jetson, update & upgrade the distribution and install curl
+
+```sh
+sudo apt update && sudo apt -y full-upgrade && sudo apt -y autoremove
+sudo apt -y install curl
+```
+
+When your machine will be up to date, we can run the Nanosaur installation script.
+
 :clipboard: Copy and paste on the NVIDIA Jetson terminal the following line
 
 {% capture code %}curl https://raw.githubusercontent.com/rnanosaur/nanosaur/master/nanosaur_bringup/scripts/install.sh -o install.sh && chmod +x install.sh && sudo ./install.sh{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
 
 Follow the instructions and reboot your board!
-
-
-
