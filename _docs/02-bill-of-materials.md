@@ -19,24 +19,9 @@ If you don't want print or you don't have a 3D printer you can buy all parts you
 This table is your necessary needed to make NanoSaur. Few parts, starting from the NVIDIA Jetson, the PI camera, motors and the motor control.
 
 If you are buying form other countries follow this list
+* [:us: USA](/extra/bom-countries#us-usa)
 * [:it: Italy](/extra/bom-countries#it-italy)
 * [:uk: United Kingdom](/extra/bom-countries#uk-united-kingdom)
-
-| Quantity | Part                        | Cost     | URL       | Notes                               |
-|:--------:|-----------------------------|:--------:|-----------|-------------------------------------|
-| 1        | NVIDIA Jetson Nano 2Gb*     | $59-$99  | [NVIDIA](https://developer.nvidia.com/embedded/buy/jetson-nano-devkit)|  |
-| 1        | MicroSD card 64Gb           | $9.99    | [Amazon](https://amzn.to/2X7rWpH)    |          |
-| 1        | Power Bank                  | $29.99   | [Amazon](https://amzn.to/2X8RNha)    | Size max:<br/>64mm x 94mm x 20mm<br/>(3in x 4in x 0.8in) |
-| 1        | Raspberry PI camera         | $23.50   | [Amazon](https://amzn.to/2LgasF5)    |                                     |
-| 2        | Pololu Micro Gearbox        | $25.75   | Pololu, [Amazon](https://amzn.to/3hS4o1P) |                                     |
-| 1        | Adafruit motor control      | $29.10   | Adafruit, [Amazon](https://amzn.to/392GhZU) |                              |
-| 2        | oled display                | $5       | [Amazon](https://amzn.to/3ocB3kJ) |  128x64px I2C                       |
-| 6        | Ball bearings - 1/4' x 1/2' |          | Amazon    |                                     |
-| -        | Expansion board             |          |           | [Expansion board](#expansion-board) |
-| -        | 3D parts                    |          |           | [3D parts](#3d-parts)               |
-| -        | Hex M2 Screw set            | $10*     | Amazon    | [Screw set](#screw-set)             |
-
-(*) NanoSaur works with the NVIDIA Jetson Nano 2Gb or an NVIDIA Jetson Nano 4Gb
 
 ## Screw set
 
@@ -62,7 +47,7 @@ This last table is to build the expansion board to connect the NVIDIA Jetson to 
 | 1        | USB cable               | $3   |     |       |
 | 1        | Female jack             | $3   |     |       |
 
-To build the expansion board follow [this page](04-expansion-board)
+To build the expansion board follow [this page](/expansion-board)
 
 ## 3D parts
 

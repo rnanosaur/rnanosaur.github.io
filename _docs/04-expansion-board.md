@@ -39,7 +39,7 @@ The expansion board is a simple adapter to connect the motor controller and the 
 * I2C bus 1
 * 2 GPIO
 
-{% include figure image_path="/assets/docs/expansion-board/img/nanosaur-exp-board-Schematic.svg" alt="test svg" caption="test svg" %}
+{% include figure image_path="/assets/docs/expansion-board/img/nanosaur-exp-board-Schematic.svg" alt="Nanosaur schematic expansion board" caption="Nanosaur schematic expansion board" %}
 
 # Board
 

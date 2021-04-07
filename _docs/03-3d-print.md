@@ -44,6 +44,9 @@ Following this guideline the total time to print NanoSaur will be:
 **:floppy_disk: Download** you can obtain all Nanosaur parts only downloading this zip file [**nanosaur_stl.zip**](https://github.com/rnanosaur/nanosaur/releases/latest/download/nanosaur_stl.zip)
 {: .notice--success}
 
+**:bulb: Hint** On nanosaur_stl.zip you can find a folder **025in** for ball bearings with size *ID 1/4in x OD 1/2in*
+{: .notice--info}
+
 # Print PLA parts
 
 You can split all parts following this guideline and setup the printer using this profile:
@@ -79,6 +82,9 @@ I suggest orienting the STL following this picture and setup with:
 {% include gallery id="base_front" caption="base_front.stl slicer" %}
 
 ## Wheels and sprockets
+
+**:bulb: Hint** On nanosaur_stl.zip you can find a folder **025in** for ball bearings with size *ID 1/4in x OD 1/2in*
+{: .notice--info}
 
 To print this parts you need a **PLA green/black**. The average time will be: **2h**. 
 
