@@ -22,8 +22,8 @@ Below the bill of Materials (BOM) from other countries
 | 1        | MicroSD card 64Gb           | $9.99    | [Amazon](https://amzn.to/2X7rWpH)    |          |
 | 1        | Power Bank                  | $29.99   | [Amazon](https://amzn.to/2X8RNha)    | Size max:<br/>64mm x 94mm x 24mm<br/>(3in x 4in x 0.94in) |
 | 1        | Raspberry PI camera         | $23.50   | [Amazon](https://amzn.to/2LgasF5)    |                                     |
-| 2        | Pololu Micro Gearbox        | $25.75   | Pololu, [Amazon](https://amzn.to/3hS4o1P) |                                     |
-| 1        | Adafruit motor control      | $29.10   | Adafruit, [Amazon](https://amzn.to/392GhZU) |                              |
+| 2        | Pololu Micro Gearbox        | $25.75   | [Amazon](https://amzn.to/3hS4o1P) | [Pololu 6V 150RPM](https://www.pololu.com/product/2368) |
+| 1        | Adafruit motor control      | $29.10   | [Amazon](https://amzn.to/392GhZU) |                              |
 | 2        | oled display                | $5       | [Amazon](https://amzn.to/3ocB3kJ) |  128x64px I2C                       |
 | 6        | Ball bearings **F686ZZ**    | $ 7.49   | [Amazon](https://amzn.to/3dIs8DJ)    |                                     |
 | -        | Expansion board             |          |           | [Expansion board](#expansion-board) |
@@ -40,9 +40,9 @@ Below the bill of Materials (BOM) from other countries
 | 1        | MicroSD card 64Gb           | €10.99   | [Amazon](https://amzn.to/39015kN)    |                                     |
 | 1        | Power Bank                  | €14.99   | [Amazon](https://amzn.to/2XbJuRm) | Dimensione massima:<br/>64mm x 94mm x 24mm<br/>(3in x 4in x 0.64in) |
 | 1        | Raspberry PI camera         | €33.81   | [Amazon](https://amzn.to/2Mxc8uo)    |                                     |
-| 2        | Pololu Micro Gearbox        | $10      | Pololu, Amazon |                                     |
-| 1        | Adafruit motor control      | $25      | Adafruit, Amazon |                              |
-| 2        | oled display                | $5       | Amazon    |                                     |
+| 2        | Pololu Micro Gearbox        | $10      | [Amazon](https://amzn.to/3tbVnp8) | [Pololu 6V 150RPM](https://www.pololu.com/product/2368) |
+| 1        | Adafruit motor control      | $25      | [Amazon](https://amzn.to/3mz3BFh) |                              |
+| 2        | oled display                | $5       | [Amazon](https://amzn.to/3d4FFWX)    | Risparmi se compri il [pacco 3 display](https://amzn.to/3g0EdXK) |
 | 6        | Ball bearings **F686ZZ**    |          | [Amazon](https://amzn.to/2Q75LiZ)    |                                     |
 | -        | Expansion board             |          |           | [Expansion board](#expansion-board) |
 | -        | 3D parts                    |          |           | [3D parts](#3d-parts)               |
@@ -58,9 +58,9 @@ Below the bill of Materials (BOM) from other countries
 | 1        | MicroSD card 64Gb           | $14      | [Amazon](https://amzn.to/3rPYqCY)    |          |
 | 1        | Power Bank                  | $14.99   | [Amazon](https://amzn.to/3rQr46R)    | Size max:<br/>64mm x 94mm x 24mm<br/>(3in x 4in x 0.94in) |
 | 1        | Raspberry PI camera         | $14      | [Amazon](https://amzn.to/2LehMAW)    |          |
-| 2        | Pololu Micro Gearbox        | $10      | Pololu, [Amazon](https://amzn.to/3ogIyXZ) |                                     |
-| 1        | Adafruit motor control      | $29.10   | Adafruit, [Amazon](https://amzn.to/3rKMiTI) |    |
-| 2        | oled display                | $5       | [Amazon](https://amzn.to/3pQBH8b)    |                                     |
+| 2        | Pololu Micro Gearbox        | $10      | [Amazon](https://amzn.to/3ogIyXZ) | [Pololu 6V 150RPM](https://www.pololu.com/product/2368) |
+| 1        | Adafruit motor control      | $29.10   | [Amazon](https://amzn.to/3rKMiTI) |    |
+| 2        | oled display                | $5       | [Amazon](https://amzn.to/3pQBH8b)    | Best price pack [3 display](https://amzn.to/2PW72K5)  |
 | 6        | Ball bearings **F686ZZ**    |          | [Amazon](https://amzn.to/3wzYiKf)    |                                     |
 | -        | Expansion board             |          |           | [Expansion board](#expansion-board) |
 | -        | 3D parts                    |          |           | [3D parts](#3d-parts)               |
