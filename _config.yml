@@ -88,6 +88,9 @@ collections:
   tutorial:
     output: true
     permalink: /:collection/:path/
+  robot:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # docs
@@ -112,6 +115,17 @@ defaults:
       read_time: true
       sidebar:
         nav: "tutorial"
+  # _robot
+  - scope:
+      path: ""
+      type: robot
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      read_time: true
+      sidebar:
+        nav: "docs"
   # _pages
   - scope:
       path: "_pages"

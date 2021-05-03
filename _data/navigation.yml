@@ -23,6 +23,8 @@ docs:
         url: /assembly/
       - title: "Install"
         url: /install/
+      - title: "Share"
+        url: /share/
   - title: Play
     children:
       - title: Start with your first tutorial

@@ -7,9 +7,7 @@ toc_icon: "cog"
 toc_sticky: true
 ---
 
-Now NanoSaur is done!
-
-You need only to setup the MicroSD card and start your robot.
+Now NanoSaur is almost done! You need only to setup the MicroSD card and start your robot.
 
 # Format Micro SD
 
