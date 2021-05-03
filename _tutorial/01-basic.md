@@ -26,7 +26,7 @@ When is done, will move forward installing the required 🦕 NanoSaur packages
 
 Like the nanosaur installation, download and run the Nanosaur script on your desktop following the line below
 
-{% capture code %}curl https://raw.githubusercontent.com/rnanosaur/nanosaur/master/nanosaur_bringup/scripts/install.sh -o nanosaur_install.sh && chmod +x nanosaur_install.sh && ./nanosaur_install.sh --desktop{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
+{% capture code %}curl https://raw.githubusercontent.com/rnanosaur/nanosaur/master/nanosaur/scripts/install.sh -o nanosaur_install.sh && chmod +x nanosaur_install.sh && ./nanosaur_install.sh --desktop{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
 
 The script install in your desktop:
  * A new **nanosaur** command
