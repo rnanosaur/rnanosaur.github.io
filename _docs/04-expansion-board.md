@@ -38,11 +38,13 @@ The list of components that you need to have are in this table below
 <table>
   {% for row in site.data.nanosaur-exp-board %}
     {% if forloop.first %}
+    <thead>
     <tr>
       {% for pair in row %}
-        <th>{{ pair[0] }}</th>
+        <th style="text-align: center">{{ pair[0] }}</th>
       {% endfor %}
     </tr>
+    </thead>
     {% endif %}
 
     {% tablerow pair in row %}

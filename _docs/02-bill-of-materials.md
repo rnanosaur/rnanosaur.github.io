@@ -39,13 +39,23 @@ NanoSaur use a short set of M2 screw, you can buy a set a set
 
 This last table is to build the expansion board to connect the NVIDIA Jetson to the motor control board and the 2 oled displays.
 
-| Quantity | Part                    | Cost | URL | Notes |
-|:--------:|-------------------------|------|-----|-------|
-| 1        | Matrix board            | $3   |     |       |
-| 1        | Flat ribbon             | $10  |     |       |
-| 1        | Switch slim             | $2   |     |       |
-| 1        | USB cable               | $3   |     |       |
-| 1        | Female jack             | $3   |     |       |
+<table>
+  {% for row in site.data.nanosaur-exp-board %}
+    {% if forloop.first %}
+    <thead>
+    <tr>
+      {% for pair in row %}
+        <th style="text-align: center">{{ pair[0] }}</th>
+      {% endfor %}
+    </tr>
+    </thead>
+    {% endif %}
+
+    {% tablerow pair in row %}
+      {{ pair[1] }}
+    {% endtablerow %}
+  {% endfor %}
+</table>
 
 To build the expansion board follow [this page](/expansion-board)
 
