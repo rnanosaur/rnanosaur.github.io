@@ -1,0 +1,10 @@
+Reference, Quantity, Value, Footprint, Datasheet
+H1 H2 H3 H4 ,4,"MountingHole","MountingHole:MountingHole_2.2mm_M2_ISO7380_Pad","~"
+J1 ,1,"jetson_nano","Connector_PinSocket_2.54mm:PinSocket_2x21_P2.54mm_Vertical",""
+J2 ,1,"Screw_Terminal_01x02","TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal","~"
+J3 ,1,"Conn_oled_right","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","~"
+J4 ,1,"Conn_oled_left","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","~"
+J5 ,1,"Conn_motors","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","~"
+J6 ,1,"Conn_01x03","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical","~"
+R1 R2 ,2,"1k","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal","~"
+SW1 ,1,"SW_SPDT","Button_Switch:slide_switch_4.7mm","~"
