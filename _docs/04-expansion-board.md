@@ -6,12 +6,12 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
 pcb_expansion_board:
-  - url: /assets/docs/expansion-board/img/nanosaur-exp-board-Board_top.svg
-    image_path: /assets/docs/expansion-board/img/nanosaur-exp-board-Board_top.svg
+  - url: /assets/docs/expansion-board/nanosaur-exp-board-Board_top.svg
+    image_path: /assets/docs/expansion-board/nanosaur-exp-board-Board_top.svg
     alt: "Flap and power bank holder orientation"
     title: "Flap and power bank holder orientation"
-  - url: /assets/docs/expansion-board/img/nanosaur-exp-board-Board_bottom.svg
-    image_path: /assets/docs/expansion-board/img/nanosaur-exp-board-Board_bottom.svg
+  - url: /assets/docs/expansion-board/nanosaur-exp-board-Board_bottom.svg
+    image_path: /assets/docs/expansion-board/nanosaur-exp-board-Board_bottom.svg
     alt: "Flap and power bank holder slicer support type tree"
     title: "Flap and power bank holder slicer support type tree"
 ---
@@ -57,7 +57,7 @@ This expansion board is a simple connector for oleds and motor controller and wo
 
 More detail are available on NanoSaur expansion board schematic.
 
-{% include figure image_path="/assets/docs/expansion-board/img/nanosaur-exp-board-Schematic.svg" alt="Nanosaur schematic expansion board" caption="NanoSaur schematic expansion board" %}
+{% include figure image_path="/assets/docs/expansion-board/nanosaur-exp-board-Schematic.svg" alt="Nanosaur schematic expansion board" caption="NanoSaur schematic expansion board" %}
 
 **:floppy_disk: Download** the NanoSaur expansion board [**schematics.pdf**](https://github.com/rnanosaur/nanosaur-exp-board/releases/latest/download/combined.pdf)
 {: .notice--success}
