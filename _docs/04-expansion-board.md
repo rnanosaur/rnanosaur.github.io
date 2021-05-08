@@ -16,46 +16,68 @@ pcb_expansion_board:
     title: "Flap and power bank holder slicer support type tree"
 ---
 
-**:construction: Page under construction** This page is under construction, will be update soon!
-{: .notice--warning}
+The expansion board is a simple adapter to connect the motor controller and the LCDs to the NVIDIA Jetson on your NanoSaur, this board connect:
 
-Before assembling NanoSaur you need to solder the expansion board to connect the NVIDIA Jetson Nano to the Adafruit motor board.
+* I2C bus 0 (Pin 27, 28)
+  * oled right
+* I2C bus 1 (Pin 3, 5)
+  * oled left
+  * adafruit motor control
+* 2 custom buttons
+  * GPIO Pin 31
+  * GPIO Pin 33
 
-You have tree ways to build the expansion board:
-1. Assembly on a matrix board the adapter
-2. Make a PCB and solder it
-3. Buy the adapter
+There are two ways to Assembly the expansion board:
+ * [PCB expansion board](#assembly-pcb) to support this project
+ * [Assembly with a matrix board](#assembly-matrix-board)
 
-If you chose the number **1.** follow this steps otherwise let's go to the [next step](/assembly).
+# Components
 
-# Layout
+The list of components that you need to have are in this table below
 
-**:floppy_disk: Download** the Nanosaur expansion board [**schematics.pdf**](https://github.com/rnanosaur/nanosaur-exp-board/releases/latest/download/combined.pdf)
+<table>
+  {% for row in site.data.nanosaur-exp-board %}
+    {% if forloop.first %}
+    <tr>
+      {% for pair in row %}
+        <th>{{ pair[0] }}</th>
+      {% endfor %}
+    </tr>
+    {% endif %}
+
+    {% tablerow pair in row %}
+      {{ pair[1] }}
+    {% endtablerow %}
+  {% endfor %}
+</table>
+
+## Schematic
+
+This expansion board is a simple connector for oleds and motor controller and works taking the power from the Power bank and power up the robot passing from a slide switch.
+
+More detail are available on NanoSaur expansion board schematic.
+
+{% include figure image_path="/assets/docs/expansion-board/img/nanosaur-exp-board-Schematic.svg" alt="Nanosaur schematic expansion board" caption="NanoSaur schematic expansion board" %}
+
+**:floppy_disk: Download** the NanoSaur expansion board [**schematics.pdf**](https://github.com/rnanosaur/nanosaur-exp-board/releases/latest/download/combined.pdf)
 {: .notice--success}
 
-The expansion board is a simple adapter to connect the motor controller and the LCDs to the NVIDIA Jetson.
+# Assembly PCB
 
-* I2C bus 0
-* I2C bus 1
-* 2 GPIO
+**:construction: This part will be updated soon.**<br/>For any issue join on [Discord](https://discord.gg/NSrC52P5mw)
+{: .notice--warning}
 
-{% include figure image_path="/assets/docs/expansion-board/img/nanosaur-exp-board-Schematic.svg" alt="Nanosaur schematic expansion board" caption="Nanosaur schematic expansion board" %}
+# Assembly matrix board
 
-# Board
+To assembly the expansion board, is simple you need only to weld the female 2x20 connector and a switch.
+
+# PCB Board
+
+The size is **20mm x 80mm** with 4 M2 mounting holes, with PCB Layout will be like the pictures below
+
+{% include gallery id="pcb_expansion_board" caption="PCB expansion board" %}
 
 **:floppy_disk: Download** the Nanosaur expansion board **STEP** file [**nanosaur-exp-board.step**](https://github.com/rnanosaur/nanosaur-exp-board/releases/latest/download/nanosaur-exp-board.step)
 {: .notice--success}
 
-The PCB Layout will be like the pictures below:
-
-{% include gallery id="pcb_expansion_board" caption="PCB expansion board" %}
-
-The size is **20mm x 80mm** with 4 M2 mounting holes
-
-## Gerbers
-
-If you want print by yourself the expansion board, you need only to download the file below
-
-# Assembly
-
-To assembly the expansion board, is simple you need only to weld the female 2x20 connector and a switch.
+If you want print by yourself the expansion board, you can download the **gerber** file from this link

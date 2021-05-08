@@ -16,6 +16,7 @@ bundle exec jekyll serve --livereload
 * https://ptc-it.de/enabling-cookie-consent-with-jekyll-minimal-mistakes/
 * https://ptc-it.de/add-favicon-to-mm-jekyll-site/
 * https://www.aleksandrhovhannisyan.com/blog/how-to-add-a-copy-to-clipboard-button-to-your-jekyll-blog/
+* Make a table from csv file https://jekyllrb.com/tutorials/csv-to-table/
 
 # Other
 * https://emojipedia.org/
