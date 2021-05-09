@@ -5,18 +5,29 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
+pcb_expansion_board_3d:
+  - url: /assets/docs/expansion-board/nanosaur-exp-board-3dtop.png
+    image_path: /assets/docs/expansion-board/nanosaur-exp-board-3dtop.png
+    alt: "Nanosaur Expansion board PCB top"
+    title: "Nanosaur Expansion board PCB top"
+  - url: /assets/docs/expansion-board/nanosaur-exp-board-3dbottom.png
+    image_path: /assets/docs/expansion-board/nanosaur-exp-board-3dbottom.png
+    alt: "Nanosaur Expansion board PCB bottom"
+    title: "Nanosaur Expansion board PCB bottom"
 pcb_expansion_board:
   - url: /assets/docs/expansion-board/nanosaur-exp-board-Board_top.svg
     image_path: /assets/docs/expansion-board/nanosaur-exp-board-Board_top.svg
-    alt: "Flap and power bank holder orientation"
-    title: "Flap and power bank holder orientation"
+    alt: "Nanosaur Expansion board PCB top"
+    title: "Nanosaur Expansion board PCB top"
   - url: /assets/docs/expansion-board/nanosaur-exp-board-Board_bottom.svg
     image_path: /assets/docs/expansion-board/nanosaur-exp-board-Board_bottom.svg
-    alt: "Flap and power bank holder slicer support type tree"
-    title: "Flap and power bank holder slicer support type tree"
+    alt: "Nanosaur Expansion board PCB bottom"
+    title: "Nanosaur Expansion board PCB bottom"
 ---
 
 The expansion boars has size **20mm x 80mm** and have four M2 mounting holes, that perfectly fit inside the [Nanosaur flap](/assembly/#flap).
+
+{% include gallery id="pcb_expansion_board_3d" caption="Nanosaur expansion board PCB" %}
 
 This board is a simple adapter to connect the motor controller and the LCDs to the NVIDIA Jetson on your NanoSaur, this board connect:
 
@@ -85,3 +96,6 @@ The size is **20mm x 80mm** with 4 M2 mounting holes, with PCB Layout will be li
 {: .notice--success}
 
 If you want print by yourself the expansion board, you can download the **gerber** file from this link
+
+**:floppy_disk: Download** the Nanosaur expansion board **gerber** file [**nanosaur-gerber.zip**](https://github.com/rnanosaur/nanosaur-exp-board/releases/latest/download/gerber.zip)
+{: .notice--success}
