@@ -16,7 +16,9 @@ pcb_expansion_board:
     title: "Flap and power bank holder slicer support type tree"
 ---
 
-The expansion board is a simple adapter to connect the motor controller and the LCDs to the NVIDIA Jetson on your NanoSaur, this board connect:
+The expansion boars has size **20mm x 80mm** and have four M2 mounting holes, that perfectly fit inside the [Nanosaur flap](/assembly/#flap).
+
+This board is a simple adapter to connect the motor controller and the LCDs to the NVIDIA Jetson on your NanoSaur, this board connect:
 
 * I2C bus 0 (Pin 27, 28)
   * oled right
@@ -59,7 +61,7 @@ This expansion board is a simple connector for oleds and motor controller and wo
 
 More detail are available on NanoSaur expansion board schematic.
 
-{% include figure image_path="/assets/docs/expansion-board/nanosaur-exp-board-Schematic.svg" alt="Nanosaur schematic expansion board" caption="NanoSaur schematic expansion board" %}
+{% include figure image_path="/assets/docs/expansion-board/Expansion board-Schematic.svg" alt="Nanosaur schematic expansion board" caption="NanoSaur schematic expansion board" %}
 
 **:floppy_disk: Download** the NanoSaur expansion board [**schematics.pdf**](https://github.com/rnanosaur/nanosaur-exp-board/releases/latest/download/combined.pdf)
 {: .notice--success}
