@@ -1,21 +1,23 @@
 <table>
-    {% for row in include.table_name %}
-      {% if forloop.first %}
-      <thead>
-      <tr>
-        {% for pair in row %}
-          {% unless pair[0] contains 'Footprint' %}{% unless pair[0] contains 'Datasheet' %}
-            <th style="text-align: center">{{ pair[0] }}</th>
-          {% endunless %}{% endunless %}
-        {% endfor %}
-      </tr>
-      </thead>
-      {% endif %}
-  
-      {% tablerow pair in row %}
+  {% for row in include.table_name %}
+    {% if forloop.first %}
+    <thead>
+    <tr>
+      {% for pair in row %}
         {% unless pair[0] contains 'Footprint' %}{% unless pair[0] contains 'Datasheet' %}
-          {{ pair[1] }}
+          <th style="text-align: center">{{ pair[0] }}</th>
         {% endunless %}{% endunless %}
-      {% endtablerow %}
+      {% endfor %}
+    </tr>
+    </thead>
+    {% endif %}
+  
+    <tr>
+    {% for pair in row %}
+      {% unless pair[0] contains 'Footprint' %}{% unless pair[0] contains 'Datasheet' %}
+        <td>{{ pair[1] }}</td>
+      {% endunless %}{% endunless %}
     {% endfor %}
-  </table>
+    </tr>
+  {% endfor %}
+</table>
