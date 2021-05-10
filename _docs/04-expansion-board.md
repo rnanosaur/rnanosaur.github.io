@@ -58,7 +58,7 @@ More detail are available on NanoSaur expansion board schematic.
 
 {% include figure image_path="/assets/docs/expansion-board/Expansion board-Schematic.svg" alt="Nanosaur schematic expansion board" caption="NanoSaur schematic expansion board" %}
 
-**:floppy_disk: Download** the NanoSaur expansion board [**schematics.pdf**](https://github.com/rnanosaur/nanosaur-exp-board/releases/latest/download/combined.pdf)
+**:floppy_disk: Download** the NanoSaur expansion board [**nanosaur-schematic.pdf**](https://github.com/rnanosaur/nanosaur-exp-board/releases/latest/download/nanosaur-schematic.pdf)
 {: .notice--success}
 
 # Assembly PCB
@@ -81,5 +81,5 @@ The size is **20mm x 80mm** with 4 M2 mounting holes, with PCB Layout will be li
 
 If you want print by yourself the expansion board, you can download the **gerber** file from this link
 
-**:floppy_disk: Download** the Nanosaur expansion board **gerber** file [**nanosaur-gerber.zip**](https://github.com/rnanosaur/nanosaur-exp-board/releases/latest/download/gerber.zip)
+**:floppy_disk: Download** the Nanosaur expansion board **gerber** file [**nanosaur-gerber.zip**](https://github.com/rnanosaur/nanosaur-exp-board/releases/latest/download/nanosaur-gerber.zip)
 {: .notice--success}
