@@ -4,6 +4,6 @@ J2 ,1,"Screw_Terminal_01x02","TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,
 J3 J4 ,2,"Conn_i2c_oled","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","~","cable 1x4 length 200mm"
 J5 ,1,"Conn_motors","Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical","~","cable 1x6 length 180mm"
 J6 ,1,"Conn_buttons","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical","~","cable 1x3 length 220mm"
-J7 ,1,"Conn_01x04","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","~","Pin Header (optional*)"
+J7 ,1,"Conn_01x04","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","~","Pin Header 1x3 (optional*)"
 R1 R2 ,2,"1k","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal","~","Resistor THT 1/4W"
 SW1 ,1,"SW_SPDT","Button_Switch:slide_switch_4.7mm","~","Slide switch P4.7mm"
