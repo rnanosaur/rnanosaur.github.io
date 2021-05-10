@@ -39,23 +39,7 @@ NanoSaur use a short set of M2 screw, you can buy a set a set
 
 This last table is to build the expansion board to connect the NVIDIA Jetson to the motor control board and the 2 oled displays.
 
-<table>
-  {% for row in site.data.nanosaur-exp-board %}
-    {% if forloop.first %}
-    <thead>
-    <tr>
-      {% for pair in row %}
-        <th style="text-align: center">{{ pair[0] }}</th>
-      {% endfor %}
-    </tr>
-    </thead>
-    {% endif %}
-
-    {% tablerow pair in row %}
-      {{ pair[1] }}
-    {% endtablerow %}
-  {% endfor %}
-</table>
+{% include kicad_bom.html table_name=site.data.nanosaur-exp-board %}
 
 To build the expansion board follow [this page](/expansion-board)
 
