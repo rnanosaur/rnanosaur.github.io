@@ -5,6 +5,11 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
+pbholder:
+  - url: /assets/docs/assembly/pbholder.png
+    image_path: /assets/docs/assembly/pbholder.png
+    alt: "Assembly magnets on Power bank holder"
+    title: "Assembly magnets on Power bank holder"
 flap:
   - url: /assets/docs/assembly/flap-01-parts.png
     image_path: /assets/docs/assembly/flap-01-parts.png
@@ -14,6 +19,24 @@ flap:
     image_path: /assets/docs/assembly/flap-02-assembly.png
     alt: "Assembly flap"
     title: "Assembly expansion board to flap"
+motors:
+  - url: /assets/docs/assembly/front-magnets.png
+    image_path: /assets/docs/assembly/front-magnets.png
+    alt: "Assembly magnets"
+    title: "Assembly magnets"
+  - url: /assets/docs/assembly/front-motors.png
+    image_path: /assets/docs/assembly/front-motors.png
+    alt: "Assembly motors front"
+    title: "Assembly motors front"
+base:
+  - url: /assets/docs/assembly/base-parts.png
+    image_path: /assets/docs/assembly/base-parts.png
+    alt: "Assembly front part"
+    title: "Assembly front part"
+  - url: /assets/docs/assembly/base-magnets.png
+    image_path: /assets/docs/assembly/base-magnets.png
+    alt: "Assembly magnets base"
+    title: "Assembly magnets base"
 wheels:
   - url: /assets/docs/assembly/sprocket-A-wheel.png
     image_path: /assets/docs/assembly/sprocket-A-wheel.png
@@ -30,37 +53,38 @@ tracks:
     title: "Assembly track left"
   - url: /assets/docs/assembly/tracks-02-right.png
     image_path: /assets/docs/assembly/tracks-02-right.png
-    alt: "Assembly track right"
-    title: "Assembly track right"
-  - url: /assets/docs/assembly/tracks-03-nuts.png
-    image_path: /assets/docs/assembly/tracks-03-nuts.png
-    alt: "Assembly track nuts"
-    title: "Assembly track nuts"
+    alt: "Assembly track right - bolts"
+    title: "Assembly track right - bolts"
+wiring:
+  - url: /assets/docs/assembly/body.png
+    image_path: /assets/docs/assembly/body.png
+    alt: "Assembly board and wiring"
+    title: "Assembly board and wiring"
 cover:
-  - url: /assets/docs/assembly/cover-01-display.png
-    image_path: /assets/docs/assembly/cover-01-display.png
+  - url: /assets/docs/assembly/cover-01-magnets.png
+    image_path: /assets/docs/assembly/cover-01-magnets.png
+    alt: "Cover assembly magnets"
+    title: "Cover Assembly magnets"
+  - url: /assets/docs/assembly/cover-02-display.png
+    image_path: /assets/docs/assembly/cover-02-display.png
     alt: "Cover assembly display"
-    title: "Assembly display"
-  - url: /assets/docs/assembly/cover-02-cam.png
-    image_path: /assets/docs/assembly/cover-02-cam.png
+    title: "Cover Assembly display"
+  - url: /assets/docs/assembly/cover-03-cam.png
+    image_path: /assets/docs/assembly/cover-03-cam.png
     alt: "Cover assembly camera"
     title: "Assembly camera"
 body-head:
-  - url: /assets/docs/assembly/body-head-A.png
-    image_path: /assets/docs/assembly/body-head-A.png
+  - url: /assets/docs/assembly/body-head.png
+    image_path: /assets/docs/assembly/body-head.png
     alt: "Assembly NanoSaur head rear view"
     title: "Assembly NanoSaur head rear view"
-  - url: /assets/docs/assembly/body-head-B.png
-    image_path: /assets/docs/assembly/body-head-B.png
-    alt: "Assembly NanoSaur head front view"
-    title: "Assembly NanoSaur head front view"
 power-bank:
-  - url: /assets/docs/assembly/NanoSaur-power-bank.png
-    image_path: /assets/docs/assembly/NanoSaur-power-bank.png
+  - url: /assets/docs/assembly/NanoSaur-01-powerbank.png
+    image_path: /assets/docs/assembly/NanoSaur-01-powerbank.png
     alt: "Assembly NanoSaur power bank"
     title: "Assembly NanoSaur power bank"
-  - url: /assets/docs/assembly/NanoSaur.png
-    image_path: /assets/docs/assembly/NanoSaur.png
+  - url: /assets/docs/assembly/NanoSaur-02-pbholder.png
+    image_path: /assets/docs/assembly/NanoSaur-02-pbholder.png
     alt: "NanoSaur done!"
     title: "NanoSaur done!"
 ---
@@ -71,7 +95,8 @@ If you are here, you are ready to mount NanoSaur!
 
 There are few steps to follow to mount NanoSaur only using the tools in list, remember to collect and buy all components listed in the [Bill of Materials](/bill-of-materials)
 
-We can split the NanoSaur assembly in three parts:
+We can split the NanoSaur assembly into four parts:
+* [Power Bank holder](#power-bank-holder)
 * [Flap](#flap)
 * [Body](#body)
 * [Head](#head)
@@ -82,6 +107,15 @@ You need only:
 | Tool               | Picture |
 |--------------------|---------|
 | Hex M2 arm wrench  | ![arm M2 wrench](/assets/docs/assembly/arm_wrench.jpg) |
+
+# Power Bank holder
+
+| Quantity | Part                |
+|:--------:|---------------------|
+| 1        | pb_holder.stl       |
+| 2        | magnet 4x2mm        |
+
+{% include gallery id="pbholder" caption="Assembly NanoSaur power bank holder" %}
 
 # Flap
 
@@ -103,7 +137,7 @@ You need only:
 | 1        | base_front.stl       |
 | 2        | Pololu Micro Gearbox |
 
-{% include figure image_path="/assets/docs/assembly/front.png" alt="NanoSaur motor block" caption="Assembly motors" %}
+{% include gallery id="motors" caption="Assembly front part" %}
 
 ## Front and rear
 
@@ -113,7 +147,7 @@ You need only:
 | 1        | base_rear.stl       |
 | 4        | Hex M2 6mm          |
 
-{% include figure image_path="/assets/docs/assembly/base.png" alt="NanoSaur assembly base" caption="Assembly base" %}
+{% include gallery id="base" caption="Assembly base" %}
 
 ## Wheels and Sprocket
 
@@ -149,7 +183,7 @@ Repeat this step twice
 | 1        | Adafruit motor control  |
 | 8        | Hex M2 4mm          |
 
-{% include figure image_path="/assets/docs/assembly/body.png" alt="NanoSaur assembly and wiring boards" caption="assembly and wiring boards" %}
+{% include gallery id="wiring" caption="assembly and wiring boards" %}
 
 # Head
 
