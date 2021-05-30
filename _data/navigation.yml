@@ -19,6 +19,8 @@ docs:
         url: /3d-print/
       - title: "Expansion board"
         url: /expansion-board/
+      - title: "Electronics"
+        url: /electronics/
       - title: "Assembly"
         url: /assembly/
       - title: "Install"
