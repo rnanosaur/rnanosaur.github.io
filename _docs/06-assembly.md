@@ -11,6 +11,10 @@ pbholder:
     alt: "Assembly magnets on Power bank holder"
     title: "Assembly magnets on Power bank holder"
 flap:
+  - url: /assets/docs/assembly/nanosaur-expansion-board.jpeg
+    image_path: /assets/docs/assembly/nanosaur-expansion-board.jpeg
+    alt: "Nanosaur Expansion board"
+    title: "Nanosaur Expansion board"
   - url: /assets/docs/assembly/flap-01-parts.png
     image_path: /assets/docs/assembly/flap-01-parts.png
     alt: "Stick flap parts"
@@ -19,6 +23,23 @@ flap:
     image_path: /assets/docs/assembly/flap-02-assembly.png
     alt: "Assembly flap"
     title: "Assembly expansion board to flap"
+  - url: /assets/docs/assembly/flap-03-assembly-cables.jpeg
+    image_path: /assets/docs/assembly/flap-03-assembly-cables.jpeg
+    alt: "Flap assembly cables"
+    title: "Flap assembly cables"
+  - url: /assets/docs/assembly/flap-04-assembly-rear.jpeg
+    image_path: /assets/docs/assembly/flap-04-assembly-rear.jpeg
+    alt: "Flap with expansion board mounted"
+    title: "Flap with expansion board mounted"
+  - url: /assets/docs/assembly/flap-05-usb-connector.jpeg
+    image_path: /assets/docs/assembly/flap-05-usb-connector.jpeg
+    alt: "USB connector for flap"
+    title: "USB connector for flap"
+flap-wiring:
+  - url: /assets/docs/assembly/flap-06-assembly-usb.jpeg
+    image_path: /assets/docs/assembly/flap-06-assembly-usb.jpeg
+    alt: "USB connector assembled on the expansion board"
+    title: "USB connector assembled on the expansion board"
 motors:
   - url: /assets/docs/assembly/front-magnets.png
     image_path: /assets/docs/assembly/front-magnets.png
@@ -28,6 +49,10 @@ motors:
     image_path: /assets/docs/assembly/front-motors.png
     alt: "Assembly motors front"
     title: "Assembly motors front"
+  - url: /assets/docs/assembly/front-mount.jpg
+    image_path: /assets/docs/assembly/front-mount.jpg
+    alt: "Final Nanosaur front look"
+    title: "Final Nanosaur front look "
 base:
   - url: /assets/docs/assembly/base-parts.png
     image_path: /assets/docs/assembly/base-parts.png
@@ -125,7 +150,7 @@ You need only:
 | 2        | [sprocket.stl](/3d-print/#wheels-and-sprockets) |
 | 6        | Ball bearings F686ZZ |
 
-Repeat this step twice
+The two wheels and the two sprockets are simple to assembly. Pick it up the wheels and assembly all ball bearings following the pictures below.
 
 {% include gallery id="wheels" caption="Assembly wheels" %}
 
@@ -139,11 +164,22 @@ Repeat this step twice
 | 1        | USB cable           |
 | 4        | Hex M2 10mm         |
 
-To assembly the 
+To assembly the flap, is relative simple, follow the pictures below, you need in the beginning soldering the [Expansion board](/expansion-board), when is done, you should follow these simple steps:
+
+1. mount the flap covers on the nanosaur expansion board
+2. Screwing the 4 screw and stable fix the cover on the expansion board
+3. Pick your USB cable and pass it on the cover hole
+4. Screw the cables on the connector (Hint: the positive is external. There is a little **(+)** draw on the expansion board)
 
 {% include gallery id="flap" caption="Assembly nanosaur flap" %}
 
+When the flap is fully mounted you will obtain something like the picture below
+
+{% include gallery id="flap-wiring" caption="Nanosaur flap assembled" %}
+
 # Body
+
+Now we are assembly the robot. We are ready to see finally Nanosaur riding on your desktop. These steps are simple to do and don't need a lot of time to do it.
 
 ## Motors block
 

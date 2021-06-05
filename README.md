@@ -7,8 +7,15 @@ To open the website go to:
 
 ```
 bundle
-bundle exec jekyll serve --livereload
+bundle exec jekyll serve --incremental --livereload
 ```
+
+## Install Ruby
+
+https://gorails.com/setup/ubuntu/20.04#ruby-rbenv
+* Using rbenv
+* version 2.7.3
+
 ### Theme reference
 
 * https://mmistakes.github.io/minimal-mistakes/
