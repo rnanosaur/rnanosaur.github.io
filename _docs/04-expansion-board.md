@@ -23,6 +23,11 @@ pcb_expansion_board:
     image_path: /assets/docs/expansion-board/nanosaur-exp-board-Board_bottom.svg
     alt: "Nanosaur Expansion board PCB bottom"
     title: "Nanosaur Expansion board PCB bottom"
+wiring:
+  - url: /assets/docs/expansion-board/nanosaur-expansion-board.jpeg
+    image_path: /assets/docs/expansion-board/nanosaur-expansion-board.jpeg
+    alt: "Nanosaur Expansion board"
+    title: "Nanosaur Expansion board"
 ---
 
 The expansion boars has size **20mm x 80mm** and have four M2 mounting holes, that perfectly fit inside the [Nanosaur flap](/assembly/#flap).
@@ -63,12 +68,18 @@ More detail are available on NanoSaur expansion board schematic.
 
 # Assembly PCB
 
-**:construction: This part will be updated soon.**<br/>For any issue join on [Discord](https://discord.gg/NSrC52P5mw)
-{: .notice--warning}
+To assembly the PCB, is simple, you need only a solder and some cables
+
+## Wiring the PCB
+
+{% include gallery id="wiring" caption="Nanosaur expansion board" %}
 
 # Assembly matrix board
 
 To assembly the expansion board, is simple you need only to weld the female 2x20 connector and a switch.
+
+**:construction: This part will be updated soon.**<br/>For any issue join on [Discord](https://discord.gg/NSrC52P5mw)
+{: .notice--warning}
 
 # PCB Board
 

@@ -162,5 +162,6 @@ I suggest orienting the STL following this picture and setup with:
 * **Print speed**: 30mm/s
 * **Infill**: 10%
 * **Supports**: Disable
+* **retraction**: Disable
 
 {% include figure image_path="/assets/docs/3d-print/track_print.png" alt="track_print.stl slicer" caption="track_print.stl slicer" %}

@@ -13,7 +13,7 @@ Now NanoSaur is almost done! You need only to setup the MicroSD card and start y
 
 Go on [NVIDIA Jetpack](https://developer.nvidia.com/embedded/Jetpack) webpage and download the latest **SD Card Image** for your NVIDIA Jetson.
 
-**WARNING** Please download the right version for your NVIDIA Jetson 2Gb or 4Gb
+**:warning: WARNING** Please download the right version for your NVIDIA Jetson 2Gb or 4Gb
 {: .notice--warning}
 
 1. Download the last [NVIDIA Jetpack](https://developer.nvidia.com/embedded/Jetpack)

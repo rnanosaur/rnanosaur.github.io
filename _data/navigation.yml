@@ -39,6 +39,8 @@ docs:
     children:
       - title: "BOM countries"
         url: /extra/bom-countries
+      - title: "Assembly without magnets"
+        url: /extra/screw-assembly
       - title: "WiFi configuration"
         url: /extra/wifi
 
