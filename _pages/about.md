@@ -17,3 +17,12 @@ It's little robot for :robot: robotics & :brain: AI education.
 * **Oct 2020** - First CAD
 * **Dec 2020** - First hardware release
 * **Jan 2021** - Initial ROS2 drivers
+
+# License
+
+This open-source project is under license:
+
+* **Design and project** - [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+* **All PCB boards** - [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+* **Website** - [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+* **Source Code** - [MIT License](https://github.com/rnanosaur/nanosaur/blob/master/LICENSE)

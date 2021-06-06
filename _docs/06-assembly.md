@@ -31,8 +31,8 @@ flap:
     image_path: /assets/docs/assembly/flap-04-assembly-rear.jpg
     alt: "Flap with expansion board mounted"
     title: "Flap with expansion board mounted"
-  - url: /assets/docs/assembly/flap-05-usb-connector.jpg
-    image_path: /assets/docs/assembly/flap-05-usb-connector.jpg
+  - url: /assets/docs/expansion-board/usb-connector.jpg
+    image_path: /assets/docs/expansion-board/usb-connector.jpg
     alt: "USB connector for flap"
     title: "USB connector for flap"
 flap-wiring:
@@ -45,8 +45,8 @@ motors:
     image_path: /assets/docs/assembly/front-magnets.png
     alt: "Assembly magnets"
     title: "Assembly magnets"
-  - url: /assets/docs/assembly/front-motor.jpg
-    image_path: /assets/docs/assembly/front-motor.jpg
+  - url: /assets/docs/electronics/front-motor.jpg
+    image_path: /assets/docs/electronics/front-motor.jpg
     alt: "Motor with cable"
     title: "Motor with cable"
   - url: /assets/docs/assembly/front-motors-assembly.png

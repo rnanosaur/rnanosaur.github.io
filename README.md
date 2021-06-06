@@ -6,7 +6,6 @@ To open the website go to:
 ## Run locally
 
 ```
-bundle
 bundle exec jekyll serve --incremental --livereload
 ```
 
@@ -15,6 +14,10 @@ bundle exec jekyll serve --incremental --livereload
 https://gorails.com/setup/ubuntu/20.04#ruby-rbenv
 * Using rbenv
 * version 2.7.3
+
+```
+bundle
+```
 
 ### Theme reference
 
