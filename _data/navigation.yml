@@ -31,10 +31,6 @@ docs:
     children:
       - title: Start with your first tutorial
         url: /tutorial/
-  - title: Customize
-    children:
-      - title: "Chassis"
-        url: /chassis/
   - title: Extra
     children:
       - title: "BOM countries"

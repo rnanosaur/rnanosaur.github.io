@@ -198,9 +198,10 @@ We can split the nanosaur assembly into four parts:
 After mounts these three parts you can complete the nanosaur assembly.
 You need only:
 
-| Tool               | Picture                                                |
-|--------------------|--------------------------------------------------------|
-| Hex M2 arm wrench  | ![arm M2 wrench](/assets/docs/assembly/arm_wrench.jpg) |
+| Tool                       | Picture                                                           |
+|----------------------------|-------------------------------------------------------------------|
+| Hex M2 arm wrench          | ![arm M2 wrench](/assets/docs/assembly/arm_wrench.png)            |
+| Screwdriver slotted small  | ![screwdriver_small](/assets/docs/assembly/screwdriver_small.png) |
 
 # Power Bank holder
 

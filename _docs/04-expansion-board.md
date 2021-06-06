@@ -24,11 +24,14 @@ pcb_expansion_board:
     alt: "Nanosaur Expansion board PCB bottom"
     title: "Nanosaur Expansion board PCB bottom"
 wiring:
-  - url: /assets/docs/expansion-board/nanosaur-expansion-board.jpeg
-    image_path: /assets/docs/expansion-board/nanosaur-expansion-board.jpeg
+  - url: /assets/docs/expansion-board/nanosaur-expansion-board.jpg
+    image_path: /assets/docs/expansion-board/nanosaur-expansion-board.jpg
     alt: "Nanosaur Expansion board"
     title: "Nanosaur Expansion board"
 ---
+
+If you want buy the Nanosaur expansion board or you want support this project, please consider to watch the PCB project.
+<a href="https://www.pcbway.com/project/shareproject/Nanosaur___The_smallest_NVIDIA_Jetson_dinosaur_robot.html"><img src="https://www.pcbway.com/project/img/images/frompcbway.png" alt="PCB from PCBWay" /></a>
 
 The expansion boars has size **20mm x 80mm** and have four M2 mounting holes, that perfectly fit inside the [Nanosaur flap](/assembly/#flap).
 
@@ -46,7 +49,7 @@ This board is a simple adapter to connect the motor controller and the LCDs to t
   * GPIO Pin 33
 
 There are two ways to Assembly the expansion board:
- * [PCB expansion board](#assembly-pcb) to support this project
+ * [Nanosaur PCBs on PCBWay](#how-make-nanosaur-pcbs-on-pcbway) to support this project 
  * [Assembly with a matrix board](#assembly-matrix-board)
 
 # Components
@@ -65,6 +68,13 @@ More detail are available on NanoSaur expansion board schematic.
 
 **:floppy_disk: Download** the NanoSaur expansion board [**nanosaur-schematic.pdf**](https://github.com/rnanosaur/nanosaur-exp-board/releases/latest/download/nanosaur-schematic.pdf)
 {: .notice--success}
+
+# How make Nanosaur PCBs on PCBWay
+
+- Register to PCBWay using [my refferer link](https://www.pcbway.com/setinvite.aspx?inviteid=472567)
+- Upon you registered, go to the <a href="https://www.pcbway.com/project/shareproject/Nanosaur___The_smallest_NVIDIA_Jetson_dinosaur_robot.html">nanosaur <img src="https://www.pcbway.com/project/img/images/frompcbway.png" alt="PCB from PCBWay" /></a>
+- Click on **"Add to Cart"** button on the right
+- A pop-up will show up: all default settings are good. You must only select how many PCBs you want: the minimum quantity, by default, is 5. The first order of 5 PCBs is free on PCBWay: you must pay only the shipping costs
 
 # Assembly PCB
 
