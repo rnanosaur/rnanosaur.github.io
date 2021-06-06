@@ -1,5 +1,9 @@
 # :sauropod: nanosaur.ai
 
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
 To open the website go to:
 [https://nanosaur.ai](https://nanosaur.ai)
 
@@ -32,3 +36,7 @@ bundle
 * https://emojipedia.org/
 * https://realfavicongenerator.net/
 * https://docs.github.com/en/free-pro-team@latest/github/managing-files-in-a-repository/3d-file-viewer
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
