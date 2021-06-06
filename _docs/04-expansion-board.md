@@ -197,8 +197,8 @@ To wire the expansion board follow the picture below, where:
 
 | Plug | Name                    | Note                                   |
 |:----:|-------------------------|----------------------------------------|
-| J3   | Conn_i2c_oled **right** | **Black** wire on squared hole (pin 1) |
-| J4   | Conn_i2c_oled **left**  | **Black** wire on squared hole (pin 1) |
+| J3   | Conn_i2c_oled **right** | **Violet** wire on squared hole (pin 1) |
+| J4   | Conn_i2c_oled **left**  | **Violet** wire on squared hole (pin 1) |
 | J5   | Conn_motors             | **Brown** wire on squared hole (pin 1) |
 
 {% include figure image_path="/assets/docs/expansion-board/nanosaur-exp-board-wires-02.jpg" alt="Soldering wires on nanosaur expansion board" caption="Soldering wires on nanosaur expansion board" %}
