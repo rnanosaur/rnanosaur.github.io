@@ -1,6 +1,8 @@
 ---
 title: "3D print"
 permalink: /3d-print/
+header:
+  teaser: /assets/docs/3d-print/base_rear.png
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"

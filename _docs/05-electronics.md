@@ -1,6 +1,8 @@
 ---
 title: "Electronics"
 permalink: /electronics/
+header:
+  teaser: /assets/docs/electronics/adafruit-pinout.png
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"

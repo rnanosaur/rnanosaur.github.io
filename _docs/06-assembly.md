@@ -1,6 +1,8 @@
 ---
 title: "Assembly"
 permalink: /assembly/
+header:
+  teaser: /assets/docs/assembly/nanosaur-explode.png
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
