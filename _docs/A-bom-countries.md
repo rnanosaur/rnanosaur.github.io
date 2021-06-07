@@ -26,6 +26,7 @@ Below the bill of Materials (BOM) from other countries
 | 1        | Adafruit motor control      | $29.10   | [Amazon](https://amzn.to/392GhZU) | [DC Motor + Stepper FeatherWing Add-on](https://www.adafruit.com/product/2927) |
 | 2        | oled display                | $5       | [Amazon](https://amzn.to/3ocB3kJ) | 128x64px 0.06 inch - I2C<br/>Best price pack [3 display](https://amzn.to/3d6Qgkv)  |
 | 6        | Ball bearings **F686ZZ**    | $ 7.49   | [Amazon](https://amzn.to/3dIs8DJ)    |                                     |
+| 10       | Magnets 4x2mm              | $ 10.99   | [Amazon](https://amzn.to/3pwnnTp)    | 200Pcs box                          |
 | -        | Expansion board             |          |           | [Expansion board](#expansion-board) |
 | -        | 3D parts                    |          |           | [3D parts](#3d-parts)               |
 | -        | Hex M2 Screw set            | $10*     | Amazon    | [Screw set](#screw-set)             |
