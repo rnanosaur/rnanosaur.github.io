@@ -21,15 +21,10 @@ motor-control:
     alt: "Mount I2C connectors"
     title: "Mount I2C connectors"
 motor-wiring-steps:
-  - url: /assets/docs/electronics/motor-parts.jpg
-    image_path: /assets/docs/electronics/motor-parts.jpg
-    alt: "Motor and cable"
-    title: "Motor and cable"
   - url: /assets/docs/electronics/motor-plus.jpg
     image_path: /assets/docs/electronics/motor-plus.jpg
     alt: "Motor detail (+) symbol"
     title: "Motor detail (+) symbol"
-motor-wiring:
   - url: /assets/docs/electronics/front-motor.jpg
     image_path: /assets/docs/electronics/front-motor.jpg
     alt: "Motor with cable"
@@ -61,11 +56,9 @@ To soldering the motors you need to pay attention to the **(+)** symbol on the r
 | +      | red     | 90mm    |
 |        | brown   | 90mm    |
 
+The motor will look like the last picture in this gallery
+
 {% include gallery id="motor-wiring-steps" caption="Motor wiring steps" %}
-
-The motor will look like this picture:
-
-{% include gallery id="motor-wiring" caption="Motor assembled" %}
 
 # Nanosaur wiring
 
