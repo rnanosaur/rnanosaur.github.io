@@ -29,6 +29,9 @@ flaps_pb_holder:
 
 If you are here you want 3D print NanoSaur, it's simple, but long.
 
+The **Nanosaur design** is under license [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+{: .notice}
+
 I use [Cura slicer](https://ultimaker.com/software/ultimaker-cura), but all other slicer works fine. 
 Following this guideline the total time to print NanoSaur will be:
 
@@ -167,3 +170,11 @@ I suggest orienting the STL following this picture and setup with:
 * **retraction**: Disable
 
 {% include figure image_path="/assets/docs/3d-print/track_print.png" alt="track_print.stl slicer" caption="track_print.stl slicer" %}
+
+# LICENSE
+
+The **Nanosaur design** is under license [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg

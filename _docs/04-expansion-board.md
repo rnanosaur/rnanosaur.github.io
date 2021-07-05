@@ -87,6 +87,9 @@ usb-connector-complete:
 If you want buy the Nanosaur expansion board or you want support this project, please consider to watch the PCB project.
 <a href="https://www.pcbway.com/project/shareproject/Nanosaur___The_smallest_NVIDIA_Jetson_dinosaur_robot.html"><img src="https://www.pcbway.com/project/img/images/frompcbway.png" alt="PCB from PCBWay" /></a>
 
+The **Nanosaur Expansion-board** is under license [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+{: .notice}
+
 The expansion boars has size **20mm x 80mm** and have four M2 mounting holes, that perfectly fit inside the [Nanosaur flap](/assembly/#flap).
 
 {% include gallery id="pcb_expansion_board_3d" caption="Nanosaur expansion board PCB" %}
@@ -236,6 +239,9 @@ Add an heat shrink to insulate the wires and the connector will look like the pi
 
 # PCB Board
 
+The **Nanosaur Expansion-board** is under license [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+{: .notice}
+
 The size is **20mm x 80mm** with 4 M2 mounting holes, with PCB Layout will be like the pictures below
 
 {% include gallery id="pcb_expansion_board" caption="PCB expansion board" %}
@@ -247,3 +253,11 @@ If you want print by yourself the expansion board, you can download the **gerber
 
 **:floppy_disk: Download** the Nanosaur expansion board **gerber** file [**nanosaur-gerber.zip**](https://github.com/rnanosaur/nanosaur-exp-board/releases/latest/download/nanosaur-gerber.zip)
 {: .notice--success}
+
+# LICENSE
+
+The **Nanosaur Expansion-board** is under license [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
