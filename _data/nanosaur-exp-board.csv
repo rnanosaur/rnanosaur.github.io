@@ -1,9 +1,9 @@
 Reference, Quantity, Value, Footprint, Datasheet, Component
 J1 ,1,"jetson_nano","Connector_PinSocket_2.54mm:PinSocket_2x20_P2.54mm_Vertical","~","PinHeader 2x20 - P2.54mm"
 J2 ,1,"Screw_Terminal_01x02","TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal","~","Terminal block 1x02 - 2.54mm"
-J3 J4 ,2,"Conn_i2c_oled","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","~","cable 1x4 length 200mm"
-J5 ,1,"Conn_motors","Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical","~","cable 1x6 length 180mm"
-J6 ,1,"Conn_buttons","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical","~","cable 1x3 length 220mm"
+J3 J4 ,2,"Conn_i2c_oled","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","~","cable 1x4 length 300mm"
+J5 ,1,"Conn_motors","Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical","~","cable 1x6 length 210mm"
+J6 ,1,"Conn_buttons","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical","~","cable 1x3 length 300mm"
 J7 ,1,"Conn_01x04","Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical","~","Pin Header 1x3 (optional*)"
-R1 R2 ,2,"1k","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal","~","Resistor THT 1/4W"
+R1 R2 ,2,"1k","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","~","Resistor THT 1/4W"
 SW1 ,1,"SW_SPDT","Button_Switch:slide_switch_4.7mm","~","Slide switch P4.7mm"
