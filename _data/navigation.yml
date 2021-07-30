@@ -31,6 +31,10 @@ docs:
     children:
       - title: Start with your first tutorial
         url: /tutorial/
+  - title: Wiki
+    children:
+      - title: Technical documentation
+        url: https://github.com/rnanosaur/nanosaur/wiki
   - title: Extra
     children:
       - title: "BOM countries"
