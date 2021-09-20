@@ -230,7 +230,7 @@ Stick the magnets is optional, if you want only screw the power bank holder, ski
 **:bulb: Hint** If you are building with ball bearings with size *ID 1/4in x OD 1/2in* remember to print the equivalent sprocket and wheel
 {: .notice--info}
 
-The two wheels and the two sprockets are simple to assembly. Pick it up the wheels and assembly all ball bearings following the pictures below.
+The two wheels and the two sprockets are simple to assemble. Pick it up the wheels and assembly all ball bearings following the pictures below.
 
 {% include gallery id="wheels" caption="Assembly wheels" %}
 
