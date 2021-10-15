@@ -1,10 +1,10 @@
 main:
+  - title: "🦕 About"
+    url: /about/
   - title: ":wrench: Make"
     url: /quick-start/
   - title: ":school_satchel: Play"
     url: /tutorial/
-  - title: ":notebook: About"
-    url: /about/
 #  - title: ":shopping_cart: Buy"
 #    url: /buy/
   - title: ":robot: Community"
