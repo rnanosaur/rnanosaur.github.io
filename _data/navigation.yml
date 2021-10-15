@@ -5,8 +5,10 @@ main:
     url: /tutorial/
   - title: ":notebook: About"
     url: /about/
-  - title: ":shopping_cart: Buy"
-    url: /buy/
+#  - title: ":shopping_cart: Buy"
+#    url: /buy/
+  - title: ":robot: Community"
+    url: /robot/
 
 docs:
   - title: Getting Started
@@ -45,6 +47,8 @@ docs:
         url: /extra/screw-assembly
       - title: "WiFi configuration"
         url: /extra/wifi
+      - title: "Joystick"
+        url: /extra/joystick
 
 tutorial:
   - title: Basic
