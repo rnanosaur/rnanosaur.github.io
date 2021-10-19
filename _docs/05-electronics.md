@@ -62,7 +62,7 @@ The motor will look like the last picture in this gallery
 
 # Nanosaur wiring
 
-The nanosaur expansion board connect the NVIDIA Jetson Nano to the Adafruit [DC Motor + Stepper FeatherWing Add-on](https://www.adafruit.com/product/2927) and two oled I2C Display 128x64px 0.06 inch. Following this bullet list
+The nanosaur expansion board connect the NVIDIA Jetson Nano to the Adafruit [DC Motor + Stepper FeatherWing Add-on](https://www.adafruit.com/product/2927) and two oled I2C Display 128x64px 0.96 inch. Following this bullet list
 
 * I2C bus 0 (Pin 27, 28)
   * oled right
