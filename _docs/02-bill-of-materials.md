@@ -22,7 +22,7 @@ If you are buying form other countries follow this list
 
 ## Screw set
 
-NanoSaur use a short set of M2 screw, you can buy a set a set 
+NanoSaur use a short set of M2 screw, you can buy a set 
 
 | Quantity | Part                        | Notes |
 |:--------:|-----------------------------|-------|
