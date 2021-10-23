@@ -15,24 +15,24 @@ docs:
     children:
       - title: "Quick-Start Guide"
         url: /quick-start/
-      - title: "Bill of Materials"
+      - title: "1. Bill of Materials"
         url: /bill-of-materials/
-      - title: "3D print"
+      - title: "2. 3D print"
         url: /3d-print/
-      - title: "Expansion board"
+      - title: "3. Expansion board"
         url: /expansion-board/
-      - title: "Electronics"
+      - title: "4. Electronics"
         url: /electronics/
-      - title: "Assembly"
+      - title: "5. Assembly"
         url: /assembly/
-      - title: "Install"
+      - title: "6. Install"
         url: /install/
-      - title: "Share"
-        url: /share/
   - title: Play
     children:
-      - title: Start with your first tutorial
-        url: /tutorial/
+      - title: "Joystick drive"
+        url: /tutorial/joystick
+      - title: "Install desktop"
+        url: /tutorial/desktop
   - title: Wiki
     children:
       - title: Technical documentation
@@ -47,15 +47,21 @@ docs:
         url: /extra/screw-assembly
       - title: "WiFi configuration"
         url: /extra/wifi
-      - title: "Joystick"
-        url: /extra/joystick
 
 tutorial:
-  - title: Basic
+  - title: Tutorials
     children:
-      - title: "Hello NanoSaur"
-        url: /tutorial/basic
-  - title: Advanced
+      - title: "Joystick drive"
+        url: /tutorial/joystick
+      - title: "Install desktop"
+        url: /tutorial/desktop
+  - title: Wiki
     children:
-      - title: "ROS2 connection"
-        url: /tutorial/advanced
+      - title: Technical documentation
+        url: https://github.com/rnanosaur/nanosaur/wiki
+  - title: Menu
+    children:
+      - title: "About"
+        url: /about
+      - title: "Make"
+        url: /quick-start/

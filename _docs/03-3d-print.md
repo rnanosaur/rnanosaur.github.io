@@ -27,13 +27,13 @@ flaps_pb_holder:
     title: "Flap and power bank holder slicer support type tree"
 ---
 
-If you are here you want 3D print NanoSaur, it's simple, but long.
+If you are here you want 3D print nanosaur, it's simple, but long.
 
 The **Nanosaur design** is under license [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 {: .notice}
 
 I use [Cura slicer](https://ultimaker.com/software/ultimaker-cura), but all other slicer works fine. 
-Following this guideline the total time to print NanoSaur will be:
+Following this guideline the total time to print nanosaur will be:
 
 | Parts | Time |
 |-------|------|
@@ -154,7 +154,7 @@ I suggest orienting the STL following this picture and setup with:
 
 # Print tracks
 
-The NanoSaur tracks are the hardest to print. You need a good 3D printer, better if your printer is direct drive. Otherwise I suggest to use a Ninjatek TPU, sufficient elastic to make these tracks.
+The nanosaur tracks are the hardest to print. You need a good 3D printer, better if your printer is direct drive. Otherwise I suggest to use a Ninjatek TPU, sufficient elastic to make these tracks.
 
 The average time will be: **1h** and **30min** for each track
 

@@ -4,6 +4,9 @@ permalink: /tutorial/
 collection: tutorial
 entries_layout: grid
 classes: wide
+author_profile: false
+sidebar:
+  nav: "tutorial"
 ---
 
 Did you follow these steps?

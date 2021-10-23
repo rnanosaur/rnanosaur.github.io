@@ -7,13 +7,13 @@ toc_icon: "cog"
 toc_sticky: true
 ---
 
-If you want make your NanoSaur, it's simple and you can make directly at home, you only need few tools and print some parts to buy.
+If you want make your nanosaur, it's simple and you can make directly at home, you only need few tools and print some parts to buy.
 
 If you don't want print or you don't have a 3D printer you can buy all parts you need, simple going on the [buy](/buy) page.
 
 # BOM
 
-This table is your necessary needed to make NanoSaur. Few parts, starting from the NVIDIA Jetson, the PI camera, motors and the motor control.
+This table is your necessary needed to make nanosaur. Few parts, starting from the NVIDIA Jetson, the PI camera, motors and the motor control.
 
 If you are buying form other countries follow this list
 * [:us: USA](/extra/bom-countries#us-usa)
@@ -22,7 +22,7 @@ If you are buying form other countries follow this list
 
 ## Screw set
 
-NanoSaur use a short set of M2 screw, you can buy a set 
+nanosaur use a short set of M2 screw, you can buy a set 
 
 | Quantity | Part                        | Notes |
 |:--------:|-----------------------------|-------|
@@ -42,7 +42,7 @@ To build the expansion board follow [this page](/expansion-board)
 
 ## 3D parts
 
-If you want print NanoSaur, you should buy these spool. I suggest the Ninjatek TPU if you use a bowden 3D printer. Otherwise you can use other type of TPU.
+If you want print nanosaur, you should buy these spool. I suggest the Ninjatek TPU if you use a bowden 3D printer. Otherwise you can use other type of TPU.
 
 | Quantity | Part                | Cost | URL | Notes |
 |:--------:|---------------------|------|-----|-------|
@@ -84,5 +84,5 @@ Below the list of all parts, the time required for each part and the color sugge
 | 2        | wheel.stl       | PLA green/black | 1h    |       |
 | 2        | track_print.stl | TPU black/grey  | 1:30h | **Print speed**: 30mm/s |
 
-You can reduce the time to print your NanoSaur, printing some part together. For more details go to the [next page](/3d-print) of this guide to setup and print with your 3D printer.
+You can reduce the time to print your nanosaur, printing some part together. For more details go to the [next page](/3d-print) of this guide to setup and print with your 3D printer.
 

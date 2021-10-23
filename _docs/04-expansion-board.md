@@ -94,7 +94,7 @@ The expansion boars has size **20mm x 80mm** and have four M2 mounting holes, th
 
 {% include gallery id="pcb_expansion_board_3d" caption="Nanosaur expansion board PCB" %}
 
-This board is a simple adapter to connect the motor controller and the LCDs to the NVIDIA Jetson on your NanoSaur, this board connect:
+This board is a simple adapter to connect the motor controller and the LCDs to the NVIDIA Jetson on your nanosaur, this board connect:
 
 * I2C bus 0 (Pin 27, 28)
   * oled right
@@ -141,11 +141,11 @@ All components are collected on picture below.
 
 This expansion board is a simple connector for oleds and motor controller and works taking the power from the Power bank and power up the robot passing from a slide switch.
 
-More detail are available on NanoSaur expansion board schematic.
+More detail are available on nanosaur expansion board schematic.
 
-{% include figure image_path="/assets/docs/expansion-board/Expansion board-Schematic.svg" alt="Nanosaur schematic expansion board" caption="NanoSaur schematic expansion board" %}
+{% include figure image_path="/assets/docs/expansion-board/Expansion board-Schematic.svg" alt="Nanosaur schematic expansion board" caption="nanosaur schematic expansion board" %}
 
-**:floppy_disk: Download** the NanoSaur expansion board [**nanosaur-schematic.pdf**](https://github.com/rnanosaur/nanosaur-exp-board/releases/latest/download/nanosaur-schematic.pdf)
+**:floppy_disk: Download** the nanosaur expansion board [**nanosaur-schematic.pdf**](https://github.com/rnanosaur/nanosaur-exp-board/releases/latest/download/nanosaur-schematic.pdf)
 {: .notice--success}
 
 # Assembly PCB

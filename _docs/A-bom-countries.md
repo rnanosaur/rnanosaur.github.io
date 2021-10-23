@@ -31,15 +31,16 @@ Below the bill of Materials (BOM) from other countries
 | -        | 3D parts                    |          |           | [3D parts](#3d-parts)               |
 | -        | Hex M2 Screw set            | $10*     | Amazon    | [Screw set](#screw-set)             |
 
-(*) NanoSaur works with the NVIDIA Jetson Nano 2Gb or an NVIDIA Jetson Nano 4Gb
+(*) nanosaur works with the NVIDIA Jetson Nano 2Gb or an NVIDIA Jetson Nano 4Gb
 
 ## :it: Italy
+
 
 | Quantity | Part                        | Cost     | URL       | Notes                               |
 |:--------:|-----------------------------|:--------:|-----------|-------------------------------------|
 | 1        | NVIDIA Jetson Nano 2Gb*     | $59-$99  | [NVIDIA](https://developer.nvidia.com/embedded/buy/jetson-nano-devkit)|  |
 | 1        | MicroSD card 64Gb           | €10.99   | [Amazon](https://amzn.to/39015kN) |                                     |
-| 1        | Power Bank                  | €14.99   | [Amazon](https://amzn.to/2XbJuRm) | Dimensione massima:<br/>64mm x 94mm x 24mm<br/>(3in x 4in x 0.64in) |
+| 1        | Power Bank                  | €25.99   | [Amazon](https://amzn.to/3GpERJ8) | Dimensione massima:<br/>64mm x 94mm x 24mm<br/>(3in x 4in x 0.64in) |
 | 1        | Raspberry PI camera         | €33.81   | [Amazon](https://amzn.to/2Mxc8uo) |                                     |
 | 2        | Pololu Micro Gearbox        | $10      | [Amazon](https://amzn.to/3tbVnp8) | [Pololu 6V 150RPM](https://www.pololu.com/product/2368) |
 | 1        | Adafruit motor control      | $25      | [Amazon](https://amzn.to/3mz3BFh) | [DC Motor + Stepper FeatherWing Add-on](https://www.adafruit.com/product/2927) |
@@ -49,7 +50,7 @@ Below the bill of Materials (BOM) from other countries
 | -        | 3D parts                    |          |           | [3D parts](#3d-parts)               |
 | -        | Hex M2 Screw set            |          | Amazon    | [Screw set](#screw-set)             |
 
-(*) NanoSaur works with the NVIDIA Jetson Nano 2Gb or an NVIDIA Jetson Nano 4Gb
+(*) nanosaur works with the NVIDIA Jetson Nano 2Gb or an NVIDIA Jetson Nano 4Gb
 
 ## :uk: United Kingdom
 
@@ -67,7 +68,7 @@ Below the bill of Materials (BOM) from other countries
 | -        | 3D parts                    |          |           | [3D parts](#3d-parts)               |
 | -        | Hex M2 Screw set            |          | Amazon    | [Screw set](#screw-set)             |
 
-(*) NanoSaur works with the NVIDIA Jetson Nano 2Gb or an NVIDIA Jetson Nano 4Gb
+(*) nanosaur works with the NVIDIA Jetson Nano 2Gb or an NVIDIA Jetson Nano 4Gb
 # Substitution components
 
 | Quantity | Part                        | Cost     | URL       | Notes                               |
