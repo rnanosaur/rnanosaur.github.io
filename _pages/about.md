@@ -1,5 +1,5 @@
 ---
-title: "🦕 nanosaur"
+title: "nanosaur"
 permalink: /about/
 classes: wide
 ---
@@ -14,14 +14,17 @@ nanosaur is a simple open-source robot based on [NVIDIA Jetson](https://develope
 
 # Specifications
 
-Below some technical information about 
+Below some technical information about nanosaur
 
-|            | Data        | Description |
-|------------|-------------|-------------|
-| **Size**   | 10x12x6cm   | Maximum size robot |
-| **Weight** | 500g        | nanosaur weight |
-| **Speed**  | ----        | TBD |
-| **ROS**    | ROS2        | nanosaur is designed only for ROS2 |
+| Specifications       | Value       |
+|----------------------|-------------|
+| **Robot dimensions** | 10x12x6cm   |
+| **Weight**           | 500g        |
+| **Driver type**      | 2-track drive |
+| **Top speed**        | ----        |
+| **Max power**        | 4W Jetson + 1.5W motors |
+| **Battery type**     | Power bank with PD min 3W |
+| **Software**         | ROS2 in Docker |
 
 # License
 
