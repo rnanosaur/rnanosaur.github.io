@@ -37,7 +37,7 @@ feature_row:
     btn_label: ":star: Star and fork!"
     btn_class: "btn--primary"
 footer: 
-  - excerpt: '🦕 **nanosaur** is proudly part of :pizza: [pizzarobotics](https.//pizzarobotics.org) community'
+  - excerpt: '🦕 **nanosaur** is proudly part of :pizza: [pizzarobotics](https://pizzarobotics.org) community'
 ---
 
 {% include feature_row id="intro" type="center" %}
