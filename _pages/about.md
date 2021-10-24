@@ -18,8 +18,8 @@ Below some technical information about nanosaur
 
 | Specifications       | Value       |
 |----------------------|-------------|
-| **Robot dimensions** | 10x12x6 cm (4x4.8x2.3 in)  |
-| **Weight**           | 500g (~18oz) |
+| **Robot dimensions** | ~10x12x6 cm (~4x4.8x2.3 in)  |
+| **Weight**           | ~500g (~18oz) |
 | **Driver type**      | 2-track drive |
 | **Top speed**        | ----        |
 | **Max power**        | 4W Jetson + 1.5W motors |
