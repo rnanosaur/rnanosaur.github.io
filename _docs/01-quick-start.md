@@ -1,5 +1,5 @@
 ---
-title: ":wrench: Quick-Start Guide"
+title: "Quick-Start Guide"
 permalink: /quick-start/
 classes: wide
 ---
