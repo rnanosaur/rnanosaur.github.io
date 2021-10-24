@@ -6,7 +6,7 @@ sidebar:
   - nav: "about"
 ---
 
-{% include figure image_path="/assets/images/nanosaur-teaser.gif" alt="nanosaur teaser" %}
+{% include figure image_path="/assets/images/nanosaur_teaser.gif" alt="nanosaur teaser" %}
 
 🦕 nanosaur is an 🇮🇹 italian open-source project designed and made by [Raffaello Bonghi](https://rnext.it).
 
