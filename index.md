@@ -36,6 +36,8 @@ feature_row:
     url: "https://github.com/rnanosaur/nanosaur"
     btn_label: ":star: Star and fork!"
     btn_class: "btn--primary"
+footer: 
+  - excerpt: '🦕 **nanosaur** is proudly part of :pizza: [pizzarobotics](https.//pizzarobotics.org) community'
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -46,5 +48,6 @@ feature_row:
 
 <div class="container">
 <iframe class="responsive-iframe"  src="https://discordapp.com/widget?id=797461428646707211&theme=dark" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-</div>
+</div><br/>
 
+{% include feature_row id="footer" type="center" %}

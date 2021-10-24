@@ -6,7 +6,9 @@ entries_layout: grid
 classes: wide
 author_profile: false
 sidebar:
-  nav: "tutorial"
+  - image: /assets/images/tutorial.jpg
+    image_alt: "nanosaur tutorial"
+  - nav: "tutorial"
 ---
 
 Did you follow these steps?

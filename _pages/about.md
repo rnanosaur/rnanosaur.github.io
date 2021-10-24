@@ -2,11 +2,15 @@
 title: "nanosaur"
 permalink: /about/
 classes: wide
+sidebar:
+  - nav: "about"
 ---
 
-🦕 nanosaur is an open-source project designed and made by [Raffaello Bonghi](https://rnext.it).
+🦕 nanosaur is an 🇮🇹 italian open-source project designed and made by [Raffaello Bonghi](https://rnext.it).
 
-nanosaur is a simple open-source robot based on [NVIDIA Jetson](https://developer.nvidia.com/buy-jetson). The robot is fully 3D printable, able to wander on your desk autonomously and uses a simple camera and two OLEDs—these act as a pair of eyes. It measures a compact 10x12x6cm and it weighs only 500g.
+nanosaur is a simple open-source robot based on [NVIDIA Jetson](https://developer.nvidia.com/buy-jetson). The robot is fully 3D printable, able to wander on your desk autonomously and uses a simple camera and two OLEDs — these act as a pair of eyes. It measures a compact 10x12x6cm and it weighs only 500g.
+
+🦕 **nanosaur** is proudly part of :pizza: [pizzarobotics](https.//pizzarobotics.org) community
 
 # Story
 
@@ -14,7 +18,7 @@ nanosaur is a simple open-source robot based on [NVIDIA Jetson](https://develope
 
 # Specifications
 
-Below some technical information about nanosaur
+Below technical information about nanosaur
 
 | Specifications       | Value       |
 |----------------------|-------------|

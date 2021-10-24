@@ -8,7 +8,7 @@ main:
 #  - title: ":shopping_cart: Buy"
 #    url: /buy/
   - title: ":robot: Community"
-    url: /robot/
+    url: /community/
 
 docs:
   - title: Getting Started
@@ -65,3 +65,15 @@ tutorial:
         url: /about
       - title: "Make"
         url: /quick-start/
+
+about:
+  - title: About
+    children:
+      - title: "- Press"
+        url: /press
+      - title: "- Story"
+        url: /about#story
+      - title: "- Specifications"
+        url: /about#specifications
+      - title: "- License"
+        url: /about#license
