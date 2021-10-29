@@ -21,9 +21,13 @@ All post and news about nanosaur
 
 [nanosaur](https://makerfairerome.eu/it/espositori/?edition=2021&exhibit=200208) was part of the [Pizzarobotics](https://pizzarobotics.org) booth
 
+# Presentation at GTC21 March
+
+{% include video id="-HXYzQb3NzI" provider="youtube" %}
+
 # March 25th, 2021 - NVIDIA Jetson labs
 
-{% include video id="v=-jT2rqLp5uE" provider="youtube" %}
+{% include video id="-jT2rqLp5uE" provider="youtube" %}
 
 # December 11-13, 2020 - Maker Faire Rome (online)
 

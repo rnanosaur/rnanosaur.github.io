@@ -52,6 +52,8 @@ Following this guideline the total time to print nanosaur will be:
 **:bulb: Hint** On nanosaur_stl.zip you can find a folder **025in** for ball bearings with size *ID 1/4in x OD 1/2in*
 {: .notice--info}
 
+{% include video id="5cVNXbF6HzI" provider="youtube" %}
+
 # Print PLA parts
 
 You can split all parts following this guideline and setup the printer using this profile:
