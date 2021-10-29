@@ -2,7 +2,6 @@
 title: "Program nanosaur with ROS2"
 excerpt: "Upcoming Free LIVE Class by The Construct Sim"
 classes: wide
-number: 2018
 link: https://app.theconstructsim.com/#/LiveClass/9f0e0eea-00c0-4e3e-b54e-197ebee21b68
 header:
   overlay_color: "#000"

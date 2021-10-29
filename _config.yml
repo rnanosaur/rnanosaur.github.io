@@ -121,11 +121,11 @@ defaults:
       type: robot
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: true
       read_time: true
       sidebar:
-        nav: "docs"
+        nav: "about"
   # _pages
   - scope:
       path: "_pages"

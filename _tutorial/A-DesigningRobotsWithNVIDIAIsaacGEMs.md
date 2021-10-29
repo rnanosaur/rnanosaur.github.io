@@ -2,7 +2,6 @@
 title: "Designing Robots with NVIDIA Isaac GEMs for ROS"
 excerpt: "How to use AprilTags detection on nanosaur. Post from NVIDIA Developer blog."
 classes: wide
-number: 2018
 link: https://developer.nvidia.com/blog/designing-robots-with-isaac-gems-for-ros/
 header:
   overlay_color: "#000"
