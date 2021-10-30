@@ -55,6 +55,8 @@ tutorial:
         url: /tutorial/joystick
       - title: "Install desktop"
         url: /tutorial/desktop
+      - title: "Web interface"
+        url: /tutorial/webinterface
   - title: Wiki
     children:
       - title: Technical documentation
