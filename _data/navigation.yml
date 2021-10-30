@@ -31,8 +31,10 @@ docs:
     children:
       - title: "Joystick drive"
         url: /tutorial/joystick
-      - title: "Install desktop"
-        url: /tutorial/desktop
+      - title: "Keboard drive"
+        url: /tutorial/keyboard
+      - title: "Web interface"
+        url: /tutorial/webinterface
   - title: Wiki
     children:
       - title: Technical documentation
@@ -41,8 +43,8 @@ docs:
     children:
       - title: "BOM countries"
         url: /extra/bom-countries
-      - title: "Assembly matrix board"
-        url: /extra/assembly-matrix-board
+      - title: "Install on Desktop"
+        url: /extra/install-desktop
       - title: "Assembly without magnets"
         url: /extra/screw-assembly
       - title: "WiFi configuration"
@@ -53,8 +55,8 @@ tutorial:
     children:
       - title: "Joystick drive"
         url: /tutorial/joystick
-      - title: "Install desktop"
-        url: /tutorial/desktop
+      - title: "Keboard drive"
+        url: /tutorial/keyboard
       - title: "Web interface"
         url: /tutorial/webinterface
   - title: Wiki

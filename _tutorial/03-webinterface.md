@@ -1,5 +1,5 @@
 ---
-title: "nanosaur web interface"
+title: "Web interface"
 excerpt: "How to visualize the nanosaur web interface"
 permalink: /tutorial/webinterface
 classes: wide
