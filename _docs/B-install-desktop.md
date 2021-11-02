@@ -5,11 +5,11 @@ permalink: /extra/install-desktop
 classes: wide
 ---
 
-Follow the ROS2 installation on this link
+There are two steps to install ROS2 on your desktop:
+1. [ROS2 Installation](https://docs.ros.org/en/foxy/Installation.html)
+2. [Install colcon](https://docs.ros.org/en/foxy/Tutorials/Colcon-Tutorial.html#install-colcon)
 
-[ROS2 Installation](https://docs.ros.org/en/foxy/Installation.html)
-
-When is done, will move forward installing the required 🦕 nanosaur packages
+When it is done, you can move forward installing the required 🦕 nanosaur packages
 
 # Setup Nanosaur
 
