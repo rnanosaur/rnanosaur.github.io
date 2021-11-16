@@ -1,6 +1,6 @@
 ---
 title: "Build your own NanoSaur"
-excerpt: "Upcoming Free LIVE Class by The Construct Sim"
+excerpt: "Free LIVE Class by The Construct Sim"
 classes: wide
 link: https://app.theconstructsim.com/#/LiveClass/06166b4d-74e6-4734-8819-b7280be347e4
 header:
