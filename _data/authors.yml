@@ -26,3 +26,15 @@ Raffaello Bonghi:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:raffaello@rnext.it"
+
+Tiryoh:
+  name        : "@Tiryoh"
+  bio         : "A Hobby Robot Programmer."
+  avatar      : "https://profile.tiryoh.com/img/tiryoh_icon.png"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/Tiryoh"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://github.com/Tiryoh"
