@@ -7,6 +7,19 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
+screwdrivers:
+  - url: /assets/docs/assembly/screwdriver_small.png
+    image_path: /assets/docs/assembly/screwdriver_small.png
+    alt: "Screwdriver slotted small"
+    title: "Screwdriver slotted small"
+  - url: /assets/docs/assembly/arm_wrench.png
+    image_path: /assets/docs/assembly/arm_wrench.png
+    alt: "Hex M2 Allen Key"
+    title: "Hex M2 Allen Key"
+  - url: /assets/docs/assembly/wowstick-screwdriver.jpg
+    image_path: /assets/docs/assembly/wowstick-screwdriver.jpg
+    alt: "(optional) WOWSTICK electric screwdriver"
+    title: "(optional) WOWSTICK electric screwdriver"
 pbholder:
   - url: /assets/docs/assembly/pbholder.png
     image_path: /assets/docs/assembly/pbholder.png
@@ -200,10 +213,7 @@ We can split the nanosaur assembly into four parts:
 After mounts these three parts you can complete the nanosaur assembly.
 You need only:
 
-| Tool                       | Picture                                                           |
-|----------------------------|-------------------------------------------------------------------|
-| Hex M2 arm wrench          | ![arm M2 wrench](/assets/docs/assembly/arm_wrench.png)            |
-| Screwdriver slotted small  | ![screwdriver_small](/assets/docs/assembly/screwdriver_small.png) |
+{% include gallery id="screwdrivers" caption="Set of screwdrivers" %}
 
 **:bulb: Hint** To simplify the assembly, **dry fit** of all screws after 3D print
 {: .notice--info}

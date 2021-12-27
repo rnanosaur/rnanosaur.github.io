@@ -86,8 +86,8 @@ These parts are not really needed to build your robot, but suggested if you want
 | Qt | Part                | :us: USA  | :it: Italy | :uk: UK | :netherlands: NL | Notes |
 |:--:|---------------------|:---------:|:----------:|:-------:|:----------------:|-------|
 | 1  | Noctua 4x4cm fan    | :us: $15<br/>[Amazon](https://amzn.to/32A9fku)  | :it:<br/>[Amazon](https://amzn.to/343mj2z) | :uk:<br/>[Amazon](https://amzn.to/3EyxSvh) | :netherlands:<br/>[Amazon](https://amzn.to/3qwxaJI) |       |
-| 1  | M2 screwdriver      | :us:  $5<br/>[Amazon](https://amzn.to/3erJ1Dg)  | :it:<br/>[Amazon](https://amzn.to/3sDHQt4) | :uk:<br/>[Amazon](https://amzn.to/3z2QJgF) | :netherlands:<br/>[Amazon](https://amzn.to/3sD9pTh) | to speed up your build, you can use a screwdriver instead of an allen key  |
-| 1  | M2 allen key        |  |  |  |  |       |
+| 1  | M2 electric screwdriver      | :us:  $5<br/>[Amazon](https://amzn.to/3erJ1Dg)  | :it:<br/>[Amazon](https://amzn.to/3sDHQt4) | :uk:<br/>[Amazon](https://amzn.to/3z2QJgF) | :netherlands:<br/>[Amazon](https://amzn.to/3sD9pTh) |      |
+| 1  | M2 allen key        |  |  |  |  | to speed up your build, you can use an elecric screwdriver instead of an allen key |
 
 # Components to print
 
