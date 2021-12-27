@@ -1,5 +1,5 @@
 ---
-title: "Connect to the real NanoSaur robot using the ROS Development Studio"
+title: "TCS 134 - Connect to the real NanoSaur robot using the ROS Development Studio"
 excerpt: "We will show you how to easily connect to ANY real robot from a rosject in just a few steps"
 classes: wide
 link: https://app.theconstructsim.com/#/LiveClass/3b476a93-f326-4049-baaa-833fd16398ae

@@ -1,5 +1,5 @@
 ---
-title: "Build your own NanoSaur"
+title: "TCS 132 - Build your own NanoSaur"
 excerpt: "Assemble, step by step, the real physical NanoSaur robot"
 classes: wide
 link: https://app.theconstructsim.com/#/LiveClass/06166b4d-74e6-4734-8819-b7280be347e4

@@ -1,5 +1,5 @@
 ---
-title: "Connect to the real NanoSaur robot"
+title: "TCS 133 - Connect to the real NanoSaur robot"
 excerpt: "We will connect to the real Nanosaur robot and we will control it using ROS2."
 classes: wide
 link: https://app.theconstructsim.com/#/LiveClass/8953502c-39c2-414f-9685-db54cac211bb
