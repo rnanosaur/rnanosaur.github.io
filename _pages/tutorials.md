@@ -9,6 +9,16 @@ sidebar:
   - image: /assets/images/tutorial.jpg
     image_alt: "nanosaur tutorial"
   - nav: "tutorial"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/community.jpg
+  teaser: /assets/images/community.jpg
+  actions:
+    - label: "🧑‍🏫 Courses"
+      url: "/courses"
+    - label: ":books: Wiki"
+      url: "https://github.com/rnanosaur/nanosaur/wiki"
 ---
 
 Did you follow these steps?
