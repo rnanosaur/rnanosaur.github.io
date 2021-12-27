@@ -29,6 +29,10 @@ docs:
         url: /assembly/
       - title: "6. Install"
         url: /install/
+  - title: Options
+    children:
+      - title: "Assembly without magnets"
+        url: /option/screw-assembly
   - title: "🕹️ Play"
     children:
       - title: "Joystick drive"
@@ -43,14 +47,6 @@ docs:
         url: /courses/
       - title: ":books: Wiki"
         url: https://github.com/rnanosaur/nanosaur/wiki
-  - title: Extra
-    children:
-      - title: "Install on Desktop"
-        url: /extra/install-desktop
-      - title: "Assembly without magnets"
-        url: /extra/screw-assembly
-      - title: "WiFi configuration"
-        url: /extra/wifi
 
 tutorial:
   - title: Tutorial & courses

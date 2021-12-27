@@ -1,8 +1,10 @@
 ---
 title: "Install nanosaur workspace on Desktop PC"
 excerpt: "Install nanosaur workspace on desktop PC"
-permalink: /extra/install-desktop
+permalink: /tutorial/install-desktop
 classes: wide
+header:
+  teaser: /assets/tutorial/remote/nanosaur_sheel.png
 ---
 
 There are two steps to install ROS2 on your desktop:

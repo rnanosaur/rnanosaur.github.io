@@ -1,6 +1,6 @@
 ---
 title: "Assembly without magnets"
-permalink: /extra/screw-assembly
+permalink: /option/screw-assembly
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"

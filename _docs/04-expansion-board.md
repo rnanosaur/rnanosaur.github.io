@@ -105,10 +105,11 @@ This board is a simple adapter to connect the motor controller and the LCDs to t
   * GPIO Pin 31
   * GPIO Pin 33
 
+<!--
 There are two ways to Assembly the expansion board:
  * [Nanosaur PCBs on PCBWay](#how-make-nanosaur-pcbs-on-pcbway) to support this project 
- * [Assembly with a matrix board](/extra/assembly-matrix-board)
-
+ * [Assembly with a matrix board](/option/assembly-matrix-board)
+-->
 # How make Nanosaur PCBs on PCBWay
 
 - Register to PCBWay using [my refferer link](https://www.pcbway.com/setinvite.aspx?inviteid=472567)

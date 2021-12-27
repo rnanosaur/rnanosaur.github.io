@@ -11,11 +11,7 @@ header:
 
 Are you ready to start? Well done!
 
-Just few steps before start:
-* Follow :bird: [**@raffaello86**](https://twitter.com/raffaello86) on **Twitter**
-* Make a star on :star: [nanosaur](https://github.com/rnanosaur/nanosaur) **Github** repository
-* Be a :sparkling_heart: [supporter](https://github.com/sponsors/rbonghi)
-* Join on :robot: [Discord](https://discord.gg/NSrC52P5mw)
+{% include 3steps.md %}
 
 {% include video id="-EoeC1C1pi8" provider="youtube" %}
 

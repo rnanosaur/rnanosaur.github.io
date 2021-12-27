@@ -227,7 +227,7 @@ You need only:
 
 Stick the magnets is optional, if you want only screw the power bank holder, skip thi step.
 
-**:bulb: Hint** If you don't want to use the magnets, but the screw, follow the optional guide [Screw Assembly](/extra/screw-assembly)
+**:bulb: Hint** If you don't want to use the magnets, but the screw, follow the optional guide [Screw Assembly](/option/screw-assembly)
 {: .notice--info}
 
 {% include gallery id="pbholder" caption="Assembly nanosaur power bank holder" %}
@@ -312,7 +312,7 @@ When is done the result will be like the picture below. Where the two cables are
 | 4        | Hex M2 6mm                            |
 | 2        | magnet 4x2mm                          |
 
-**:bulb: Hint** If you don't want to use the magnets, but the screw, follow the optional guide [Screw Assembly](/extra/screw-assembly)
+**:bulb: Hint** If you don't want to use the magnets, but the screw, follow the optional guide [Screw Assembly](/option/screw-assembly)
 {: .notice--info}
 
 Now bring the rear base of Nanosaur and with 4 screws assembly the cover, after that stick with glue the two magnets in their slots, following the pictures below.
@@ -417,7 +417,7 @@ Finally we are at the last step to build nanosaur, we only need to mount the hea
 | 1        | [Body](#body)       |
 | 1        | [Head](#head)       |
 
-**:bulb: Hint** If you don't want to use the magnets, but the screw, follow the optional guide [Screw Assembly](/extra/screw-assembly)
+**:bulb: Hint** If you don't want to use the magnets, but the screw, follow the optional guide [Screw Assembly](/option/screw-assembly)
 {: .notice--info}
 
 {% include gallery id="body-head" caption="Assembly nanosaur head" %}
