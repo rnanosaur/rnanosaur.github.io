@@ -20,22 +20,20 @@ If you don't want print or you don't have a 3D printer you can buy all parts you
 
 This table is your necessary needed to make nanosaur. Few parts, starting from the NVIDIA Jetson, the PI camera, motors and the motor control.
 
-| Quantity | Part                        | Cost     | :us: USA  | :it: Italy | :uk: UK | Notes                               |
-|:--------:|-----------------------------|:--------:|-----------|------------|---------|-------------------------------------|
-| 1        | NVIDIA Jetson Nano 2Gb*     | $59-$99  | [:us: NVIDIA](https://developer.nvidia.com/embedded/buy/jetson-nano-devkit)| [:it: NVIDIA](https://developer.nvidia.com/embedded/buy/jetson-nano-devkit)| [:uk: NVIDIA](https://developer.nvidia.com/embedded/buy/jetson-nano-devkit)|  |
-| 1        | MicroSD card 64Gb           | $9.99    | [:us: Amazon](https://amzn.to/2X7rWpH) | [:it: Amazon](https://amzn.to/39015kN) | [:uk: Amazon](https://amzn.to/3rPYqCY) |        |
-| 1        | Power Bank                  | $29.99   | [:us: Amazon](https://amzn.to/2X8RNha) | [:it: Amazon](https://amzn.to/3GpERJ8) | [:uk: Amazon](https://amzn.to/3rQr46R) | Size max:<br/>64mm x 94mm x 24mm<br/>(3in x 4in x 0.94in) |
-| 1        | Raspberry PI camera         | $23.50   | [:us: Amazon](https://amzn.to/2LgasF5) | [:it: Amazon](https://amzn.to/2Mxc8uo) | [:uk: Amazon](https://amzn.to/2LehMAW) |                                     |
-| 2        | Pololu Micro Gearbox        | $25.75   | [:us: Amazon](https://amzn.to/3hS4o1P) | [:it: Amazon](https://amzn.to/3tbVnp8) | [:uk: Amazon](https://amzn.to/3ogIyXZ) | [Pololu 6V 150RPM](https://www.pololu.com/product/2368) |
-| 1        | Adafruit motor control      | $29.10   | [:us: Amazon](https://amzn.to/392GhZU) | [:it: Amazon](https://amzn.to/3mz3BFh) | [:uk: Amazon](https://amzn.to/3rKMiTI) | [DC Motor + Stepper FeatherWing Add-on](https://www.adafruit.com/product/2927) |
-| 2        | oled display                | $5       | [:us: Amazon](https://amzn.to/3ocB3kJ) | [:it: Amazon](https://amzn.to/3d4FFWX) | [:uk: Amazon](https://amzn.to/3pQBH8b) | 128x64px 0.06 inch - I2C<br/>Best price pack [3 display](https://amzn.to/3d6Qgkv)  |
-| 6        | Ball bearings **F686ZZ**    | $ 7.49   | [:us: Amazon](https://amzn.to/3dIs8DJ) | [:it: Amazon](https://amzn.to/2Q75LiZ) | [:uk: Amazon](https://amzn.to/3wzYiKf) |                                      |
-| 10       | Magnets 4x2mm              | $ 10.99   | [:us: Amazon](https://amzn.to/3pwnnTp) |   |   | 200Pcs box                          |
-| -        | Expansion board             |          |           |           |           | [Expansion board](#expansion-board) | 
-| -        | 3D parts                    |          |           |           |           | [3D parts](#3d-parts)               |
-| -        | Hex M2 Screw set            | $10*     | Amazon    |           |           | [Screw set](#screw-set)             |
-
-(*) nanosaur works with the NVIDIA Jetson Nano 2Gb or an NVIDIA Jetson Nano 4Gb
+| Qt       | Part                        | :us: USA  | :it: Italy | :uk: UK | :netherlands: NL | Notes                               |
+|:--------:|-----------------------------|:---------:|:----------:|:-------:|:----------------:|-------------------------------------|
+| 1        | NVIDIA Jetson Nano          | :us: $59-$99<br/>[NVIDIA](https://developer.nvidia.com/embedded/buy/jetson-nano-devkit)| :it:<br/>[NVIDIA](https://developer.nvidia.com/embedded/buy/jetson-nano-devkit)| :uk:<br/>[NVIDIA](https://developer.nvidia.com/embedded/buy/jetson-nano-devkit) | :netherlands:<br/>[NVIDIA](https://developer.nvidia.com/embedded/buy/jetson-nano-devkit) | You can use<br/> **2Gb** or **4Gb** version |
+| 1        | MicroSD card 64Gb           | :us: $9.99<br/>[Amazon](https://amzn.to/2X7rWpH) | :it:<br/>[Amazon](https://amzn.to/3mxPCR1) | :uk:<br/>[Amazon](https://amzn.to/3qv95mB) | :netherlands:<br/>[Amazon](https://amzn.to/3pw9FS1) |       |
+| 1        | Power Bank                  | :us: $29.99<br/>[Amazon](https://amzn.to/2X8RNha) | :it:<br/>[Amazon](https://amzn.to/3syJ4Wl) | :uk:<br/>[Amazon](https://amzn.to/3ey5bnm) | :netherlands:<br/>[Amazon](https://amzn.to/3mB7eMd) | Size max:<br/>64mm x 94mm x 24mm<br/>(3in x 4in x 0.94in) |
+| 1        | Raspberry PI camera         | :us: $23.50<br/>[Amazon](https://amzn.to/2LgasF5) | :it:<br/>[Amazon](https://amzn.to/3sDmw6P) | :uk:<br/>[Amazon](https://amzn.to/3mwzn71) | :netherlands:<br/>[Amazon](https://amzn.to/3qvbGNn) |                                    |
+| 2        | Pololu Micro Gearbox        | :us: $25.75<br/>[Amazon](https://amzn.to/3hS4o1P) | :it:<br/>[Amazon](https://amzn.to/3JjEwZP) | :uk:<br/>[Amazon](https://amzn.to/3ey58YI) | :netherlands:<br/>[Amazon](https://amzn.to/3HgMG3j) | [Pololu 6V 150RPM](https://www.pololu.com/product/2368) |
+| 1        | Adafruit motor control      | :us: $29.10<br/>[Amazon](https://amzn.to/392GhZU) | :it:<br/>[Amazon](https://amzn.to/3psMwjk) | :uk:<br/>[Amazon](https://amzn.to/3162czI) | :netherlands:<br/>[Amazon](https://amzn.to/3H6VYPo) | [DC Motor + Stepper FeatherWing Add-on](https://www.adafruit.com/product/2927) |
+| 2        | oled display                | :us: $5<br/>[Amazon](https://amzn.to/3ocB3kJ) | :it:<br/>[Amazon](https://amzn.to/3EwAObC) | :uk:<br/>[Amazon](https://amzn.to/3HavufG) | :netherlands:<br/>[Amazon](https://amzn.to/3EwYaxK) | 128x64px 0.06 inch - I2C<br/>Best price pack [3 display](https://amzn.to/3d6Qgkv)  |
+| 6        | Ball bearings **F686ZZ**    | :us: $7.49<br/>[Amazon](https://amzn.to/3dIs8DJ) | :it:<br/>[Amazon](https://amzn.to/3z0zeh4) | :uk:<br/>[Amazon](https://amzn.to/3qmJVqc) | :netherlands:<br/>[Amazon](https://amzn.to/3Hay856) |                                      |
+| 10       | Magnets 4x2mm              | :us: $10.99<br/>[Amazon](https://amzn.to/3pwnnTp) |   |  | :netherlands:<br/>[Amazon](https://amzn.to/3z1FgOD) | 200Pcs box                          |
+| -        | Expansion board             |           |           |           |           | [Expansion board](#expansion-board) | 
+| -        | 3D parts                    |           |           |           |           | [3D parts](#3d-parts)               |
+| -        | Hex M2 Screw set            | :us: $10*<br/>Amazon |           |           |           | [Screw set](#screw-set)             |
 
 **Equivalent components**
 

@@ -205,6 +205,9 @@ You need only:
 | Hex M2 arm wrench          | ![arm M2 wrench](/assets/docs/assembly/arm_wrench.png)            |
 | Screwdriver slotted small  | ![screwdriver_small](/assets/docs/assembly/screwdriver_small.png) |
 
+**:bulb: Hint** To simplify the assembly, **dry fit** of all screws after 3D print
+{: .notice--info}
+
 # Power Bank holder
 
 | Quantity | Part                                                   |
