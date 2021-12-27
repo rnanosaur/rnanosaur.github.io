@@ -1,7 +1,7 @@
 ---
 title: Events
 layout: category
-permalink: /event/
+permalink: /events/
 classes: wide
 taxonomy: Events
 sidebar:

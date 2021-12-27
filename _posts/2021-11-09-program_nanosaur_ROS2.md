@@ -1,6 +1,6 @@
 ---
 title: "ROS2 AI with NanoSaur robot"
-excerpt: "Free LIVE Class by The Construct Sim"
+excerpt: "In this Live Class, we will use the nanosaur simulation to program with ROS2 Galactic."
 classes: wide
 link: https://app.theconstructsim.com/#/LiveClass/fd0c12e9-2db5-4f69-a5bb-146b891bc69e
 categories:

@@ -2,6 +2,18 @@
 title: "nanosaur"
 permalink: /about/
 classes: wide
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/intro.jpg
+  teaser: /assets/images/intro.jpg
+  actions:
+    - label: ":sparkling_heart: Sponsor"
+      url: "https://github.com/sponsors/rbonghi"
+    - label: "🗞️ Press"
+      url: "/press"
+    - label: "🎟️ Events"
+      url: "/events"
 sidebar:
   - nav: "about"
 ---
@@ -16,7 +28,7 @@ nanosaur is a simple open-source robot based on [NVIDIA Jetson](https://develope
 🦕 **nanosaur** is proudly part of :pizza: [pizzarobotics](https://pizzarobotics.org) community
 {: .text-center}
 
-# Story
+# Timeline
 
 {% include figure image_path="/assets/images/nanosaur-story.jpg" alt="nanosaur story" caption="nanosaur story steps" %}
 

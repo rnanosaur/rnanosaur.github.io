@@ -29,7 +29,7 @@ docs:
         url: /assembly/
       - title: "6. Install"
         url: /install/
-  - title: Play
+  - title: "🕹️ Play"
     children:
       - title: "Joystick drive"
         url: /tutorial/joystick
@@ -37,9 +37,11 @@ docs:
         url: /tutorial/keyboard
       - title: "Web interface"
         url: /tutorial/webinterface
-  - title: Wiki
+  - title: Tutorial & courses
     children:
-      - title: Technical documentation
+      - title: "🧑‍🏫 Courses"
+        url: /courses/
+      - title: ":books: Wiki"
         url: https://github.com/rnanosaur/nanosaur/wiki
   - title: Extra
     children:
@@ -63,10 +65,12 @@ tutorial:
         url: https://github.com/rnanosaur/nanosaur/wiki
   - title: Menu
     children:
-      - title: "About"
+      - title: "🦕 About"
         url: /about
-      - title: "Make"
+      - title: ":wrench: Make"
         url: /quick-start/
+      - title: ":robot: Community"
+        url: /community/
 
 about:
   - title: About
@@ -75,8 +79,8 @@ about:
         url: /press
       - title: "- Events"
         url: /event
-      - title: "- Story"
-        url: /about#story
+      - title: "- Timeline"
+        url: /about#timeline
       - title: "- Specifications"
         url: /about#specifications
       - title: "- License"
