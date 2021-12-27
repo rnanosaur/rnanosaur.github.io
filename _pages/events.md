@@ -1,9 +1,9 @@
 ---
-title: Press
+title: Events
 layout: category
-permalink: /press/
+permalink: /event/
 classes: wide
-taxonomy: Press
+taxonomy: Events
 sidebar:
   - nav: "about"
 ---

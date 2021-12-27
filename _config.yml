@@ -93,6 +93,17 @@ collections:
     permalink: /:collection/:path/
 
 defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      share: true
+      related: true
+      show_date: true
   # docs
   - scope:
       path: "_docs"

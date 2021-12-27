@@ -3,11 +3,15 @@ title: "Program nanosaur with ROS2"
 excerpt: "Free LIVE Class by The Construct Sim"
 classes: wide
 link: https://app.theconstructsim.com/#/LiveClass/9f0e0eea-00c0-4e3e-b54e-197ebee21b68
+categories:
+  - Course
+tags:
+  - The Construct
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/tutorial/TheConstructSim/LiveClass 130_ProgramNanoSaurwithROS2_TheConstruct.jpeg
-  teaser: /assets/tutorial/TheConstructSim/LiveClass 130_ProgramNanoSaurwithROS2_TheConstruct.jpeg
+  overlay_image: /assets/tutorial/TheConstructSim/LiveClass_130_ProgramNanoSaurwithROS2_TheConstruct.jpeg
+  teaser: /assets/tutorial/TheConstructSim/LiveClass_130_ProgramNanoSaurwithROS2_TheConstruct.jpeg
   actions:
     - label: "Live"
       url: "https://app.theconstructsim.com/#/LiveClass/9f0e0eea-00c0-4e3e-b54e-197ebee21b68"
