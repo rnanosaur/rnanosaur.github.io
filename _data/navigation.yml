@@ -45,8 +45,6 @@ docs:
         url: https://github.com/rnanosaur/nanosaur/wiki
   - title: Extra
     children:
-      - title: "BOM countries"
-        url: /extra/bom-countries
       - title: "Install on Desktop"
         url: /extra/install-desktop
       - title: "Assembly without magnets"
