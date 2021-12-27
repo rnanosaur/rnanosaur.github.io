@@ -49,9 +49,15 @@ nanosaur use a short set of M2 screw, you can buy a set
 |:--------:|-----------------------------|-------|
 | 6        | M2 nuts                     |       |
 | 6        | Hex M2 20mm                 |       |
-| 1        | Hex M2 14mm                 |       |
-| 8        | Hex M2 6mm                  |       |
+| 6        | Hex M2 6mm                  |       |
 | 20       | Hex M2 4mm                  |       |
+
+If you are building nanosaur without magnets, you need other 3 extra screws
+
+| Quantity | Part                        | Notes |
+|:--------:|-----------------------------|-------|
+| 1        | Hex M2 14mm                 |       |
+| 2        | Hex M2 6mm                  |       |
 
 ## Expansion board
 
@@ -65,11 +71,11 @@ To build the expansion board follow [this page](/expansion-board)
 
 If you want print nanosaur, you should buy these spool. I suggest the Ninjatek TPU if you use a bowden 3D printer. Otherwise you can use other type of TPU.
 
-| Quantity | Part                | Cost | URL | Notes |
-|:--------:|---------------------|------|-----|-------|
-| 1        | PLA green           | $15  |     |       |
-| 1        | PLA black           | $15  |     |       |
-| 1        | TPU NinjaTek black  | $40  |     |       |
+| Qt | Part                | :us: USA  | :it: Italy | :uk: UK | :netherlands: NL | Notes |
+|:--:|---------------------|:---------:|:----------:|:-------:|:----------------:|-------|
+| 1  | PLA Eryone green    | :us: $15<br/>[Amazon](https://amzn.to/32D41EK)  | :it:<br/>[Amazon](https://amzn.to/3Ji6ghD) | :uk:<br/>[Amazon](https://amzn.to/3sBnrEN) |  | PLA Sunlu works as well |
+| 1  | PLA Eryone black    | :us: $15<br/>[Amazon](https://amzn.to/3Hd2Pa3)  | :it:<br/>[Amazon](https://amzn.to/3qmRc9u) | :uk:<br/>[Amazon](https://amzn.to/3Hkrf1t) |  | PLA Sunlu works as well |
+| 1  | TPU NinjaTek black  | :us: $40<br/>[Amazon](https://amzn.to/3sH4MYa)  | :it:<br/>[Amazon](https://amzn.to/3JmACPJ) | :uk:<br/>[Amazon](https://amzn.to/3pw8eCX) |  | TPU sainsmart works, but it is more hard |
 
 The parts to print are [below](#components-to-print)
 
@@ -77,10 +83,11 @@ The parts to print are [below](#components-to-print)
 
 These parts are not really needed to build your robot, but suggested if you want speed up the NVIDIA Jetson or assembly the robot.
 
-| Quantity | Part                | Cost | URL | Notes |
-|:--------:|---------------------|------|-----|-------|
-| 1        | Noctua 4x4cm fan    | $15  |     |       |
-| 1        | M2 screwdriver      | $5   |     |       |
+| Qt | Part                | :us: USA  | :it: Italy | :uk: UK | :netherlands: NL | Notes |
+|:--:|---------------------|:---------:|:----------:|:-------:|:----------------:|-------|
+| 1  | Noctua 4x4cm fan    | :us: $15<br/>[Amazon](https://amzn.to/32A9fku)  | :it:<br/>[Amazon](https://amzn.to/343mj2z) | :uk:<br/>[Amazon](https://amzn.to/3EyxSvh) | :netherlands:<br/>[Amazon](https://amzn.to/3qwxaJI) |       |
+| 1  | M2 screwdriver      | :us:  $5<br/>[Amazon](https://amzn.to/3erJ1Dg)  | :it:<br/>[Amazon](https://amzn.to/3sDHQt4) | :uk:<br/>[Amazon](https://amzn.to/3z2QJgF) | :netherlands:<br/>[Amazon](https://amzn.to/3sD9pTh) | to speed up your build, you can use a screwdriver instead of an allen key  |
+| 1  | M2 allen key        |  |  |  |  |       |
 
 # Components to print
 
