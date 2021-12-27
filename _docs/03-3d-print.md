@@ -35,16 +35,19 @@ The **Nanosaur design** is under license [Creative Commons Attribution-NonCommer
 I use [Cura slicer](https://ultimaker.com/software/ultimaker-cura), but all other slicer works fine. 
 Following this guideline the total time to print nanosaur will be:
 
-| Parts | Time |
-|-------|------|
-| [Base rear](#base-rear) | **5h** |
-| [Base front](#base-front) | **1h** and **30min** |
-| [Wheels and sprockets](#wheels-and-sprockets) | **2h** |
-| [Sliders](#sliders) | **2h** |
-| [Cover](#cover) | **1h** and **45min** |
-| [Flap and power bank holder](#flap-and-power-bank-holder) | **1h** and **45min** |
-| [Track](#print-tracks) | 2x **1h** and **30min** |
-| **Total** | **17h** |
+| Qt | Part            | Material        | Time  | Notes                                                     |
+|:--:|-----------------|-----------------|:-----:|-----------------------------------------------------------|
+| 1  | base_rear.stl   | PLA green       | 3h    | [Base rear](#base-rear)                                   |
+| 1  | base_front.stl  | PLA green       | 1:30h | [Base front](#base-front)                                 |
+| 1  | cover.stl       | PLA green       | 1:45h | [Cover](#cover)                                           |
+| 2  | slider.stl      | PLA green       | 1h    | [Sliders](#sliders)                                       |
+| 1  | pb_holder.stl   | PLA green       | 20min | A - Combined<br/>[Flap and power bank holder](#flap-and-power-bank-holder) |
+| 1  | flap_top.stl    | PLA green       | 45min | A - Combined<br/>[Flap and power bank holder](#flap-and-power-bank-holder) |
+| 1  | flap_bottom.stl | PLA green       | 45min | A - Combined<br/>[Flap and power bank holder](#flap-and-power-bank-holder) |
+| 2  | sprocket.stl    | PLA green/black | 1h    | B - Combined<br/>[Wheels and sprockets](#wheels-and-sprockets)             |
+| 2  | wheel.stl       | PLA green/black | 1h    | B - Combined<br/>[Wheels and sprockets](#wheels-and-sprockets)             |
+| 2  | track_print.stl | TPU black/grey  | 1:30h | [Track](#print-tracks)                                   |
+|    |                 | **Total**       | **15h** |                                                        |
 
 **:floppy_disk: Download** you can obtain all Nanosaur parts only downloading this zip file [**nanosaur_stl.zip**](https://github.com/rnanosaur/nanosaur/releases/latest/download/nanosaur_stl.zip)
 {: .notice--success}

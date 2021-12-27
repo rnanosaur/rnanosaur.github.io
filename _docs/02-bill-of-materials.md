@@ -35,7 +35,7 @@ This table is your necessary needed to make nanosaur. Few parts, starting from t
 | -        | 3D parts                    |           |           |           |           | [3D parts](#3d-parts)               |
 | -        | Hex M2 Screw set            | :us: $10*<br/>Amazon |           |           |           | [Screw set](#screw-set)             |
 
-**Equivalent components**
+## Similar parts
 
 | Quantity | Part                        | Cost     | URL       | Notes                               |
 |:--------:|-----------------------------|:--------:|-----------|-------------------------------------|
@@ -59,7 +59,7 @@ If you are building nanosaur without magnets, you need other 3 extra screws
 | 1        | Hex M2 14mm                 |       |
 | 2        | Hex M2 6mm                  |       |
 
-## Expansion board
+# Expansion board
 
 This last table is to build the expansion board to connect the NVIDIA Jetson to the motor control board and the 2 oled displays.
 
@@ -67,7 +67,7 @@ This last table is to build the expansion board to connect the NVIDIA Jetson to 
 
 To build the expansion board follow [this page](/expansion-board)
 
-## 3D parts
+# 3D parts
 
 If you want print nanosaur, you should buy these spool. I suggest the Ninjatek TPU if you use a bowden 3D printer. Otherwise you can use other type of TPU.
 
@@ -77,9 +77,9 @@ If you want print nanosaur, you should buy these spool. I suggest the Ninjatek T
 | 1  | PLA Eryone black    | :us: $15<br/>[Amazon](https://amzn.to/3Hd2Pa3)  | :it:<br/>[Amazon](https://amzn.to/3qmRc9u) | :uk:<br/>[Amazon](https://amzn.to/3Hkrf1t) |  | PLA Sunlu works as well |
 | 1  | TPU NinjaTek black  | :us: $40<br/>[Amazon](https://amzn.to/3sH4MYa)  | :it:<br/>[Amazon](https://amzn.to/3JmACPJ) | :uk:<br/>[Amazon](https://amzn.to/3pw8eCX) |  | TPU sainsmart works, but it is more hard |
 
-The parts to print are [below](#components-to-print)
+For more details follow [3D print](/3d-print) page to setup and print all 3D printed parts.
 
-## Optionals
+# Optionals
 
 These parts are not really needed to build your robot, but suggested if you want speed up the NVIDIA Jetson or assembly the robot.
 
@@ -88,29 +88,3 @@ These parts are not really needed to build your robot, but suggested if you want
 | 1  | Noctua 4x4cm fan    | :us: $15<br/>[Amazon](https://amzn.to/32A9fku)  | :it:<br/>[Amazon](https://amzn.to/343mj2z) | :uk:<br/>[Amazon](https://amzn.to/3EyxSvh) | :netherlands:<br/>[Amazon](https://amzn.to/3qwxaJI) |       |
 | 1  | M2 electric screwdriver      | :us:  $5<br/>[Amazon](https://amzn.to/3erJ1Dg)  | :it:<br/>[Amazon](https://amzn.to/3sDHQt4) | :uk:<br/>[Amazon](https://amzn.to/3z2QJgF) | :netherlands:<br/>[Amazon](https://amzn.to/3sD9pTh) |      |
 | 1  | M2 allen key        |  |  |  |  | to speed up your build, you can use an elecric screwdriver instead of an allen key |
-
-# Components to print
-
-Well, you have all components, now you need only to 3D print the robot. All parts are simple to print but, need time to be done, below there is a short table with the average time for each part.
-
-I recommend to print all STL part with:
-* **Layer height**: 0.2mm
-* **Print speed**: 50mm/s
-
-Below the list of all parts, the time required for each part and the color suggested:
-
-| Quantity | Part            | Material        | Time  | Notes |
-|:--------:|-----------------|-----------------|:-----:|-------|
-| 1        | base_rear.stl   | PLA green       | 5h    |       |
-| 1        | base_front.stl  | PLA green       | 1:30h |       |
-| 1        | cover.stl       | PLA green       | 1:45h |       |
-| 2        | slider.stl      | PLA green       | 1h    |       |
-| 1        | pb_holder.stl   | PLA green       | 20min |       |
-| 1        | flap_top.stl    | PLA green       | 45min |       |
-| 1        | flap_bottom.stl | PLA green       | 45min |       |
-| 2        | sprocket.stl    | PLA green/black | 1h    |       |
-| 2        | wheel.stl       | PLA green/black | 1h    |       |
-| 2        | track_print.stl | TPU black/grey  | 1:30h | **Print speed**: 30mm/s |
-
-You can reduce the time to print your nanosaur, printing some part together. For more details go to the [next page](/3d-print) of this guide to setup and print with your 3D printer.
-
