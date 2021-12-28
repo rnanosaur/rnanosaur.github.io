@@ -23,16 +23,23 @@ Go on [NVIDIA Jetpack](https://developer.nvidia.com/embedded/Jetpack) webpage an
 5. If you have no other external drives attached, Etcher will automatically select the microSD card as target device. Otherwise, click “Select drive” and choose the correct device.
 6. Click “Flash!”
 
-**Hint** For this, we'll assume you've set up your Jetson Nano using the online Getting Started guide.<br/>* [Getting Started With Jetson Nano Developer Kit](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit)<br/>* [Getting Started with Jetson Nano 2GB Developer Kit](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-2gb-devkit)
-{: .notice--success}
+{% capture notice-text %}
+**:bulb: Hint** For this, we'll assume you've set up your Jetson Nano using the online Getting Started guide.
+* [Getting Started With Jetson Nano Developer Kit](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit)
+* [Getting Started with Jetson Nano 2GB Developer Kit](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-2gb-devkit)
+{% endcapture %}
+
+<div class="notice--success">
+  {{ notice-text | markdownify }}
+</div>
 
 {% include figure image_path="/assets/docs/install/Etcher.png" alt="Etcher view" caption="Etcher view" %}
 
 ## Connect to WiFi
 
-If you haven't already, connect your Jetson Nano to your Wi-Fi network.
+If you have not already connected your Jetson Nano to your Wi-Fi network, press the button below to follow this specific tutorial.
 
-[Follow this Wi-Fi setup guide](/tutorial/wifi).
+[Wi-Fi configuration](/tutorial/wifi){: .align-center .btn .btn--info .btn--large}
 
 # Install and run nanosaur
 

@@ -23,6 +23,8 @@ What do you need?
 1. 🦕 [nanosaur](https://nanosaur.ai)
 2. Joystick (preferable a Logitech Gamepad F710)
 
+**:bulb: Hint** You can find the **Gamepad Logitech F710** in nanosaur [BoM](/bill-of-materials/#optionals)
+{: .notice--info}
 
 If you want drive and control nanosaur you have different commands:
 
