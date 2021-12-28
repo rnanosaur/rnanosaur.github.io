@@ -89,3 +89,5 @@ about:
         url: /about#specifications
       - title: "- License"
         url: /about#license
+      - title: "- Status"
+        url: /status
