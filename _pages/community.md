@@ -16,8 +16,6 @@ sidebar:
 Do you want add your robot in this collection, follow the guidelines on [share](/share)
 -->
 
-<div class="container">
-<iframe class="responsive-iframe"  src="https://discordapp.com/widget?id=797461428646707211&theme=dark" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-</div><br/>
+{% include discord.html discord_id="797461428646707211" %}
 
 # Robots

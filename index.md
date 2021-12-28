@@ -44,10 +44,6 @@ footer:
 
 {% include feature_row %}
 
-<h1>Join on Discord</h1>
-
-<div class="container">
-<iframe class="responsive-iframe"  src="https://discordapp.com/widget?id=797461428646707211&theme=dark" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-</div><br/>
+{% include discord.html discord_id="797461428646707211" %}
 
 {% include feature_row id="footer" type="center" %}
