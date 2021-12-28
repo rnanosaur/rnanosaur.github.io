@@ -39,7 +39,7 @@ Go on [NVIDIA Jetpack](https://developer.nvidia.com/embedded/Jetpack) webpage an
 
 If you have not already connected your Jetson Nano to your Wi-Fi network, press the button below to follow this specific tutorial.
 
-[Wi-Fi configuration](/tutorial/wifi){: .align-center .btn .btn--info .btn--large}
+[Wi-Fi configuration](/optional/wifi){: .align-center .btn .btn--info .btn--large}
 
 # Install and run nanosaur
 

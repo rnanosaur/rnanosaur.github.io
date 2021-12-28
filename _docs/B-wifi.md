@@ -1,7 +1,7 @@
 ---
 title: "WiFi configuration"
 excerpt: "Setup and connect a WiFi on nanosaur"
-permalink: /tutorial/wifi
+permalink: /optional/wifi
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"

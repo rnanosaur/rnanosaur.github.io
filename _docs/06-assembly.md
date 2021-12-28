@@ -227,7 +227,7 @@ You need only:
 
 Stick the magnets is optional, if you want only screw the power bank holder, skip thi step.
 
-**:bulb: Hint** If you don't want to use the magnets, but the screw, follow the optional guide [Screw Assembly](/option/screw-assembly)
+**:bulb: Hint** If you don't want to use the magnets, but the screw, follow the optional guide [Screw Assembly](/optional/screw-assembly)
 {: .notice--info}
 
 {% include gallery id="pbholder" caption="Assembly nanosaur power bank holder" %}
@@ -286,7 +286,7 @@ Now we are assembly the robot. We are ready to see finally Nanosaur riding on yo
 | 2        | Pololu Micro Gearbox                    |
 | 3        | magnet 4x2mm                            |
 
-**:bulb: Hint** If you don't want to use the magnets, but the screw, follow the optional guide [Screw Assembly](/option/screw-assembly)
+**:bulb: Hint** If you don't want to use the magnets, but the screw, follow the optional guide [Screw Assembly](/optional/screw-assembly)
 {: .notice--info}
 
 **:bulb: Hint** To simplify the assembly, **dry-fit** of all screws after 3D print
@@ -318,7 +318,7 @@ When is done the result will be like the picture below. Where the two cables are
 | 4        | Hex M2 6mm                            |
 | 2        | magnet 4x2mm                          |
 
-**:bulb: Hint** If you don't want to use the magnets, but the screw, follow the optional guide [Screw Assembly](/option/screw-assembly)
+**:bulb: Hint** If you don't want to use the magnets, but the screw, follow the optional guide [Screw Assembly](/optional/screw-assembly)
 {: .notice--info}
 
 Now bring the rear base of Nanosaur and with 4 screws assembly the cover, after that stick with glue the two magnets in their slots, following the pictures below.
@@ -400,7 +400,7 @@ Components to pick up
 | 12       | Hex M2 4mm                    |
 | 3        | magnet 4x2mm                  |
 
-**:bulb: Hint** If you don't want to use the magnets, but the screw, follow the optional guide [Screw Assembly](/option/screw-assembly)
+**:bulb: Hint** If you don't want to use the magnets, but the screw, follow the optional guide [Screw Assembly](/optional/screw-assembly)
 {: .notice--info}
 
 **:bulb: Hint** To simplify the assembly, **dry-fit** of all screws after 3D print
@@ -432,7 +432,7 @@ Finally we are at the last step to build nanosaur, we only need to mount the hea
 | 1        | [Body](#body)       |
 | 1        | [Head](#head)       |
 
-**:bulb: Hint** If you don't want to use the magnets, but the screw, follow the optional guide [Screw Assembly](/option/screw-assembly)
+**:bulb: Hint** If you don't want to use the magnets, but the screw, follow the optional guide [Screw Assembly](/optional/screw-assembly)
 {: .notice--info}
 
 {% include gallery id="body-head" caption="Assembly nanosaur head" %}
@@ -455,7 +455,7 @@ Now clip the cover to body. Really simple the magnets will hold the cover withou
 | 1        | [Head](#head)                           |
 | 1        | [Power Bank holder](#power-bank-holder) |
 
-**:bulb: Hint** If you don't want to use the magnets, but the screw, follow the optional guide [Screw Assembly](/option/screw-assembly)
+**:bulb: Hint** If you don't want to use the magnets, but the screw, follow the optional guide [Screw Assembly](/optional/screw-assembly)
 {: .notice--info}
 
 {% include gallery id="power-bank" caption="Assembly nanosaur power bank" %}
