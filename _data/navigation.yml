@@ -33,7 +33,14 @@ docs:
     children:
       - title: "Assembly without magnets"
         url: /option/screw-assembly
+  - title: Documentation
+    children:
+      - title: "🧑‍🏫 Courses"
+        url: /courses/
+      - title: ":books: Wiki"
+        url: https://github.com/rnanosaur/nanosaur/wiki
   - title: "🕹️ Play"
+    url: /tutorial
     children:
       - title: "Joystick drive"
         url: /tutorial/joystick
@@ -41,15 +48,9 @@ docs:
         url: /tutorial/keyboard
       - title: "Web interface"
         url: /tutorial/webinterface
-  - title: Tutorial & courses
-    children:
-      - title: "🧑‍🏫 Courses"
-        url: /courses/
-      - title: ":books: Wiki"
-        url: https://github.com/rnanosaur/nanosaur/wiki
 
 tutorial:
-  - title: Tutorial & courses
+  - title: Documentation
     children:
       - title: "🕹️ Tutorials"
         url: /tutorial/
