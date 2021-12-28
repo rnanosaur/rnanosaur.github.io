@@ -70,7 +70,7 @@ To print this parts you need a **PLA green**. The average time will be: **5h**
 
 | Quantity | Part            | 3D view |
 |:--------:|-----------------|:-------:|
-| 1        | [base_rear.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/base_rear.stl) | <script src="https://embed.github.com/view/3d/rnanosaur/nanosaur/master/nanosaur_description/meshes/base_rear.stl?height=320&width=320"></script> |
+| 1        | [base_rear.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/base_rear.stl) | {% include 3dview.html username="rnanosaur" repo="nanosaur" path_to_file="nanosaur_description/meshes/base_rear.stl" %} |
 
 I suggest orienting the STL following this picture and setup with:
 * **Supports**: Disable
@@ -83,7 +83,7 @@ To print this parts you need a **PLA green**. The average time will be: **1h** a
 
 | Quantity | Part            | 3D view |
 |:--------:|-----------------|:-------:|
-| 1        | [base_front.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/base_front.stl) | <script src="https://embed.github.com/view/3d/rnanosaur/nanosaur/master/nanosaur_description/meshes/base_front.stl?height=320&width=320"></script> |
+| 1        | [base_front.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/base_front.stl) | {% include 3dview.html username="rnanosaur" repo="nanosaur" path_to_file="nanosaur_description/meshes/base_front.stl" %} |
 
 I suggest orienting the STL following this picture and setup with:
 * **Supports**: Enable
@@ -100,8 +100,8 @@ To print this parts you need a **PLA green/black**. The average time will be: **
 
 | Quantity | Part            | 3D view |
 |:--------:|-----------------|:-------:|
-| 2        | [sprocket.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/sprocket.stl) | <script src="https://embed.github.com/view/3d/rnanosaur/nanosaur/master/nanosaur_description/meshes/sprocket.stl?height=320&width=320"></script> |
-| 2        | [wheel.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/wheel.stl) | <script src="https://embed.github.com/view/3d/rnanosaur/nanosaur/master/nanosaur_description/meshes/wheel.stl?height=320&width=320"></script> |
+| 2        | [sprocket.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/sprocket.stl) | {% include 3dview.html username="rnanosaur" repo="nanosaur" path_to_file="nanosaur_description/meshes/sprocket.stl" %} |
+| 2        | [wheel.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/wheel.stl) | {% include 3dview.html username="rnanosaur" repo="nanosaur" path_to_file="nanosaur_description/meshes/wheel.stl" %} |
 
 I suggest orienting the STL following this picture and setup with:
 * **Supports**: Disable
@@ -114,7 +114,7 @@ To print this parts you need a **PLA green**. The average time will be: **2h**.
 
 | Quantity | Part            | 3D view |
 |:--------:|-----------------|:-------:|
-| 2        | [slider.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/slider.stl) | <script src="https://embed.github.com/view/3d/rnanosaur/nanosaur/master/nanosaur_description/meshes/slider.stl?height=320&width=320"></script> |
+| 2        | [slider.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/slider.stl) | {% include 3dview.html username="rnanosaur" repo="nanosaur" path_to_file="nanosaur_description/meshes/slider.stl" %} |
 
 I suggest orienting the STL following this picture and setup with:
 * **Supports**: Disable
@@ -130,7 +130,7 @@ To print this parts you need a **PLA green**. The average time will be: **1h** a
 
 | Quantity | Part            | 3D view |
 |:--------:|-----------------|:-------:|
-| 1        | [cover.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/cover.stl) | <script src="https://embed.github.com/view/3d/rnanosaur/nanosaur/master/nanosaur_description/meshes/cover.stl?height=320&width=320"></script> |
+| 1        | [cover.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/cover.stl) | {% include 3dview.html username="rnanosaur" repo="nanosaur" path_to_file="nanosaur_description/meshes/cover.stl" %} |
 
 I suggest orienting the STL following this picture and setup with:
 * **Supports**: Disable
@@ -143,9 +143,9 @@ To print this parts you need a **PLA green**. The average time will be: **1h** a
 
 | Quantity | Part            | 3D view |
 |:--------:|-----------------|:-------:|
-| 1        | [flap_top.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/flap_top.stl) | <script src="https://embed.github.com/view/3d/rnanosaur/nanosaur/master/nanosaur_description/meshes/flap_top.stl?height=320&width=320"></script> |
-| 1        | [flap_bottom.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/flap_bottom.stl) | <script src="https://embed.github.com/view/3d/rnanosaur/nanosaur/master/nanosaur_description/meshes/flap_bottom.stl?height=320&width=320"></script> |
-| 1        | [pb_holder.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/pb_holder.stl) | <script src="https://embed.github.com/view/3d/rnanosaur/nanosaur/master/nanosaur_description/meshes/pb_holder.stl?height=320&width=320"></script> |
+| 1        | [flap_top.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/flap_top.stl) | {% include 3dview.html username="rnanosaur" repo="nanosaur" path_to_file="nanosaur_description/meshes/flap_top.stl" %} |
+| 1        | [flap_bottom.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/flap_bottom.stl) | {% include 3dview.html username="rnanosaur" repo="nanosaur" path_to_file="nanosaur_description/meshes/flap_bottom.stl" %} |
+| 1        | [pb_holder.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/pb_holder.stl) | {% include 3dview.html username="rnanosaur" repo="nanosaur" path_to_file="nanosaur_description/meshes/pb_holder.stl" %} |
 
 I suggest orienting the STL following this picture and setup with:
 * **Supports**: Enable
@@ -165,7 +165,7 @@ The average time will be: **1h** and **30min** for each track
 
 | Quantity | Part            | 3D view |
 |:--------:|-----------------|:-------:|
-| 2        | [track_print.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/track_print.stl) | <script src="https://embed.github.com/view/3d/rnanosaur/nanosaur/master/nanosaur_description/meshes/track_print.stl?height=320&width=320"></script> |
+| 2        | [track_print.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/track_print.stl) | {% include 3dview.html username="rnanosaur" repo="nanosaur" path_to_file="nanosaur_description/meshes/track_print.stl" %} |
 
 I suggest orienting the STL following this picture and setup with:
 * **Layer height**: 0.2mm

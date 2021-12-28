@@ -16,7 +16,7 @@ If you don't want print or you don't have a 3D printer you can buy all parts you
 **:bulb: Hint** There is a component missing, do you need an help? Ask on [Discord](https://discord.gg/kgqW7Hrk3u)
 {: .notice--info}
 
-# BOM
+# BoM
 
 This table is your necessary needed to make nanosaur. Few parts, starting from the NVIDIA Jetson, the PI camera, motors and the motor control.
 
@@ -49,7 +49,7 @@ nanosaur use a short set of M2 screw, you can buy a set
 |:--------:|-----------------------------|-------|
 | 6        | M2 nuts                     |       |
 | 6        | Hex M2 20mm                 |       |
-| 6        | Hex M2 6mm                  |       |
+| 2        | Hex M2 6mm                  |       |
 | 20       | Hex M2 4mm                  |       |
 
 If you are building nanosaur without magnets, you need other 3 extra screws
@@ -57,7 +57,7 @@ If you are building nanosaur without magnets, you need other 3 extra screws
 | Quantity | Part                        | Notes |
 |:--------:|-----------------------------|-------|
 | 1        | Hex M2 14mm                 |       |
-| 2        | Hex M2 6mm                  |       |
+| 4        | Hex M2 6mm                  |       |
 
 # Expansion board
 

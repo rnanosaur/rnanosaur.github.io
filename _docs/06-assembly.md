@@ -215,7 +215,7 @@ You need only:
 
 {% include gallery id="screwdrivers" caption="Set of screwdrivers" %}
 
-**:bulb: Hint** To simplify the assembly, **dry fit** of all screws after 3D print
+**:bulb: Hint** To simplify the assembly, **dry-fit** of all screws after 3D print
 {: .notice--info}
 
 # Power Bank holder
@@ -257,6 +257,9 @@ The two wheels and the two sprockets are simple to assemble. Pick it up the whee
 | 1        | USB cable                                                |
 | 4        | Hex M2 10mm                                              |
 
+**:bulb: Hint** To simplify the assembly, **dry-fit** of all screws after 3D print
+{: .notice--info}
+
 To assembly the flap, is relative simple, follow the pictures below, you need in the beginning soldering the [Expansion board](/expansion-board), when is done, you should follow these simple steps:
 
 1. mount the flap covers on the nanosaur expansion board
@@ -283,7 +286,10 @@ Now we are assembly the robot. We are ready to see finally Nanosaur riding on yo
 | 2        | Pololu Micro Gearbox                    |
 | 3        | magnet 4x2mm                            |
 
-**:bulb: Hint** If you don't want to use the magnets, but the screw, follow the optional guide [Screw Assembly](/extra/screw-assembly)
+**:bulb: Hint** If you don't want to use the magnets, but the screw, follow the optional guide [Screw Assembly](/option/screw-assembly)
+{: .notice--info}
+
+**:bulb: Hint** To simplify the assembly, **dry-fit** of all screws after 3D print
 {: .notice--info}
 
 **:warning: WARNING** Check the magnets orientation before to stick it!
@@ -328,10 +334,13 @@ When you assembly the rear part, the motor will be like the picture below.
 | Quantity | Part                                       |
 |:--------:|--------------------------------------------|
 | 2        | [Wheel](#wheels-and-sprocket)              |
-| 2        | [Slider](/3d-print#sliders)
-| 2        | [track_print.stl](/3d-print#print-tracks) |
+| 2        | [Slider](/3d-print#sliders)                |
+| 2        | [track_print.stl](/3d-print#print-tracks)  |
 | 6        | M2 nuts                                    |
 | 6        | Hex M2 20mm                                |
+
+**:bulb: Hint** To simplify the assembly, **dry-fit** of all screws after 3D print
+{: .notice--info}
 
 This part is relative simple, you need to follow for each track this simple steps:
 
@@ -356,6 +365,9 @@ The result will be like the picture below
 | 1        | NVIDIA Jetson Nano*     |
 | 1        | Adafruit motor control  |
 | 8        | Hex M2 4mm              |
+
+**:bulb: Hint** To simplify the assembly, **dry-fit** of all screws after 3D print
+{: .notice--info}
 
 This part need more attention, from this part, Nanosaur will be completed at 80%
 
@@ -388,7 +400,10 @@ Components to pick up
 | 12       | Hex M2 4mm                    |
 | 3        | magnet 4x2mm                  |
 
-**:bulb: Hint** If you don't want to use the magnets, but the screw, follow the optional guide [Screw Assembly](/extra/screw-assembly)
+**:bulb: Hint** If you don't want to use the magnets, but the screw, follow the optional guide [Screw Assembly](/option/screw-assembly)
+{: .notice--info}
+
+**:bulb: Hint** To simplify the assembly, **dry-fit** of all screws after 3D print
 {: .notice--info}
 
 **:warning: WARNING** Check the magnets orientation before to stick it!
@@ -440,7 +455,7 @@ Now clip the cover to body. Really simple the magnets will hold the cover withou
 | 1        | [Head](#head)                           |
 | 1        | [Power Bank holder](#power-bank-holder) |
 
-**:bulb: Hint** If you don't want to use the magnets, but the screw, follow the optional guide [Screw Assembly](/extra/screw-assembly)
+**:bulb: Hint** If you don't want to use the magnets, but the screw, follow the optional guide [Screw Assembly](/option/screw-assembly)
 {: .notice--info}
 
 {% include gallery id="power-bank" caption="Assembly nanosaur power bank" %}
