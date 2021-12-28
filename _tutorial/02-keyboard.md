@@ -16,7 +16,7 @@ If you are not familiar with it, please wait or join on [Discord](https://discor
 
 There are few steps to follow to install the required packages on your Ubuntu desktop and drive Nanosaur by Keyboard or by Joystick.
 
-<a href="//tutorial/install-desktop" class="btn btn--success">Install nanosaur workspace on Desktop</a>
+<a href="/tutorial/install-desktop" class="btn btn--success">Install nanosaur workspace on Desktop</a>
 
 # Setup shell
 
