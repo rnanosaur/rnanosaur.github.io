@@ -10,7 +10,7 @@ header:
   teaser: /assets/tutorial/wifi/desktop_selecting_ssid.png
 ---
 
-There are two ways to connect nanosaur on your Wi-Fi network using [Monitor-attached Mode](#monitor-attached-mode) or [Headless Mode](#headless-mode)
+There are two ways to connect nanosaur on your Wi-Fi network using [Monitor-attached Mode](#monitor-attached-mode) or [USB device Mode](#usb-device-mode)
 
 If you don't have a monitor and a keyboard near you, the [Headless Mode](#headless-mode) will be fast to set up the connection.
 
@@ -35,14 +35,17 @@ Now follow these steps:
 
 {% include figure image_path="/assets/tutorial/wifi/desktop_selecting_ssid.png" alt="Wi-Fi menu on Jetson Desktop" caption="Wi-Fi menu on Jetson Desktop" %}
 
-# Headless Mode 
+# USB device Mode
 
+With USB Device Mode, Jetson presents 3 different USB Device Class end-points to the PC that it got connected to.
 For this you need a USB cable between your desktop and nanosaur.
 
-Plug the usb cable and connect via ssh on nanosaur.
+They function as
+* USB mass storage device (you see `L4T-README` drive mounted on your PC, like a USB thumbdrive)
+* USB serial (like the common "FTDI" USB to serial adapter)
+* USB network interface card (like a virtual Ethernet adapter)
 
-**:bulb: Hint** You can use the same hostname defined on [install](/install) step.
-{: .notice--info}
+With the virtual Ethernet adapter functionality, Jetson forms a virtual local Ethernet network with Jetson being `192.168.55.1` and your PC being `192.168.55.100`. So you can actually SSH login from your (laptop) PC by specifying `192.168.55.1`, if you have already set up your account (with username and password).
 
 Now from the terminal write:
 
