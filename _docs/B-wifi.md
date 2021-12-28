@@ -12,7 +12,7 @@ header:
 
 There are two ways to connect nanosaur on your Wi-Fi network using [Monitor-attached Mode](#monitor-attached-mode) or [USB device Mode](#usb-device-mode)
 
-If you don't have a monitor and a keyboard near you, the [Headless Mode](#headless-mode) will be fast to set up the connection.
+If you don't have a monitor and a keyboard near you, the [USB device Mode](#usb-device-mode) will be fast to set up the connection.
 
 # Plug Wi-Fi dongle
 
