@@ -10,7 +10,7 @@ main:
   - title: ":robot: Community"
     url: /community/
   - title: "📰 All posts"
-    url: /categories/
+    url: /posts/
 
 docs:
   - title: Getting Started

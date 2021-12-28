@@ -1,7 +1,7 @@
 ---
-title: "Posts by Category"
-layout: categories
-permalink: /categories/
+title: "Posts by Tag"
+permalink: /tags/
+layout: tags
 author_profile: true
 classes: wide
 header:
@@ -10,8 +10,8 @@ header:
   overlay_image: /assets/images/tutorial.jpg
   teaser: /assets/images/tutorial.jpg
   actions:
-    - label: "📑 by Tags"
-      url: "/tags"
+    - label: "🗃️ by Category"
+      url: "/categories"
     - label: "📜 by Year"
       url: "/posts"
 ---
