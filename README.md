@@ -5,8 +5,10 @@
 ## Run locally
 
 ```
-bundle exec jekyll serve --incremental --livereload
+rake serve
 ```
+
+eq of: `bundle exec jekyll serve --config _config.yml,_config.dev.yml --incremental --livereload`
 
 ## Install Ruby
 
