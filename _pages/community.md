@@ -16,6 +16,6 @@ sidebar:
 Do you want add your robot in this collection, follow the guidelines on [share](/share)
 -->
 
-{% include discord.html discord_id="797461428646707211" %}
+{% include discord.html %}
 
 # Robots

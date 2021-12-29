@@ -19,6 +19,9 @@ search_full_content: true
 twitter:
   username: &twitter "raffaello86"
 
+discord:
+  id: 797461428646707211
+
 social:
   links: # An array of links to social media profiles
     - "https://twitter.com/raffaello86"
@@ -29,6 +32,8 @@ analytics:
   google:
     tracking_id: "UA-92957365-2"
     anonymize_ip: false # default
+  google-tag:
+    tracking_id: "GTM-WCM4XGH"
 
 author:
   name        : "Raffaello Bonghi"
