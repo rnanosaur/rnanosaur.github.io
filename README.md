@@ -36,6 +36,7 @@ bundle
 
 # Google TAG manager
 * https://www.analyticsmania.com/post/track-pdf-downloads-with-google-tag-manager-ga/
+* https://www.datadrivenu.com/track-downloads-google-analytics/
 
 # License
 
