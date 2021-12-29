@@ -21,10 +21,9 @@
     <tr>
     {% for pair in row %}
       {% unless pair[0] contains 'Footprint' or pair[0] contains 'Datasheet' %}
-        {% if pair[1] contains 'http://' %}
-          <td><a href="{{ pair[1] }}">{{ pair[1] | remove:'http://' | split:'/' | first }}</a></td>
-        {% elsif pair[1] contains 'https://' %}
-          <td><a href="{{ pair[1] }}">{{ pair[1] | remove:'https://' | split:'/' | first }}</a></td>
+        {% if pair[1] contains 'http://' or pair[1] contains 'https://' %}
+          {% assign name_url = pair[1] | remove:'https://' | remove:'http://' | split:'/' | first | remove:'www.' %}
+          <td><a href="{{ pair[1] }}">{{ name_url }}</a></td>
         {% else %}
           <td>{{ pair[1] }}</td>
         {% endif %}
