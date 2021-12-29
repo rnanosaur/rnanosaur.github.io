@@ -34,6 +34,9 @@ bundle
 * https://realfavicongenerator.net/
 * https://docs.github.com/en/free-pro-team@latest/github/managing-files-in-a-repository/3d-file-viewer
 
+# Google TAG manager
+* https://www.analyticsmania.com/post/track-pdf-downloads-with-google-tag-manager-ga/
+
 # License
 
 This project is under license [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
