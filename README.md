@@ -2,7 +2,31 @@
 
 [https://nanosaur.ai](https://nanosaur.ai) is a little tracked robot ROS2 enabled, made for an NVIDIA Jetson Nano
 
-## Run locally
+# Run locally
+
+If you have **docker** and **docker-compose** you can use only this command
+
+```
+docker-compose up -d
+```
+
+**Note:** If you are updating `config.yml` or `_config.dev.yml` please **restart** container.
+
+# Install ruby and run on your host
+
+If you want install all environment on your desktop you need to install **ruby**:
+
+https://gorails.com/setup/ubuntu/20.04#ruby-rbenv
+* Using rbenv
+* version 2.7.3
+
+When is done, please run:
+
+```
+bundle
+```
+
+to run on your local machine, please execute:
 
 ```
 rake serve
@@ -10,17 +34,7 @@ rake serve
 
 eq of: `bundle exec jekyll serve --config _config.yml,_config.dev.yml --incremental --livereload`
 
-## Install Ruby
-
-https://gorails.com/setup/ubuntu/20.04#ruby-rbenv
-* Using rbenv
-* version 2.7.3
-
-```
-bundle
-```
-
-### Theme reference
+# Theme reference
 
 * https://mmistakes.github.io/minimal-mistakes/
 * https://github.com/mmistakes/mm-github-pages-starter
