@@ -1,6 +1,6 @@
 ---
 layout: splash
-excerpt: "Fully 3D printable, based on ROS2 and Isaac ROS<br/>Designed & made by [Raffaello Bonghi](https://rnext.it)"
+excerpt: "Fully 3D printable, based on ROS2 and Isaac ROS.<br/> Designed & made by [Raffaello Bonghi](https://rnext.it)"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
