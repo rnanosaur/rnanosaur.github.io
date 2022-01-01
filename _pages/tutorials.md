@@ -1,4 +1,6 @@
 ---
+title: "Tutorials & Courses"
+excerpt: "Do you have 🦕 nanosaur? It's time to follow these tutorial or jump on the courses."
 layout: collection
 permalink: /tutorial/
 collection: tutorial

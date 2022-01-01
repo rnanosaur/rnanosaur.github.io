@@ -1,6 +1,6 @@
 ---
 title: "Quick-Start Guide"
-excerpt: "Let's go!"
+excerpt: "Build nanosaur and follow the guide. Let's go!"
 permalink: /quick-start/
 classes: wide
 header:
@@ -8,6 +8,9 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/nanosaur_build.jpg
   teaser: /assets/images/nanosaur_build.jpg
+  actions:
+  - label: ":books: Wiki"
+    url: "https://github.com/rnanosaur/nanosaur/wiki"
 ---
 
 {% include 3steps.md %}
