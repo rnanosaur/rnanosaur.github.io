@@ -31,18 +31,20 @@ docs:
         url: /install/
   - title: Options
     children:
-      - title: "Assembly without magnets"
+      - title: "🔩 Assembly without magnets"
         url: /optional/screw-assembly
-      - title: "Wi-Fi configuration"
+      - title: "👀 nanosaur heads"
+        url: /optional/cover
+      - title: "🛰️ Wi-Fi configuration"
         url: /optional/wifi
   - title: "🕹️ Play"
     url: /tutorial
     children:
-      - title: "Joystick drive"
+      - title: "- Joystick drive"
         url: /tutorial/joystick
-      - title: "Keyboard drive"
+      - title: "- Keyboard drive"
         url: /tutorial/keyboard
-      - title: "Web interface"
+      - title: "- Web interface"
         url: /tutorial/webinterface
   - title: Documentation
     children:
@@ -52,14 +54,16 @@ docs:
         url: https://github.com/rnanosaur/nanosaur/wiki
 
 tutorial:
+  - title: "Quick-Start Guide"
+    url: /quick-start/
   - title: "🕹️ Play"
     url: /tutorial
     children:
-      - title: "Joystick drive"
+      - title: "- Joystick drive"
         url: /tutorial/joystick
-      - title: "Keyboard drive"
+      - title: "- Keyboard drive"
         url: /tutorial/keyboard
-      - title: "Web interface"
+      - title: "- Web interface"
         url: /tutorial/webinterface
   - title: Documentation
     children:

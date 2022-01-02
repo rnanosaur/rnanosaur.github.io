@@ -25,6 +25,36 @@ flaps_pb_holder:
     image_path: /assets/docs/3d-print/flap_pb_holder_B.png
     alt: "Flap and power bank holder slicer support type tree"
     title: "Flap and power bank holder slicer support type tree"
+covers:
+  - image_path: /assets/docs/assembly/cover-fe/coverFishEye.png
+    alt: "Fish-eye cam"
+    title: "Fish-eye cam"
+    excerpt: "cover nanosaur for Fish-eye camera."
+    url: "/optional/cover#3d-print-wide-camera-cover"
+    btn_label: "3D print"
+    btn_class: "btn--success"
+covers-line2:
+  - image_path: /assets/docs/assembly/cover-cam/cover.png
+    alt: "PI cam v2"
+    title: "PI cam v2"
+    excerpt: "cover nanosaur for Raspberry Cam V2."
+    url: "/optional/cover#3d-print"
+    btn_label: "3D print"
+    btn_class: "btn--success"
+  - image_path: /assets/docs/assembly/cover-zedmini/cover_ZEDmini.png
+    alt: "ZED mini"
+    title: "ZED mini"
+    excerpt: "cover nanosaur for ZED mini."
+    url: "/optional/cover#3d-print-zed-mini-cover"
+    btn_label: "3D print"
+    btn_class: "btn--success"
+  - image_path: /assets/docs/assembly/cover-rs/cover_RealSense.png
+    alt: "Realsense"
+    title: "Realsense"
+    excerpt: "cover nanosaur for Realsense camera."
+    url: "/optional/cover#3d-print-realsense-cover"
+    btn_label: "3D print"
+    btn_class: "btn--success"
 ---
 
 If you are here you want 3D print nanosaur, it's simple, but long.
@@ -124,19 +154,6 @@ I suggest orienting the STL following this picture and setup with:
 
 {% include figure image_path="/assets/docs/3d-print/sliders.png" alt="sliders slicer" caption="sliders slicer" %}
 
-## Cover
-
-To print this parts you need a **PLA green**. The average time will be: **1h** and **45min**.
-
-| Quantity | Part            | 3D view |
-|:--------:|-----------------|:-------:|
-| 1        | [cover.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/cover.stl) | {% include 3dview.html username="rnanosaur" repo="nanosaur" path_to_file="nanosaur_description/meshes/cover.stl" %} |
-
-I suggest orienting the STL following this picture and setup with:
-* **Supports**: Disable
-
-{% include figure image_path="/assets/docs/3d-print/cover.png" alt="cover.stl slicer" caption="cover.stl slicer" %}
-
 ## Flap and Power bank holder
 
 To print this parts you need a **PLA green**. The average time will be: **1h** and **45min**.
@@ -156,6 +173,14 @@ I suggest orienting the STL following this picture and setup with:
   * **pb_holder.stl**: x=-55 y=0
 
 {% include gallery id="flaps_pb_holder" caption="flap and pb_holder slicer" %}
+
+## Cover
+
+nanosaur offers different covers for each camera or stereo camera choice. Select here which camera you prefer to print.
+
+{% include feature_row id="covers" type="left" %}
+
+{% include feature_row id="covers-line2" %}
 
 # Print tracks
 

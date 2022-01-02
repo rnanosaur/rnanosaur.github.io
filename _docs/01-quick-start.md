@@ -9,6 +9,10 @@ header:
   overlay_image: /assets/images/nanosaur_build.jpg
   teaser: /assets/images/nanosaur_build.jpg
   actions:
+  - label: ":sparkling_heart: Sponsor"
+    url: "https://github.com/sponsors/rbonghi"
+  - label: ":star: Star"
+    url: "https://github.com/rnanosaur/nanosaur"
   - label: ":books: Wiki"
     url: "https://github.com/rnanosaur/nanosaur/wiki"
 ---

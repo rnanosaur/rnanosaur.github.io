@@ -8,8 +8,6 @@ entries_layout: grid
 classes: wide
 author_profile: false
 sidebar:
-  - image: /assets/images/tutorial.jpg
-    image_alt: "nanosaur tutorial"
   - nav: "tutorial"
 header:
   overlay_color: "#000"

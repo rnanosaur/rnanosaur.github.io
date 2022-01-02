@@ -145,24 +145,6 @@ wiring-complete:
     image_path: /assets/docs/assembly/body-08-assembled.jpg
     alt: "Nanosaur body assembled"
     title: "Nanosaur body assembled"
-cover:
-  - url: /assets/docs/assembly/cover-01-magnets.png
-    image_path: /assets/docs/assembly/cover-01-magnets.png
-    alt: "Cover assembly magnets"
-    title: "Cover Assembly magnets"
-  - url: /assets/docs/assembly/cover-02-display.png
-    image_path: /assets/docs/assembly/cover-02-display.png
-    alt: "Cover assembly display"
-    title: "Cover Assembly display"
-  - url: /assets/docs/assembly/cover-03-cam.png
-    image_path: /assets/docs/assembly/cover-03-cam.png
-    alt: "Cover assembly camera"
-    title: "Assembly camera"
-cover-complete:
-  - url: /assets/docs/assembly/cover-04-assembled.jpg
-    image_path: /assets/docs/assembly/cover-04-assembled.jpg
-    alt: "Nanosaur cover assembled"
-    title: "Nanosaur cover assembled"
 body-head:
   - url: /assets/docs/assembly/body-head-01.png
     image_path: /assets/docs/assembly/body-head-01.png
@@ -196,6 +178,36 @@ power-bank-complete:
     image_path: /assets/docs/assembly/nanosaur-03-usb.jpg
     alt: "Plug the USB to the power bank"
     title: "Plug the USB to the power bank"
+covers:
+  - image_path: /assets/docs/assembly/cover-fe/nanosaur-cover-fe.png
+    alt: "Fish-eye cam"
+    title: "Fish-eye cam"
+    excerpt: "cover nanosaur for Fish-eye camera."
+    url: "/optional/cover#assembly-wide-camera-cover"
+    btn_label: "assembly"
+    btn_class: "btn--success"
+covers-line2:
+  - image_path: /assets/docs/assembly/cover-cam/nanosaur-cover.png
+    alt: "PI cam v2"
+    title: "PI cam v2"
+    excerpt: "cover nanosaur for Raspberry Cam V2."
+    url: "/optional/cover#assembly"
+    btn_label: "assembly"
+    btn_class: "btn--success"
+  - image_path: /assets/docs/assembly/cover-zedmini/nanosaur-cover-zedmini.png
+    alt: "ZED mini"
+    title: "ZED mini"
+    excerpt: "cover nanosaur for ZED mini."
+    url: "/optional/cover#assembly-zed-mini-cover"
+    btn_label: "assembly"
+    btn_class: "btn--success"
+  - image_path: /assets/docs/assembly/cover-rs/nanosaur-cover-realsense.png
+    alt: "Realsense"
+    title: "Realsense"
+    excerpt: "cover nanosaur for Realsense camera."
+    url: "/optional/cover#assembly-realsense-cover"
+    btn_label: "assembly"
+    btn_class: "btn--success"
 ---
 
 If you are here, you are ready to mount nanosaur!
@@ -390,36 +402,11 @@ When the body is assembled looks like the picture below
 
 # Head
 
-Components to pick up
+There are many options to assembly the nanosaur head. Follow the instructions from the cover your already printed.
 
-| Quantity | Part                          |
-|:--------:|-------------------------------|
-| 1        | [cover.stl](/3d-print/#cover) |
-| 1        | PI cam v2                     |
-| 2        | oLED display - 128x64px       |
-| 12       | Hex M2 4mm                    |
-| 3        | magnet 4x2mm                  |
+{% include feature_row id="covers" type="left" %}
 
-**:bulb: Hint** If you don't want to use the magnets, but the screw, follow the optional guide [Screw Assembly](/optional/screw-assembly)
-{: .notice--info}
-
-**:bulb: Hint** To simplify the assembly, **dry-fit** of all screws after 3D print
-{: .notice--info}
-
-**:warning: WARNING** Check the magnets orientation before to stick it!
-{: .notice--warning}
-
-We are looking the end of the assembling! 
-
-1. Bring three magnets and stick on the cover folloing the picture below
-2. Screw two 128x64px oLed display
-3. Screw the PI Cam
-
-{% include gallery id="cover" caption="Assembly components head" %}
-
-When the cover will be fully assembled, looks like the picture below. Remember to check that the flat cable look the base of the robot.
-
-{% include gallery id="cover-complete" caption="Body assembled" %}
+{% include feature_row id="covers-line2" %}
 
 # Full assembly
 

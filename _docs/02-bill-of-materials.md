@@ -1,5 +1,6 @@
 ---
 title: "Bill of Materials"
+excerpt: "Bill of Materials to build nanosaur."
 permalink: /bill-of-materials/
 toc: true
 toc_label: "Table of Contents"
@@ -26,7 +27,6 @@ This table is your necessary needed to make nanosaur. Few parts, starting from t
 | 1        | MicroSD card 64Gb           | :us: $9.99<br/>[Amazon](https://amzn.to/2X7rWpH) | :it:<br/>[Amazon](https://amzn.to/3mxPCR1) | :uk:<br/>[Amazon](https://amzn.to/3qv95mB) | :netherlands:<br/>[Amazon](https://amzn.to/3pw9FS1) |       |
 | 1        | Wi-Fi Dongle 5Ghz           | :us: $13.90<br/>[Amazon](https://amzn.to/3mDiBTE) | :it:<br/>[Amazon](https://amzn.to/3qOI3qP) | :uk:<br/>[Amazon](https://amzn.to/3sJXsen) | :netherlands:<br/>[Amazon](https://amzn.to/3HgC5FB) |       |
 | 1        | Power Bank                  | :us: $29.99<br/>[Amazon](https://amzn.to/2X8RNha) | :it:<br/>[Amazon](https://amzn.to/3syJ4Wl) | :uk:<br/>[Amazon](https://amzn.to/3ey5bnm) | :netherlands:<br/>[Amazon](https://amzn.to/3mB7eMd) | Size max:<br/>64mm x 94mm x 24mm<br/>(3in x 4in x 0.94in) |
-| 1        | Raspberry PI camera         | :us: $23.50<br/>[Amazon](https://amzn.to/2LgasF5) | :it:<br/>[Amazon](https://amzn.to/3sDmw6P) | :uk:<br/>[Amazon](https://amzn.to/3mwzn71) | :netherlands:<br/>[Amazon](https://amzn.to/3qvbGNn) |                                    |
 | 2        | Pololu Micro Gearbox        | :us: $25.75<br/>[Amazon](https://amzn.to/3hS4o1P) | :it:<br/>[Amazon](https://amzn.to/3JjEwZP) | :uk:<br/>[Amazon](https://amzn.to/3ey58YI) | :netherlands:<br/>[Amazon](https://amzn.to/3HgMG3j) | [Pololu 6V 150RPM](https://www.pololu.com/product/2368)<br/> **alternative**:<br/>[aliexpress.com](https://www.aliexpress.com/item/4000274747864.html) |
 | 1        | Adafruit motor control      | :us: $29.10<br/>[Amazon](https://amzn.to/392GhZU) | :it:<br/>[Amazon](https://amzn.to/3psMwjk) | :uk:<br/>[Amazon](https://amzn.to/3162czI) | :netherlands:<br/>[Amazon](https://amzn.to/3H6VYPo) | [DC Motor + Stepper FeatherWing Add-on](https://www.adafruit.com/product/2927)<br/> **alternative**:<br/>[aliexpress.com](https://www.aliexpress.com/item/4001089410177.html) |
 | 2        | oled display                | :us: $5<br/>[Amazon](https://amzn.to/3ocB3kJ) | :it:<br/>[Amazon](https://amzn.to/3EwAObC) | :uk:<br/>[Amazon](https://amzn.to/3HavufG) | :netherlands:<br/>[Amazon](https://amzn.to/3EwYaxK) | 128x64px 0.06in I2C<br/> Best price pack:<br/>[3 display](https://amzn.to/3d6Qgkv)  |
@@ -35,6 +35,17 @@ This table is your necessary needed to make nanosaur. Few parts, starting from t
 | -        | Expansion board             |           |           |           |           | [Expansion board](#expansion-board) | 
 | -        | 3D parts                    |           |           |           |           | [3D filaments](#3d-filaments)               |
 | -        | Hex M2 Screw set            | :us: $10*<br/>Amazon |           |           |           | [Screw set](#screw-set)             |
+
+## Cameras
+
+| Qt       | Part                        | :us: USA  | :it: Italy | :uk: UK | :netherlands: NL | Notes                               |
+|:--------:|-----------------------------|:---------:|:----------:|:-------:|:----------------:|-------------------------------------|
+| 1        | Raspberry PI camera         | :us: $23.50<br/>[Amazon](https://amzn.to/2LgasF5) | :it:<br/>[Amazon](https://amzn.to/3sDmw6P) | :uk:<br/>[Amazon](https://amzn.to/3mwzn71) | :netherlands:<br/>[Amazon](https://amzn.to/3qvbGNn) |                                    |
+| 1        | Waveshare IMX219-160 Camera  | :us: $23.50<br/>[Amazon](#) | :it:<br/>[Amazon](#) | :uk:<br/>[Amazon](https://amzn.to/3mOLkoJ) | :netherlands:<br/>[Amazon](#) | [For Fish-eye camera](/optional/cover#wide-angle-camera-fish-eye) |
+
+| 1        | Stainless Steel 1/4" Mounting Screw | :us: $23.50<br/>[Amazon](#) | :it:<br/>[Amazon](#) | :uk:<br/>[Amazon](https://amzn.to/3mOLkoJ) | :netherlands:<br/>[Amazon](#) | [For Fish-eye camera](/optional/cover#wide-angle-camera-fish-eye) |
+
+
 
 ## Optionals
 

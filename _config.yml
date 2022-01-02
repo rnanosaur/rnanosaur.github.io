@@ -11,6 +11,7 @@ name: &name "The smallest NVIDIA Jetson dinosaur robot"
 description: &description "nanosaur is a the smallest NVIDIA Jetson dinosaur robot, fully 3D printable, based on ROS2 and Isaac ROS designed and made by Raffaello Bonghi"
 url: https://nanosaur.ai
 repository: "rnanosaur/rnanosaur.github.io"
+logo: /assets/images/nanosaur-logo.png
 teaser: /assets/images/intro.jpg
 
 search: true
