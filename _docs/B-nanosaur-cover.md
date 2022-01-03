@@ -44,6 +44,9 @@ nav-cover-fe-print:
       I suggest orienting the STL following this picture and setup with:
         * **Supports**: Disable
   - name: "PrusaSlicer/SuperSlicer"
+    image: 
+      - image_path: /assets/docs/3d-print-slicer/coverFishEye.png
+    caption: "cover-fe.stl slicer"
     excerpt: >
       I suggest orienting the STL following this picture and setup with:
         * **Supports**: Disable
@@ -72,10 +75,15 @@ nav-cover-zedmini-print:
         * **Support structure**: Normal
         * **Support placement**: Touching buildplate
   - name: "PrusaSlicer/SuperSlicer"
+    image: 
+      - image_path: /assets/docs/3d-print-slicer/coverZEDmini.png
+      - image_path: /assets/docs/3d-print-slicer/coverZEDmini-detail.png
+    caption: "cover-zedmini.stl slicer"
     excerpt: >
       I suggest orienting the STL following this picture and setup with:
-        * **Supports**: Enable
-        * **Support structure**: Normal
+        * **Generate support material**: Enable
+        * **Support on build plate only**: Enable
+        * **Don't support brides**: Disable
 cover-zedmini:
   - url: /assets/docs/assembly/cover-zedmini/01-cover_ZEDmini.png
     image_path: /assets/docs/assembly/cover-zedmini/01-cover_ZEDmini.png
@@ -93,7 +101,7 @@ nav-cover-rs-print:
   - name: "Cura"
     image: 
       - image_path: /assets/docs/3d-print-cura/coverRealSense.png
-      - image_path: /assets/docs/3d-print-cura/coverZEDmini-detail.png
+      - image_path: /assets/docs/3d-print-cura/coverRealSense-detail.png
     caption: "cover-rs.stl slicer"
     excerpt: >
       I suggest orienting the STL following this picture and setup with:
@@ -101,10 +109,15 @@ nav-cover-rs-print:
         * **Support structure**: Normal
         * **Support placement**: Touching buildplate
   - name: "PrusaSlicer/SuperSlicer"
+    image: 
+      - image_path: /assets/docs/3d-print-slicer/coverRealSense.png
+      - image_path: /assets/docs/3d-print-slicer/coverRealSense-detail.png
+    caption: "cover-zedmini.stl slicer"
     excerpt: >
       I suggest orienting the STL following this picture and setup with:
-        * **Supports**: Enable
-        * **Support structure**: Normal
+        * **Generate support material**: Enable
+        * **Support on build plate only**: Enable
+        * **Don't support brides**: Disable
 cover-rs:
   - url: /assets/docs/assembly/cover-rs/01-cover_RealSense.png
     image_path: /assets/docs/assembly/cover-rs/01-cover_RealSense.png
