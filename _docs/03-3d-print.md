@@ -7,15 +7,69 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
-flaps_pb_holder:
-  - url: /assets/docs/3d-print/flap_pb_holder_A.png
-    image_path: /assets/docs/3d-print/flap_pb_holder_A.png
-    alt: "Flap and power bank holder orientation"
-    title: "Flap and power bank holder orientation"
-  - url: /assets/docs/3d-print/flap_pb_holder_B.png
-    image_path: /assets/docs/3d-print/flap_pb_holder_B.png
-    alt: "Flap and power bank holder slicer support type tree"
-    title: "Flap and power bank holder slicer support type tree"
+nav-base-rear:
+  - name: "Cura"
+    image:
+      - image_path: /assets/docs/3d-print/base_rear.png
+    caption: "base_rear.stl slicer"
+    excerpt: >
+      I suggest orienting the STL following this picture and setup with:
+        * **Supports**: Disable
+  - name: "SuperSlicer"
+    excerpt: >
+      I suggest orienting the STL following this picture and setup with:
+        * **Supports**: Disable
+nav-base-front:
+  - name: "Cura"
+    image: 
+      - url: /assets/docs/3d-print/base_front_A.png
+        image_path: /assets/docs/3d-print/base_front_A.png
+        alt: "base_front.stl orientation"
+        title: "base_front.stl orientation"
+      - url: /assets/docs/3d-print/base_front_B.png
+        image_path: /assets/docs/3d-print/base_front_B.png
+        alt: "base_front.stl slicer support type tree"
+        title: "base_front.stl slicer support type tree"
+    caption: "base_front.stl slicer"
+    excerpt: >
+      I suggest orienting the STL following this picture and setup with:
+        * **Supports**: Enable
+        * **Support structure**: Tree
+  - name: "SuperSlicer"
+    excerpt: "SuperSlicer configuration"
+nav-sliders:
+  - name: "Cura"
+    image: 
+      - image_path: /assets/docs/3d-print/sliders.png
+    caption: "sliders slicer"
+    excerpt: >
+      I suggest orienting the STL following this picture and setup with:
+        * **Supports**: Disable
+        * **Displacement**:
+          * **Left**: x=0 y=15
+          * **Right**: x=0 y=-15
+  - name: "SuperSlicer"
+nav-flaps-pb-holder:
+  - name: "Cura"
+    image: 
+      - url: /assets/docs/3d-print/flap_pb_holder_A.png
+        image_path: /assets/docs/3d-print/flap_pb_holder_A.png
+        alt: "Flap and power bank holder orientation"
+        title: "Flap and power bank holder orientation"
+      - url: /assets/docs/3d-print/flap_pb_holder_B.png
+        image_path: /assets/docs/3d-print/flap_pb_holder_B.png
+        alt: "Flap and power bank holder slicer support type tree"
+        title: "Flap and power bank holder slicer support type tree"
+    caption: "flap and pb_holder slicer"
+    excerpt: >
+      I suggest orienting the STL following this picture and setup with:
+        * **Supports**: Enable
+        * **Support structure**: Tree
+        * **Displacement**:
+          * **flap_bottom.stl**: x=20 y=0
+          * **flat_top.stl**: x=-20 y=0
+          * **pb_holder.stl**: x=-55 y=0
+  - name: "SuperSlicer"
 covers:
   - image_path: /assets/docs/assembly/cover-fe/coverFishEye.png
     alt: "Fish-eye cam"
@@ -46,37 +100,6 @@ covers-line2:
     url: "/optional/cover#3d-print-realsense-cover"
     btn_label: "3D print"
     btn_class: "btn--success"
-nav-base-rear:
-  - name: "Cura"
-    image:
-      - url: /assets/docs/3d-print/base_rear.png
-        image_path: /assets/docs/3d-print/base_rear.png
-    caption: "base_rear.stl slicer"
-    excerpt: >
-      I suggest orienting the STL following this picture and setup with:
-        * **Supports**: Disable
-  - name: "SuperSlicer"
-    excerpt: >
-      I suggest orienting the STL following this picture and setup with:
-        * **Supports**: Disable
-nav-base-front:
-  - name: "Cura"
-    image: 
-      - url: /assets/docs/3d-print/base_front_A.png
-        image_path: /assets/docs/3d-print/base_front_A.png
-        alt: "base_front.stl orientation"
-        title: "base_front.stl orientation"
-      - url: /assets/docs/3d-print/base_front_B.png
-        image_path: /assets/docs/3d-print/base_front_B.png
-        alt: "base_front.stl slicer support type tree"
-        title: "base_front.stl slicer support type tree"
-    caption: "base_front.stl slicer"
-    excerpt: >
-      I suggest orienting the STL following this picture and setup with:
-        * **Supports**: Enable
-        * **Support structure**: Tree
-  - name: "SuperSlicer"
-    excerpt: "SuperSlicer configuration"
 ---
 
 If you are here you want 3D print nanosaur, it's simple, but long.
@@ -160,13 +183,7 @@ To print this parts you need a **PLA green**. The average time will be: **2h**.
 |:--------:|-----------------|:-------:|
 | 2        | [slider.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/slider.stl) | {% include 3dview.html username="rnanosaur" repo="nanosaur" path_to_file="nanosaur_description/meshes/slider.stl" %} |
 
-I suggest orienting the STL following this picture and setup with:
-* **Supports**: Disable
-* **Displacement**:
-  * **Left**: x=0 y=15
-  * **Right**: x=0 y=-15
-
-{% include figure image_path="/assets/docs/3d-print/sliders.png" alt="sliders slicer" caption="sliders slicer" %}
+{% include navtab id="nav-sliders" %}
 
 ## Flap and Power bank holder
 
@@ -178,15 +195,7 @@ To print this parts you need a **PLA green**. The average time will be: **1h** a
 | 1        | [flap_bottom.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/flap_bottom.stl) | {% include 3dview.html username="rnanosaur" repo="nanosaur" path_to_file="nanosaur_description/meshes/flap_bottom.stl" %} |
 | 1        | [pb_holder.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/pb_holder.stl) | {% include 3dview.html username="rnanosaur" repo="nanosaur" path_to_file="nanosaur_description/meshes/pb_holder.stl" %} |
 
-I suggest orienting the STL following this picture and setup with:
-* **Supports**: Enable
-* **Support structure**: Tree
-* **Displacement**:
-  * **flap_bottom.stl**: x=20 y=0
-  * **flat_top.stl**: x=-20 y=0
-  * **pb_holder.stl**: x=-55 y=0
-
-{% include gallery id="flaps_pb_holder" caption="flap and pb_holder slicer" %}
+{% include navtab id="nav-flaps-pb-holder" %}
 
 ## Cover
 
