@@ -21,16 +21,6 @@
 
 {% for f in navtab %}
 <div id="{{ navtab_id }}-{{ f.name }}" class="tabcontent {{ navtab_id }}">
-
-    {% comment %}
-    <img src="{{ f.image_path | relative_url }}" alt="{% if f.alt %}{{ f.alt }}{% endif %}">
-    {%- if f.caption -%}
-    <figcaption>
-        {{ f.caption | markdownify | remove: "<p>" | remove: "</p>" }}
-    </figcaption>
-    {%- endif -%}
-    {% endcomment %}
-
     {% if f.image.size == 2 %}
         {% assign gallery_layout = 'half' %}
     {% elsif f.image.size >= 3 %}
@@ -38,7 +28,6 @@
     {% else %}
         {% assign gallery_layout = '' %}
     {% endif %}
-
     <figure class="{{ gallery_layout }} {{ include.class }}">
         {% for img in f.image %}
             {% if img.url %}
@@ -53,10 +42,8 @@
             <figcaption>{{ f.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
         {% endif %}
     </figure>
-
-
     {% if f.excerpt %}
-    <div class="archive__item-excerpt">
+    <div>
         {{ f.excerpt | markdownify }}
     </div>
     {% endif %}

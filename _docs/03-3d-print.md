@@ -15,7 +15,7 @@ nav-base-rear:
     excerpt: >
       I suggest orienting the STL following this picture and setup with:
         * **Supports**: Disable
-  - name: "SuperSlicer"
+  - name: "PrusaSlicer/SuperSlicer"
     excerpt: >
       I suggest orienting the STL following this picture and setup with:
         * **Supports**: Disable
@@ -35,7 +35,7 @@ nav-base-front:
       I suggest orienting the STL following this picture and setup with:
         * **Supports**: Enable
         * **Support structure**: Tree
-  - name: "SuperSlicer"
+  - name: "PrusaSlicer/SuperSlicer"
     excerpt: "SuperSlicer configuration"
 nav-wheels-sprokets:
   - name: "Cura"
@@ -45,7 +45,7 @@ nav-wheels-sprokets:
     excerpt: >
       I suggest orienting the STL following this picture and setup with:
         * **Supports**: Disable
-  - name: "SuperSlicer"
+  - name: "PrusaSlicer/SuperSlicer"
     excerpt: >
       I suggest orienting the STL following this picture and setup with:
         * **Supports**: Disable
@@ -60,7 +60,7 @@ nav-sliders:
         * **Displacement**:
           * **Left**: x=0 y=15
           * **Right**: x=0 y=-15
-  - name: "SuperSlicer"
+  - name: "PrusaSlicer/SuperSlicer"
 nav-flaps-pb-holder:
   - name: "Cura"
     image: 
@@ -81,7 +81,7 @@ nav-flaps-pb-holder:
           * **flap_bottom.stl**: x=20 y=0
           * **flat_top.stl**: x=-20 y=0
           * **pb_holder.stl**: x=-55 y=0
-  - name: "SuperSlicer"
+  - name: "PrusaSlicer/SuperSlicer"
 nav-tracks:
   - name: "Cura"
     image: 
@@ -94,7 +94,7 @@ nav-tracks:
         * **Infill**: 10%
         * **Supports**: Disable
         * **retraction**: Disable
-  - name: "SuperSlicer"
+  - name: "PrusaSlicer/SuperSlicer"
     excerpt: >
       I suggest orienting the STL following this picture and setup with:
         * **Supports**: Disable
@@ -229,6 +229,9 @@ nanosaur offers different covers for each camera or stereo camera choice. Select
 {% include feature_row id="covers" type="left" %}
 
 {% include feature_row id="covers-line2" %}
+
+**:bulb: Hint** A new cover for **OAK-D lite** will coming soon!
+{: .notice--info}
 
 # Print tracks
 

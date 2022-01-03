@@ -13,7 +13,7 @@ nav-cover-print:
     excerpt: >
       I suggest orienting the STL following this picture and setup with:
         * **Supports**: Disable
-  - name: "SuperSlicer"
+  - name: "PrusaSlicer/SuperSlicer"
     excerpt: >
       I suggest orienting the STL following this picture and setup with:
         * **Supports**: Disable
@@ -35,6 +35,18 @@ cover-complete:
     image_path: /assets/docs/assembly/cover-cam/cover-04-assembled.jpg
     alt: "Nanosaur cover assembled"
     title: "Nanosaur cover assembled"
+nav-cover-fe-print:
+  - name: "Cura"
+    image: 
+      - image_path: /assets/docs/3d-print/coverFishEye.png
+    caption: "cover-fe.stl slicer"
+    excerpt: >
+      I suggest orienting the STL following this picture and setup with:
+        * **Supports**: Disable
+  - name: "PrusaSlicer/SuperSlicer"
+    excerpt: >
+      I suggest orienting the STL following this picture and setup with:
+        * **Supports**: Disable
 cover-fe:
   - url: /assets/docs/assembly/cover-fe/01-coverFishEye.png
     image_path: /assets/docs/assembly/cover-fe/01-coverFishEye.png
@@ -48,6 +60,22 @@ cover-fe:
     image_path: /assets/docs/assembly/cover-fe/03-coverFishEye.png
     alt: "Cover assembly camera"
     title: "Assembly camera"
+nav-cover-zedmini-print:
+  - name: "Cura"
+    image: 
+      - image_path: /assets/docs/3d-print/coverZEDmini.png
+      - image_path: /assets/docs/3d-print/coverZEDmini-detail.png
+    caption: "cover-zedmini.stl slicer"
+    excerpt: >
+      I suggest orienting the STL following this picture and setup with:
+        * **Supports**: Enable
+        * **Support structure**: Normal
+        * **Support placement**: Touching buildplate
+  - name: "PrusaSlicer/SuperSlicer"
+    excerpt: >
+      I suggest orienting the STL following this picture and setup with:
+        * **Supports**: Enable
+        * **Support structure**: Normal
 cover-zedmini:
   - url: /assets/docs/assembly/cover-zedmini/01-cover_ZEDmini.png
     image_path: /assets/docs/assembly/cover-zedmini/01-cover_ZEDmini.png
@@ -61,6 +89,22 @@ cover-zedmini:
     image_path: /assets/docs/assembly/cover-zedmini/03-cover_ZEDmini.png
     alt: "Cover assembly ZEDmini"
     title: "Assembly ZEDmini"
+nav-cover-rs-print:
+  - name: "Cura"
+    image: 
+      - image_path: /assets/docs/3d-print/coverRealSense.png
+      - image_path: /assets/docs/3d-print/coverZEDmini-detail.png
+    caption: "cover-rs.stl slicer"
+    excerpt: >
+      I suggest orienting the STL following this picture and setup with:
+        * **Supports**: Enable
+        * **Support structure**: Normal
+        * **Support placement**: Touching buildplate
+  - name: "PrusaSlicer/SuperSlicer"
+    excerpt: >
+      I suggest orienting the STL following this picture and setup with:
+        * **Supports**: Enable
+        * **Support structure**: Normal
 cover-rs:
   - url: /assets/docs/assembly/cover-rs/01-cover_RealSense.png
     image_path: /assets/docs/assembly/cover-rs/01-cover_RealSense.png
@@ -136,8 +180,7 @@ When the cover will be fully assembled, looks like the picture below. Remember t
 |:--------:|-----------------|:-------:|
 | 1        | [cover-fe.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/cover-fe.stl) | {% include 3dview.html username="rnanosaur" repo="nanosaur" path_to_file="nanosaur_description/meshes/cover-fe.stl" %} |
 
-I suggest orienting the STL following this picture and setup with:
-* **Supports**: Disable
+{% include navtab id="nav-cover-fe-print" %}
 
 [Return to 3D printing](/3d-print/#cover){: .btn .btn--primary .align-center}
 
@@ -178,8 +221,7 @@ Components to pick up
 |:--------:|-----------------|:-------:|
 | 1        | [cover-zedmini.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/cover-zedmini.stl) | {% include 3dview.html username="rnanosaur" repo="nanosaur" path_to_file="nanosaur_description/meshes/cover-zedmini.stl" %} |
 
-I suggest orienting the STL following this picture and setup with:
-* **Supports**: Disable
+{% include navtab id="nav-cover-zedmini-print" %}
 
 [Return to 3D printing](/3d-print/#cover){: .btn .btn--primary .align-center}
 
@@ -223,8 +265,7 @@ Now follow these steps to assembly this head.
 |:--------:|-----------------|:-------:|
 | 1        | [cover-rs.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/cover-rs.stl) | {% include 3dview.html username="rnanosaur" repo="nanosaur" path_to_file="nanosaur_description/meshes/cover-rs.stl" %} |
 
-I suggest orienting the STL following this picture and setup with:
-* **Supports**: Disable
+{% include navtab id="nav-cover-rs-print" %}
 
 [Return to 3D printing](/3d-print/#cover){: .btn .btn--primary .align-center}
 
@@ -264,3 +305,11 @@ Now follow these steps to assembly this head.
 
 **:bulb: Hint** New cover coming soon!
 {: .notice--info}
+
+# LICENSE
+
+The **Nanosaur design** is under license [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg

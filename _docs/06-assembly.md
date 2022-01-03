@@ -408,6 +408,9 @@ There are many options to assembly the nanosaur head. Follow the instructions fr
 
 {% include feature_row id="covers-line2" %}
 
+**:bulb: Hint** A new cover for **OAK-D lite** will coming soon!
+{: .notice--info}
+
 # Full assembly
 
 Finally we are at the last step to build nanosaur, we only need to mount the head and the nanosaur, let's go!
