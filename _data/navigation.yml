@@ -37,6 +37,8 @@ docs:
         url: /optional/cover
       - title: "🛰️ Wi-Fi configuration"
         url: /optional/wifi
+      - title: "🕶️ Gadgets"
+        url: /optional/gadgets
   - title: "🕹️ Play"
     url: /tutorial
     children:

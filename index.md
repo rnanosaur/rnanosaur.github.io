@@ -1,6 +1,6 @@
 ---
 layout: splash
-excerpt: "The smallest NVIDIA Jetson dinosaur robot, <br/>open-source, fully 3D printable, based on ROS2 & Isaac ROS.<br/> Designed & made by [Raffaello Bonghi](https://rnext.it)"
+excerpt: "The smallest NVIDIA Jetson dinosaur robot, open-source, fully 3D printable, based on ROS2 & Isaac ROS.<br/> <small>Designed & made by [Raffaello Bonghi](https://rnext.it)</small>"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -13,7 +13,7 @@ header:
   - label: ":wrench: Make"
     url: "/quick-start/"
 intro: 
-  - excerpt: '🦕 nanosaur is the smallest NVIDIA Jetson dinosaur robot, fully 3D printable.<br/>In 10 x 12 x 6cm and 500g use only a power-bank and works in [ROS2](https://www.ros.org/) is simple to build and simple to use. <a href="#"></a>'
+  - excerpt: '🦕 nanosaur is an open-source and 3D printable platform, designed to wandering on your desk. With this platform you can learn the fundamentals of [ROS2](https://www.ros.org/) and NVIDIA [Isaac ROS](https://developer.nvidia.com/isaac-ros-gems) GEMs. Learning how to use AI applied in robotics.'
 feature_row:
   - image_path: /assets/images/nanosaur_og.jpg
     alt: "About nanosaur"
