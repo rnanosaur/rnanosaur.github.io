@@ -133,7 +133,7 @@ cover-rs:
     title: "Assembly Realsense D435i"
 ---
 
-In this page are collected all cover that you can use with nanosaur. Starting from a simple MIPI camera, such as the Raspberry Camera V2 or stereocamera like the [Stereolabs ZEDmini](https://www.stereolabs.com/zed-mini/) or a [Intel Realsense d435i](https://www.intelrealsense.com/depth-camera-d435i/).
+In this page are collected all cover that you can use with nanosaur. Starting from a simple MIPI camera, such as the **Raspberry Camera V2** or stereocamera like the [Stereolabs ZEDmini](https://www.stereolabs.com/zed-mini/) or a [Intel Realsense d435i](https://www.intelrealsense.com/depth-camera-d435i/).
 
 The **Nanosaur design** is under license [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 {: .notice}
@@ -198,7 +198,7 @@ This documentation is for a **Waveshare IMX219-160 Camera** cover. The Bill of M
 
 | Qt       | Part                        | :us: USA  | :it: Italy | :uk: UK | :netherlands: NL | Notes                               |
 |:--------:|-----------------------------|:---------:|:----------:|:-------:|:----------------:|-------------------------------------|
-| 1        | Waveshare IMX219-160 Camera  | :us: $23.50<br/>[Amazon](#) | :it:<br/>[Amazon](#) | :uk:<br/>[Amazon](https://amzn.to/3mOLkoJ) | :netherlands:<br/>[Amazon](#) |         |
+| 1        | Waveshare IMX219-160 Camera  | :us: $30<br/>[Amazon](https://amzn.to/3zlkxFy) | :it:<br/>[Amazon](https://amzn.to/32CJYXr) | :uk:<br/>[Amazon](https://amzn.to/3mOLkoJ) | :netherlands:<br/>[Amazon](https://amzn.to/31m8Ly5) |         |
 
 [Return to BoM](/bill-of-materials/#cameras){: .btn .btn--warning .align-center}
 
@@ -247,7 +247,8 @@ This documentation is for a **Stereolabs ZEDmini** cover. The Bill of Material n
 
 | Qt       | Part                        | :us: USA  | :it: Italy | :uk: UK | :netherlands: NL | Notes                               |
 |:--------:|-----------------------------|:---------:|:----------:|:-------:|:----------------:|-------------------------------------|
-| 1        | Sterolabs ZED mini          | :us: $23.50<br/>[Amazon](#) | :it:<br/>[Amazon](#) | :uk:<br/>[Amazon](#) | :netherlands:<br/>[Amazon](#) |         |
+| 1        | Sterolabs ZED mini          |  $399     |            |         | | [Stereolabs](https://store.stereolabs.com/products/zed-mini) |
+| 1        | 90 Degree USB 2.0 to Type C Right/Left Angled Male Cable Gold Plated USB C Extension Cord | :us: $8<br/>[Amazon](https://amzn.to/3sTw2Ti) |  | :uk:<br/>[Amazon](https://amzn.to/3FU9gyk) |  |         |
 
 [Return to BoM](/bill-of-materials/#cameras){: .btn .btn--warning .align-center}
 
@@ -299,8 +300,9 @@ This documentation is for a **Intel realsense d435i** cover. The Bill of Materia
 
 | Qt       | Part                        | :us: USA  | :it: Italy | :uk: UK | :netherlands: NL | Notes                               |
 |:--------:|-----------------------------|:---------:|:----------:|:-------:|:----------------:|-------------------------------------|
-| 1        | Stainless Steel 1/4" Mounting Screw | :us: $23.50<br/>[Amazon](#) | :it:<br/>[Amazon](#) | :uk:<br/>[Amazon](https://amzn.to/3mOLkoJ) | :netherlands:<br/>[Amazon](#) |          |
-| 1        | Intel Realsense d435i       | :us: $23.50<br/>[Amazon](#) | :it:<br/>[Amazon](#) | :uk:<br/>[Amazon](#) | :netherlands:<br/>[Amazon](#) |         |
+| 1        | Stainless Steel 1/4" Mounting Screw | :us: $8<br/>[Amazon](https://amzn.to/3FQNLi5) | :it:<br/>[Amazon](https://amzn.to/3pPKbPK) | :uk:<br/>[Amazon](https://amzn.to/3mOLkoJ) |    |          |
+| 1        | 90 Degree USB 2.0 to Type C Right/Left Angled Male Cable Gold Plated USB C Extension Cord | :us: $8<br/>[Amazon](https://amzn.to/3sTw2Ti) |  | :uk:<br/>[Amazon](https://amzn.to/3FU9gyk) |  |         |
+| 1        | Intel Realsense d435i       | :us: $500<br/>[Amazon](https://amzn.to/31oARJa) | :it:<br/>[Amazon](https://amzn.to/3EQrS0T) | :uk:<br/>[Amazon](https://amzn.to/347q470) | :netherlands:<br/>[Amazon](https://amzn.to/3qQL0am) |         |
 
 [Return to BoM](/bill-of-materials/#cameras){: .btn .btn--warning .align-center}
 
