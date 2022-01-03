@@ -14,6 +14,9 @@ nav-cover-print:
       I suggest orienting the STL following this picture and setup with:
         * **Supports**: Disable
   - name: "PrusaSlicer/SuperSlicer"
+    image: 
+      - image_path: /assets/docs/3d-print-slicer/cover.png
+    caption: "cover.stl slicer"
     excerpt: >
       I suggest orienting the STL following this picture and setup with:
         * **Supports**: Disable
