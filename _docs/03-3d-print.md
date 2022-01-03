@@ -37,6 +37,18 @@ nav-base-front:
         * **Support structure**: Tree
   - name: "SuperSlicer"
     excerpt: "SuperSlicer configuration"
+nav-wheels-sprokets:
+  - name: "Cura"
+    image: 
+      - image_path: /assets/docs/3d-print/wheel_sprocket.png
+    caption: "wheels and sprockets slicer"
+    excerpt: >
+      I suggest orienting the STL following this picture and setup with:
+        * **Supports**: Disable
+  - name: "SuperSlicer"
+    excerpt: >
+      I suggest orienting the STL following this picture and setup with:
+        * **Supports**: Disable
 nav-sliders:
   - name: "Cura"
     image: 
@@ -70,6 +82,22 @@ nav-flaps-pb-holder:
           * **flat_top.stl**: x=-20 y=0
           * **pb_holder.stl**: x=-55 y=0
   - name: "SuperSlicer"
+nav-tracks:
+  - name: "Cura"
+    image: 
+      - image_path: /assets/docs/3d-print/track_print.png
+    caption: "track_print.stl slicer"
+    excerpt: >
+      I suggest orienting the STL following this picture and setup with:
+        * **Layer height**: 0.2mm
+        * **Print speed**: 30mm/s
+        * **Infill**: 10%
+        * **Supports**: Disable
+        * **retraction**: Disable
+  - name: "SuperSlicer"
+    excerpt: >
+      I suggest orienting the STL following this picture and setup with:
+        * **Supports**: Disable
 covers:
   - image_path: /assets/docs/assembly/cover-fe/coverFishEye.png
     alt: "Fish-eye cam"
@@ -170,10 +198,7 @@ To print this parts you need a **PLA green/black**. The average time will be: **
 | 2        | [sprocket.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/sprocket.stl) | {% include 3dview.html username="rnanosaur" repo="nanosaur" path_to_file="nanosaur_description/meshes/sprocket.stl" %} |
 | 2        | [wheel.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/wheel.stl) | {% include 3dview.html username="rnanosaur" repo="nanosaur" path_to_file="nanosaur_description/meshes/wheel.stl" %} |
 
-I suggest orienting the STL following this picture and setup with:
-* **Supports**: Disable
-
-{% include figure image_path="/assets/docs/3d-print/wheel_sprocket.png" alt="wheels and sprockets slicer" caption="wheels and sprockets slicer" %}
+{% include navtab id="nav-wheels-sprokets" %}
 
 ## Sliders
 
@@ -215,14 +240,7 @@ The average time will be: **1h** and **30min** for each track
 |:--------:|-----------------|:-------:|
 | 2        | [track_print.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/track_print.stl) | {% include 3dview.html username="rnanosaur" repo="nanosaur" path_to_file="nanosaur_description/meshes/track_print.stl" %} |
 
-I suggest orienting the STL following this picture and setup with:
-* **Layer height**: 0.2mm
-* **Print speed**: 30mm/s
-* **Infill**: 10%
-* **Supports**: Disable
-* **retraction**: Disable
-
-{% include figure image_path="/assets/docs/3d-print/track_print.png" alt="track_print.stl slicer" caption="track_print.stl slicer" %}
+{% include navtab id="nav-tracks" %}
 
 # LICENSE
 
