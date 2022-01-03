@@ -2,6 +2,8 @@
 title: "Bill of Materials"
 excerpt: "Bill of Materials to build nanosaur."
 permalink: /bill-of-materials/
+redirect_from:
+  - /extra/bom-countries
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
