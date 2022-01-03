@@ -2,7 +2,7 @@
 title: "3D print"
 permalink: /3d-print/
 header:
-  teaser: /assets/docs/3d-print/base_rear.png
+  teaser: /assets/docs/3d-print-cura/base_rear.png
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
@@ -10,24 +10,27 @@ toc_sticky: true
 nav-base-rear:
   - name: "Cura"
     image:
-      - image_path: /assets/docs/3d-print/base_rear.png
+      - image_path: /assets/docs/3d-print-cura/base_rear.png
     caption: "base_rear.stl slicer"
     excerpt: >
       I suggest orienting the STL following this picture and setup with:
         * **Supports**: Disable
   - name: "PrusaSlicer/SuperSlicer"
+    image:
+      - image_path: /assets/docs/3d-print-slicer/base-rear.png
+    caption: "base_rear.stl slicer"
     excerpt: >
       I suggest orienting the STL following this picture and setup with:
         * **Supports**: Disable
 nav-base-front:
   - name: "Cura"
     image: 
-      - url: /assets/docs/3d-print/base_front_A.png
-        image_path: /assets/docs/3d-print/base_front_A.png
+      - url: /assets/docs/3d-print-cura/base_front_A.png
+        image_path: /assets/docs/3d-print-cura/base_front_A.png
         alt: "base_front.stl orientation"
         title: "base_front.stl orientation"
-      - url: /assets/docs/3d-print/base_front_B.png
-        image_path: /assets/docs/3d-print/base_front_B.png
+      - url: /assets/docs/3d-print-cura/base_front_B.png
+        image_path: /assets/docs/3d-print-cura/base_front_B.png
         alt: "base_front.stl slicer support type tree"
         title: "base_front.stl slicer support type tree"
     caption: "base_front.stl slicer"
@@ -36,23 +39,42 @@ nav-base-front:
         * **Supports**: Enable
         * **Support structure**: Tree
   - name: "PrusaSlicer/SuperSlicer"
-    excerpt: "SuperSlicer configuration"
+    image: 
+      - url: /assets/docs/3d-print-slicer/base_front_A.png
+        image_path: /assets/docs/3d-print-slicer/base_front_A.png
+        alt: "base_front.stl orientation"
+        title: "base_front.stl orientation"
+      - url: /assets/docs/3d-print-slicer/base_front_B.png
+        image_path: /assets/docs/3d-print-slicer/base_front_B.png
+        alt: "base_front.stl detail supports"
+        title: "base_front.stl detail supports"
+    caption: "base_front.stl slicer"
+    excerpt: >
+      I suggest orienting the STL following this picture and setup with:
+        * **Generate support material**: Enable
+        * **Support on build plate only**: Enable
+        * **Don't support brides**: Disable
 nav-wheels-sprokets:
   - name: "Cura"
     image: 
-      - image_path: /assets/docs/3d-print/wheel_sprocket.png
+      - image_path: /assets/docs/3d-print-cura/wheel_sprocket.png
     caption: "wheels and sprockets slicer"
     excerpt: >
       I suggest orienting the STL following this picture and setup with:
+        * **Use the auto arrange button**
         * **Supports**: Disable
   - name: "PrusaSlicer/SuperSlicer"
+    image:
+      - image_path: /assets/docs/3d-print-slicer/wheel-sproket.png
+    caption: "wheels and sprockets slicer"
     excerpt: >
       I suggest orienting the STL following this picture and setup with:
+        * **Use the auto arrange button**
         * **Supports**: Disable
 nav-sliders:
   - name: "Cura"
     image: 
-      - image_path: /assets/docs/3d-print/sliders.png
+      - image_path: /assets/docs/3d-print-cura/sliders.png
     caption: "sliders slicer"
     excerpt: >
       I suggest orienting the STL following this picture and setup with:
@@ -61,15 +83,22 @@ nav-sliders:
           * **Left**: x=0 y=15
           * **Right**: x=0 y=-15
   - name: "PrusaSlicer/SuperSlicer"
+    image:
+      - image_path: /assets/docs/3d-print-slicer/sliders.png
+    caption: "wheels and sprockets slicer"
+    excerpt: >
+      I suggest orienting the STL following this picture and setup with:
+        * **Use the auto arrange button**
+        * **Supports**: Disable
 nav-flaps-pb-holder:
   - name: "Cura"
     image: 
-      - url: /assets/docs/3d-print/flap_pb_holder_A.png
-        image_path: /assets/docs/3d-print/flap_pb_holder_A.png
+      - url: /assets/docs/3d-print-cura/flap_pb_holder_A.png
+        image_path: /assets/docs/3d-print-cura/flap_pb_holder_A.png
         alt: "Flap and power bank holder orientation"
         title: "Flap and power bank holder orientation"
-      - url: /assets/docs/3d-print/flap_pb_holder_B.png
-        image_path: /assets/docs/3d-print/flap_pb_holder_B.png
+      - url: /assets/docs/3d-print-cura/flap_pb_holder_B.png
+        image_path: /assets/docs/3d-print-cura/flap_pb_holder_B.png
         alt: "Flap and power bank holder slicer support type tree"
         title: "Flap and power bank holder slicer support type tree"
     caption: "flap and pb_holder slicer"
@@ -82,22 +111,50 @@ nav-flaps-pb-holder:
           * **flat_top.stl**: x=-20 y=0
           * **pb_holder.stl**: x=-55 y=0
   - name: "PrusaSlicer/SuperSlicer"
+    image: 
+      - url: /assets/docs/3d-print-slicer/flap_pb_holder_A.png
+        image_path: /assets/docs/3d-print-slicer/flap_pb_holder_A.png
+        alt: "Flap and power bank holder orientation"
+        title: "Flap and power bank holder orientation"
+      - url: /assets/docs/3d-print-slicer/flap_pb_holder_B.png
+        image_path: /assets/docs/3d-print-slicer/flap_pb_holder_B.png
+        alt: "Upper flap - paint remove selection"
+        title: "Upper flap - paint remove selection"
+      - url: /assets/docs/3d-print-slicer/flap_pb_holder_C.png
+        image_path: /assets/docs/3d-print-slicer/flap_pb_holder_C.png
+        alt: "Power Bank holder - paint remove selection"
+        title: "Power Bank holder - paint remove selection"
+    caption: "flap and pb_holder slicer"
+    excerpt: >
+      Follow the images and using the **Paint-on supports tool** block all supports on:
+        * Power bank holder
+        * Upper flap
+
+      I suggest orienting the STL following this picture and setup with:
+        * **Generate support material**: Enable
+        * **Support on build plate only**: Enable
+        * **Don't support brides**: Disable
 nav-tracks:
   - name: "Cura"
     image: 
-      - image_path: /assets/docs/3d-print/track_print.png
+      - image_path: /assets/docs/3d-print-cura/track_print.png
     caption: "track_print.stl slicer"
     excerpt: >
       I suggest orienting the STL following this picture and setup with:
-        * **Layer height**: 0.2mm
         * **Print speed**: 30mm/s
         * **Infill**: 10%
         * **Supports**: Disable
-        * **retraction**: Disable
+        * **Retraction**: Disable
   - name: "PrusaSlicer/SuperSlicer"
+    image: 
+      - image_path: /assets/docs/3d-print-slicer/track_print.png
+    caption: "track_print.stl slicer"
     excerpt: >
       I suggest orienting the STL following this picture and setup with:
+        * **Print speed**: 30mm/s
+        * **Infill**: 10%
         * **Supports**: Disable
+        * **Retraction**: Disable
 covers:
   - image_path: /assets/docs/assembly/cover-fe/coverFishEye.png
     alt: "Fish-eye cam"
@@ -135,8 +192,11 @@ If you are here you want 3D print nanosaur, it's simple, but long.
 The **Nanosaur design** is under license [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 {: .notice}
 
-I use [Cura slicer](https://ultimaker.com/software/ultimaker-cura), but all other slicer works fine. 
-Following this guideline the total time to print nanosaur will be:
+In this guide you will find two different guidelines for three popular slicers:
+1. [**Cura**](https://ultimaker.com/software/ultimaker-cura)
+2. [**PrusaSlicer**](https://www.prusa3d.com/page/prusaslicer_424/) or [**SuperSlicer**](https://github.com/supermerill/SuperSlicer)
+
+Following this guideline the average time to print nanosaur is:
 
 | Qt | Part            | Material        | Time  | Notes                                                     |
 |:--:|-----------------|-----------------|:-----:|-----------------------------------------------------------|

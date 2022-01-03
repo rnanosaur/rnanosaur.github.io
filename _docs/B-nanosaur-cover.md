@@ -8,7 +8,7 @@ toc_sticky: true
 nav-cover-print:
   - name: "Cura"
     image: 
-      - image_path: /assets/docs/3d-print/cover.png
+      - image_path: /assets/docs/3d-print-cura/cover.png
     caption: "cover.stl slicer"
     excerpt: >
       I suggest orienting the STL following this picture and setup with:
@@ -38,7 +38,7 @@ cover-complete:
 nav-cover-fe-print:
   - name: "Cura"
     image: 
-      - image_path: /assets/docs/3d-print/coverFishEye.png
+      - image_path: /assets/docs/3d-print-cura/coverFishEye.png
     caption: "cover-fe.stl slicer"
     excerpt: >
       I suggest orienting the STL following this picture and setup with:
@@ -63,8 +63,8 @@ cover-fe:
 nav-cover-zedmini-print:
   - name: "Cura"
     image: 
-      - image_path: /assets/docs/3d-print/coverZEDmini.png
-      - image_path: /assets/docs/3d-print/coverZEDmini-detail.png
+      - image_path: /assets/docs/3d-print-cura/coverZEDmini.png
+      - image_path: /assets/docs/3d-print-cura/coverZEDmini-detail.png
     caption: "cover-zedmini.stl slicer"
     excerpt: >
       I suggest orienting the STL following this picture and setup with:
@@ -92,8 +92,8 @@ cover-zedmini:
 nav-cover-rs-print:
   - name: "Cura"
     image: 
-      - image_path: /assets/docs/3d-print/coverRealSense.png
-      - image_path: /assets/docs/3d-print/coverZEDmini-detail.png
+      - image_path: /assets/docs/3d-print-cura/coverRealSense.png
+      - image_path: /assets/docs/3d-print-cura/coverZEDmini-detail.png
     caption: "cover-rs.stl slicer"
     excerpt: >
       I suggest orienting the STL following this picture and setup with:
