@@ -205,3 +205,4 @@ tag_archive:
 after_footer_scripts :
   - /assets/js/cookie-consent.js
   - /assets/js/copyCode.js
+  - /assets/js/navtab.js

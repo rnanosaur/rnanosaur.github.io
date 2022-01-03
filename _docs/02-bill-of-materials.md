@@ -34,18 +34,33 @@ This table is your necessary needed to make nanosaur. Few parts, starting from t
 | 10       | Magnets 4x2mm              | :us: $10.99<br/>[Amazon](https://amzn.to/3pwnnTp) |   |  | :netherlands:<br/>[Amazon](https://amzn.to/3z1FgOD) | **alternative**:<br/>[aliexpress.com](https://www.aliexpress.com/item/1005001530483863.html)                          |
 | -        | Expansion board             |           |           |           |           | [Expansion board](#expansion-board) | 
 | -        | 3D parts                    |           |           |           |           | [3D filaments](#3d-filaments)               |
-| -        | Hex M2 Screw set            | :us: $10*<br/>Amazon |           |           |           | [Screw set](#screw-set)             |
+| -        | Hex M2 Screw set            | :us: $10*<br/>Amazon |            |           |           | [Screw set](#screw-set)             |
 
 ## Cameras
 
+### Raspberry PI camera v2
+
 | Qt       | Part                        | :us: USA  | :it: Italy | :uk: UK | :netherlands: NL | Notes                               |
 |:--------:|-----------------------------|:---------:|:----------:|:-------:|:----------------:|-------------------------------------|
-| 1        | Raspberry PI camera         | :us: $23.50<br/>[Amazon](https://amzn.to/2LgasF5) | :it:<br/>[Amazon](https://amzn.to/3sDmw6P) | :uk:<br/>[Amazon](https://amzn.to/3mwzn71) | :netherlands:<br/>[Amazon](https://amzn.to/3qvbGNn) |                                    |
+| 1        | Raspberry PI camera v2      | :us: $23.50<br/>[Amazon](https://amzn.to/2LgasF5) | :it:<br/>[Amazon](https://amzn.to/3sDmw6P) | :uk:<br/>[Amazon](https://amzn.to/3mwzn71) | :netherlands:<br/>[Amazon](https://amzn.to/3qvbGNn) |                                    |
+
+### Fisheye camera
+
+| Qt       | Part                        | :us: USA  | :it: Italy | :uk: UK | :netherlands: NL | Notes                               |
+|:--------:|-----------------------------|:---------:|:----------:|:-------:|:----------------:|-------------------------------------|
 | 1        | Waveshare IMX219-160 Camera  | :us: $23.50<br/>[Amazon](#) | :it:<br/>[Amazon](#) | :uk:<br/>[Amazon](https://amzn.to/3mOLkoJ) | :netherlands:<br/>[Amazon](#) | [For Fish-eye camera](/optional/cover#wide-angle-camera-fish-eye) |
 
+### ZED mini
+
+| Qt       | Part                        | :us: USA  | :it: Italy | :uk: UK | :netherlands: NL | Notes                               |
+|:--------:|-----------------------------|:---------:|:----------:|:-------:|:----------------:|-------------------------------------|
 | 1        | Stainless Steel 1/4" Mounting Screw | :us: $23.50<br/>[Amazon](#) | :it:<br/>[Amazon](#) | :uk:<br/>[Amazon](https://amzn.to/3mOLkoJ) | :netherlands:<br/>[Amazon](#) | [For Fish-eye camera](/optional/cover#wide-angle-camera-fish-eye) |
 
+### Realsense D435i
 
+| Qt       | Part                        | :us: USA  | :it: Italy | :uk: UK | :netherlands: NL | Notes                               |
+|:--------:|-----------------------------|:---------:|:----------:|:-------:|:----------------:|-------------------------------------|
+| 1        | Stainless Steel 1/4" Mounting Screw | :us: $23.50<br/>[Amazon](#) | :it:<br/>[Amazon](#) | :uk:<br/>[Amazon](https://amzn.to/3mOLkoJ) | :netherlands:<br/>[Amazon](#) | [For Fish-eye camera](/optional/cover#wide-angle-camera-fish-eye) |
 
 ## Optionals
 

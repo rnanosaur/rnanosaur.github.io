@@ -7,15 +7,6 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
-base_front:
-  - url: /assets/docs/3d-print/base_front_A.png
-    image_path: /assets/docs/3d-print/base_front_A.png
-    alt: "base_front.stl orientation"
-    title: "base_front.stl orientation"
-  - url: /assets/docs/3d-print/base_front_B.png
-    image_path: /assets/docs/3d-print/base_front_B.png
-    alt: "base_front.stl slicer support type tree"
-    title: "base_front.stl slicer support type tree"
 flaps_pb_holder:
   - url: /assets/docs/3d-print/flap_pb_holder_A.png
     image_path: /assets/docs/3d-print/flap_pb_holder_A.png
@@ -55,6 +46,37 @@ covers-line2:
     url: "/optional/cover#3d-print-realsense-cover"
     btn_label: "3D print"
     btn_class: "btn--success"
+nav-base-rear:
+  - name: "Cura"
+    image:
+      - url: /assets/docs/3d-print/base_rear.png
+        image_path: /assets/docs/3d-print/base_rear.png
+    caption: "base_rear.stl slicer"
+    excerpt: >
+      I suggest orienting the STL following this picture and setup with:
+        * **Supports**: Disable
+  - name: "SuperSlicer"
+    excerpt: >
+      I suggest orienting the STL following this picture and setup with:
+        * **Supports**: Disable
+nav-base-front:
+  - name: "Cura"
+    image: 
+      - url: /assets/docs/3d-print/base_front_A.png
+        image_path: /assets/docs/3d-print/base_front_A.png
+        alt: "base_front.stl orientation"
+        title: "base_front.stl orientation"
+      - url: /assets/docs/3d-print/base_front_B.png
+        image_path: /assets/docs/3d-print/base_front_B.png
+        alt: "base_front.stl slicer support type tree"
+        title: "base_front.stl slicer support type tree"
+    caption: "base_front.stl slicer"
+    excerpt: >
+      I suggest orienting the STL following this picture and setup with:
+        * **Supports**: Enable
+        * **Support structure**: Tree
+  - name: "SuperSlicer"
+    excerpt: "SuperSlicer configuration"
 ---
 
 If you are here you want 3D print nanosaur, it's simple, but long.
@@ -102,11 +124,7 @@ To print this parts you need a **PLA green**. The average time will be: **5h**
 |:--------:|-----------------|:-------:|
 | 1        | [base_rear.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/base_rear.stl) | {% include 3dview.html username="rnanosaur" repo="nanosaur" path_to_file="nanosaur_description/meshes/base_rear.stl" %} |
 
-I suggest orienting the STL following this picture and setup with:
-* **Supports**: Disable
-
-{% include figure image_path="/assets/docs/3d-print/base_rear.png" alt="base_rear.stl slicer" caption="base_rear.stl slicer" %}
-
+{% include navtab id="nav-base-rear" %}
 ## Base front
 
 To print this parts you need a **PLA green**. The average time will be: **1h** and **30min**.
@@ -115,11 +133,7 @@ To print this parts you need a **PLA green**. The average time will be: **1h** a
 |:--------:|-----------------|:-------:|
 | 1        | [base_front.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/base_front.stl) | {% include 3dview.html username="rnanosaur" repo="nanosaur" path_to_file="nanosaur_description/meshes/base_front.stl" %} |
 
-I suggest orienting the STL following this picture and setup with:
-* **Supports**: Enable
-* **Support structure**: Tree
-
-{% include gallery id="base_front" caption="base_front.stl slicer" %}
+{% include navtab id="nav-base-front" %}
 
 ## Wheels and sprockets
 
