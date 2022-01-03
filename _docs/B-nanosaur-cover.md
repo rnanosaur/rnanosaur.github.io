@@ -5,6 +5,18 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
+nav-cover-print:
+  - name: "Cura"
+    image: 
+      - image_path: /assets/docs/3d-print/cover.png
+    caption: "cover.stl slicer"
+    excerpt: >
+      I suggest orienting the STL following this picture and setup with:
+        * **Supports**: Disable
+  - name: "SuperSlicer"
+    excerpt: >
+      I suggest orienting the STL following this picture and setup with:
+        * **Supports**: Disable
 cover:
   - url: /assets/docs/assembly/cover-cam/cover-01-magnets.png
     image_path: /assets/docs/assembly/cover-cam/cover-01-magnets.png
@@ -77,10 +89,7 @@ There are many option for nanosaur.
 |:--------:|-----------------|:-------:|
 | 1        | [cover.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/cover.stl) | {% include 3dview.html username="rnanosaur" repo="nanosaur" path_to_file="nanosaur_description/meshes/cover.stl" %} |
 
-I suggest orienting the STL following this picture and setup with:
-* **Supports**: Disable
-
-{% include figure image_path="/assets/docs/3d-print/cover.png" alt="cover.stl slicer" caption="cover.stl slicer" %}
+{% include navtab id="nav-cover-print" %}
 
 [Return to 3D printing](/3d-print/#cover){: .btn .btn--primary .align-center}
 
