@@ -133,12 +133,19 @@ cover-rs:
     title: "Assembly Realsense D435i"
 ---
 
+In this page are collected all cover that you can use with nanosaur. Starting from a simple MIPI camera, such as the Raspberry Camera V2 or stereocamera like the [Stereolabs ZEDmini](https://www.stereolabs.com/zed-mini/) or a [Intel Realsense d435i](https://www.intelrealsense.com/depth-camera-d435i/).
+
 The **Nanosaur design** is under license [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 {: .notice}
-
-There are many option for nanosaur.
-
 # Camera
+
+This documentation is for a **Raspberry PI camera v2** cover. The Bill of Material needed is in the table below:
+
+| Qt       | Part                        | :us: USA  | :it: Italy | :uk: UK | :netherlands: NL | Notes                               |
+|:--------:|-----------------------------|:---------:|:----------:|:-------:|:----------------:|-------------------------------------|
+| 1        | Raspberry PI camera v2      | :us: $23.50<br/>[Amazon](https://amzn.to/2LgasF5) | :it:<br/>[Amazon](https://amzn.to/3sDmw6P) | :uk:<br/>[Amazon](https://amzn.to/3mwzn71) | :netherlands:<br/>[Amazon](https://amzn.to/3qvbGNn) |     | 
+
+[Return to BoM](/bill-of-materials/#cameras){: .btn .btn--warning .align-center}
 
 ## 3D print
 
@@ -187,6 +194,14 @@ When the cover will be fully assembled, looks like the picture below. Remember t
 
 # Wide angle camera (Fish-eye)
 
+This documentation is for a **Waveshare IMX219-160 Camera** cover. The Bill of Material needed is in the table below:
+
+| Qt       | Part                        | :us: USA  | :it: Italy | :uk: UK | :netherlands: NL | Notes                               |
+|:--------:|-----------------------------|:---------:|:----------:|:-------:|:----------------:|-------------------------------------|
+| 1        | Waveshare IMX219-160 Camera  | :us: $23.50<br/>[Amazon](#) | :it:<br/>[Amazon](#) | :uk:<br/>[Amazon](https://amzn.to/3mOLkoJ) | :netherlands:<br/>[Amazon](#) |         |
+
+[Return to BoM](/bill-of-materials/#cameras){: .btn .btn--warning .align-center}
+
 ## 3D print wide camera cover
 
 | Quantity | Part            | 3D view |
@@ -227,6 +242,14 @@ Components to pick up
 [Return to nanosaur assembly](/assembly/#head){: .btn .btn--info .align-center}
 
 # ZED mini
+
+This documentation is for a **Stereolabs ZEDmini** cover. The Bill of Material needed is in the table below:
+
+| Qt       | Part                        | :us: USA  | :it: Italy | :uk: UK | :netherlands: NL | Notes                               |
+|:--------:|-----------------------------|:---------:|:----------:|:-------:|:----------------:|-------------------------------------|
+| 1        | Sterolabs ZED mini          | :us: $23.50<br/>[Amazon](#) | :it:<br/>[Amazon](#) | :uk:<br/>[Amazon](#) | :netherlands:<br/>[Amazon](#) |         |
+
+[Return to BoM](/bill-of-materials/#cameras){: .btn .btn--warning .align-center}
 
 ## 3D print ZED mini cover
 
@@ -271,6 +294,15 @@ Now follow these steps to assembly this head.
 [Return to nanosaur assembly](/assembly/#head){: .btn .btn--info .align-center}
 
 # Realsense
+
+This documentation is for a **Intel realsense d435i** cover. The Bill of Material needed is in the table below:
+
+| Qt       | Part                        | :us: USA  | :it: Italy | :uk: UK | :netherlands: NL | Notes                               |
+|:--------:|-----------------------------|:---------:|:----------:|:-------:|:----------------:|-------------------------------------|
+| 1        | Stainless Steel 1/4" Mounting Screw | :us: $23.50<br/>[Amazon](#) | :it:<br/>[Amazon](#) | :uk:<br/>[Amazon](https://amzn.to/3mOLkoJ) | :netherlands:<br/>[Amazon](#) |          |
+| 1        | Intel Realsense d435i       | :us: $23.50<br/>[Amazon](#) | :it:<br/>[Amazon](#) | :uk:<br/>[Amazon](#) | :netherlands:<br/>[Amazon](#) |         |
+
+[Return to BoM](/bill-of-materials/#cameras){: .btn .btn--warning .align-center}
 
 ## 3D print Realsense cover
 

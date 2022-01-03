@@ -38,29 +38,15 @@ This table is your necessary needed to make nanosaur. Few parts, starting from t
 
 ## Cameras
 
-### Raspberry PI camera v2
+List of camera options available
 
-| Qt       | Part                        | :us: USA  | :it: Italy | :uk: UK | :netherlands: NL | Notes                               |
-|:--------:|-----------------------------|:---------:|:----------:|:-------:|:----------------:|-------------------------------------|
-| 1        | Raspberry PI camera v2      | :us: $23.50<br/>[Amazon](https://amzn.to/2LgasF5) | :it:<br/>[Amazon](https://amzn.to/3sDmw6P) | :uk:<br/>[Amazon](https://amzn.to/3mwzn71) | :netherlands:<br/>[Amazon](https://amzn.to/3qvbGNn) |                                    |
+| Cover                | Bill of Material |
+|----------------------|------------------|
+| ![Waveshare IMX219-160 Camera]({{ '/assets/docs/assembly/cover-fe/nanosaur-cover-fe-200.png' | relative_url }}) | [Waveshare IMX219-160 Camera](/optional/cover#wide-angle-camera-fish-eye) |
+| ![Raspberry Camera v2]({{ '/assets/docs/assembly/cover-cam/nanosaur-cover-200.png' | relative_url }}) | [Raspberry Camera v2](/optional/cover#camera) |
+| ![Stereolabs ZED mini]({{ '/assets/docs/assembly/cover-zedmini/nanosaur-cover-zedmini-200.png' | relative_url }}) | [Stereolabs ZED mini](/optional/cover#zed-mini) |
+| ![Intel Realsense d435i]({{ '/assets/docs/assembly/cover-rs/nanosaur-cover-realsense-200.png' | relative_url }}) | [Intel Realsense d435i](/optional/cover#realsense) |
 
-### Fisheye camera
-
-| Qt       | Part                        | :us: USA  | :it: Italy | :uk: UK | :netherlands: NL | Notes                               |
-|:--------:|-----------------------------|:---------:|:----------:|:-------:|:----------------:|-------------------------------------|
-| 1        | Waveshare IMX219-160 Camera  | :us: $23.50<br/>[Amazon](#) | :it:<br/>[Amazon](#) | :uk:<br/>[Amazon](https://amzn.to/3mOLkoJ) | :netherlands:<br/>[Amazon](#) | [For Fish-eye camera](/optional/cover#wide-angle-camera-fish-eye) |
-
-### ZED mini
-
-| Qt       | Part                        | :us: USA  | :it: Italy | :uk: UK | :netherlands: NL | Notes                               |
-|:--------:|-----------------------------|:---------:|:----------:|:-------:|:----------------:|-------------------------------------|
-| 1        | Stainless Steel 1/4" Mounting Screw | :us: $23.50<br/>[Amazon](#) | :it:<br/>[Amazon](#) | :uk:<br/>[Amazon](https://amzn.to/3mOLkoJ) | :netherlands:<br/>[Amazon](#) | [For Fish-eye camera](/optional/cover#wide-angle-camera-fish-eye) |
-
-### Realsense D435i
-
-| Qt       | Part                        | :us: USA  | :it: Italy | :uk: UK | :netherlands: NL | Notes                               |
-|:--------:|-----------------------------|:---------:|:----------:|:-------:|:----------------:|-------------------------------------|
-| 1        | Stainless Steel 1/4" Mounting Screw | :us: $23.50<br/>[Amazon](#) | :it:<br/>[Amazon](#) | :uk:<br/>[Amazon](https://amzn.to/3mOLkoJ) | :netherlands:<br/>[Amazon](#) | [For Fish-eye camera](/optional/cover#wide-angle-camera-fish-eye) |
 
 ## Optionals
 
