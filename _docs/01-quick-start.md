@@ -6,15 +6,17 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/nanosaur_build.jpg
-  teaser: /assets/images/nanosaur_build.jpg
+  overlay_image: /assets/docs/assembly/body-head-04-magnets.jpg
+  teaser: /assets/docs/assembly/body-head-04-magnets.jpg
   actions:
-  - label: ":sparkling_heart: Sponsor"
-    url: "https://github.com/sponsors/rbonghi"
-  - label: ":star: Star"
-    url: "https://github.com/rnanosaur/nanosaur"
-  - label: ":books: Wiki"
-    url: "https://github.com/rnanosaur/nanosaur/wiki"
+    - label: ":sparkling_heart: Sponsor"
+      url: "https://github.com/sponsors/rbonghi"
+    - label: ":star: Star"
+      url: "https://github.com/rnanosaur/nanosaur"
+    - label: "🤖 Discord"
+      url: "https://discord.gg/NSrC52P5mw"
+    - label: ":books: Wiki"
+      url: "https://github.com/rnanosaur/nanosaur/wiki"
 ---
 
 {% include 3steps.md %}

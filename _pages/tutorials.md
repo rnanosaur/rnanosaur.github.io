@@ -15,6 +15,8 @@ header:
   overlay_image: /assets/images/community.jpg
   teaser: /assets/images/community.jpg
   actions:
+    - label: "🤖 Discord"
+      url: "https://discord.gg/NSrC52P5mw"
     - label: "🧑‍🏫 Courses"
       url: "/courses"
     - label: ":books: Wiki"
