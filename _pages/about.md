@@ -1,6 +1,6 @@
 ---
 title: "nanosaur"
-excerpt: "🦕 nanosaur is an 🇮🇹 italian open-source project<br/>designed & made by [Raffaello Bonghi](https://rnext.it)"
+excerpt: "🦕 nanosaur is an 🇮🇹 italian open-source project.<br/> <small>Designed & made by [Raffaello Bonghi](https://rnext.it)</small>"
 permalink: /about/
 classes: wide
 header:
