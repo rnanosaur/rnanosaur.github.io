@@ -13,7 +13,7 @@ header:
   - label: ":wrench: Make"
     url: "/quick-start/"
 intro: 
-  - excerpt: '🦕 nanosaur is an open-source and 3D printable platform, designed to wandering on your desk. With this platform you can learn the fundamentals of [ROS2](https://www.ros.org/) and NVIDIA [Isaac ROS](https://developer.nvidia.com/isaac-ros-gems) GEMs. Learning how to use AI applied in robotics.'
+  - excerpt: '🦕 nanosaur is an open-source and 3D printable platform, designed to wander on your desk. With this platform, you learn the fundamentals of [ROS2](https://www.ros.org/) and NVIDIA [Isaac ROS](https://developer.nvidia.com/isaac-ros-gems) GEMs. Learning how to use AI applied in robotics.'
 feature_row:
   - image_path: /assets/images/nanosaur_og.jpg
     alt: "About nanosaur"
