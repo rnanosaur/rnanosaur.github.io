@@ -3,6 +3,9 @@ title: "nanosaur in official ROS robots list"
 excerpt: "nanosaur in official ROS robots list"
 link: https://robots.ros.org/nanosaur/
 header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/posts/achievements/ros-robots.jpg
   teaser: /assets/posts/achievements/ros-robots.jpg
 categories:
   - Press
