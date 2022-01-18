@@ -8,7 +8,7 @@ minimal_mistakes_skin: "aqua"
 title: "nanosaur"
 subtitle: "The smallest NVIDIA Jetson dinosaur robot"
 name: &name "The smallest NVIDIA Jetson dinosaur robot"
-description: &description "nanosaur is the smallest NVIDIA Jetson dinosaur robot, open-source, fully 3D printable, based on ROS2 and Isaac ROS designed and made by Raffaello Bonghi"
+description: &description "nanosaur is the smallest NVIDIA Jetson dinosaur robot, fully 3D printable, open-source, based on ROS2 and Isaac ROS designed and made by Raffaello Bonghi"
 url: https://nanosaur.ai
 repository: "rnanosaur/rnanosaur.github.io"
 logo: /assets/images/nanosaur-logo.png
