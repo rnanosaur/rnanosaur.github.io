@@ -1,6 +1,6 @@
 ---
 layout: splash
-excerpt: "The smallest NVIDIA Jetson dinosaur robot, open-source, fully 3D printable, based on ROS2 & Isaac ROS.<br/> <small>Designed & made by [Raffaello Bonghi](https://rnext.it)</small>"
+excerpt: "nanosaur is the smallest <b>NVIDIA Jetson</b> dinosaur robot, open-source, fully 3D printable, ROS2 & Isaac ROS based.<br/> <small>Designed & made by [Raffaello Bonghi](https://rnext.it)</small>"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
