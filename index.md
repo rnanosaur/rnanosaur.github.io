@@ -17,21 +17,21 @@ intro:
   - excerpt: '🦕 nanosaur is an open-source and 3D printable platform, designed to wander on your desk. With this platform, you learn the fundamentals of [ROS2](https://www.ros.org/) and NVIDIA [Isaac ROS](https://developer.nvidia.com/isaac-ros-gems) GEMs. Learning how to use AI applied in robotics.'
 feature_row:
   - image_path: /assets/images/nanosaur_og.jpg
-    alt: "About nanosaur"
+    alt: "nanosaur"
     title: "🦕 About"
     excerpt: "nanosaur is an 🇮🇹 italian open-source project, made around NVIDIA Jetson and designed with an active community behind."
     url: "/about"
     btn_label: "📃 The project"
     btn_class: "btn--primary"
   - image_path: /assets/images/nanosaur_build.jpg
-    alt: "quick-start"
+    alt: "nanosaur quick-start"
     title: ":wrench: Make"
     excerpt: "If you read this message, you want build or setup your nanosaur. There is only a button to press and follow the guide!"
     url: "/quick-start/"
     btn_label: "🚧 Let's go!"
     btn_class: "btn--warning"
   - image_path: /assets/images/nanosaur_follower.jpg
-    alt: "tutorials"
+    alt: "nanosaur tutorials"
     title: ":school_satchel: Play"
     excerpt: "Learn Robotics with nanosaur, deepdive on ROS2 AI and other. Follow tutorials and courses to start in this world."
     url: "/tutorial/"
