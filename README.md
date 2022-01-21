@@ -1,4 +1,4 @@
-# :sauropod: nanosaur.ai - [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+# :sauropod: nanosaur.ai - [![CC BY-NC-ND 4.0][cc-by-nc-nd-image]][cc-by-nc-nd]
 
 [https://nanosaur.ai](https://nanosaur.ai) is a little tracked robot ROS2 enabled, made for an NVIDIA Jetson Nano
 
@@ -52,10 +52,9 @@ eq of: `bundle exec jekyll serve --config _config.yml,_config.dev.yml --incremen
 * https://www.analyticsmania.com/post/track-pdf-downloads-with-google-tag-manager-ga/
 * https://www.datadrivenu.com/track-downloads-google-analytics/
 
-# License
+# Website license
 
-This project is under license [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+This website is under license [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International][cc-by-nc-nd].
 
-[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+[cc-by-nc-nd]: https://creativecommons.org/licenses/by-nc-nd/4.0/
+[cc-by-nc-nd-image]: https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png
