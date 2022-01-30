@@ -31,6 +31,8 @@ docs:
         url: /install/
   - title: Options
     children:
+      - title: "🔋 Power bank dimensioning"
+        url: /optional/power-bank
       - title: "🔩 Assembly without magnets"
         url: /optional/screw-assembly
       - title: "👀 nanosaur heads"
