@@ -24,11 +24,13 @@ Bring your Wi-Fi dongle and plug in one of the free USB port slot available.
 # Monitor-attached Mode
 
 For this you need to connect the following items on nanosaur's NVIDIA Jetson.
+
 * HDMI monitor
 * USB keyboard
 * USB mouse
 
 Now follow these steps:
+
 1. Switch on nanosaur and wait to access to ubuntu desktop.
 2. Open the network menu on the top right (like the picture below)
 3. Setup your Wi-Fi
@@ -41,6 +43,7 @@ With USB Device Mode, Jetson presents 3 different USB Device Class end-points to
 For this you need a USB cable between your desktop and nanosaur.
 
 They function as
+
 * USB mass storage device (you see `L4T-README` drive mounted on your PC, like a USB thumbdrive)
 * USB serial (like the common "FTDI" USB to serial adapter)
 * USB network interface card (like a virtual Ethernet adapter)
@@ -91,7 +94,7 @@ To connect to your wireless network (AP, access point), issue the commands below
 
 It will appear an output like this:
 
-```
+```console
 $ sudo nmcli device wifi connect <MY_WIFI_AP> password <MY_WIFI_PASSWORD>
 Device 'wlan0' successfully activated with '2a26d5ca-****-****-****-**************'.
 ```

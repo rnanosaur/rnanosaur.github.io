@@ -140,13 +140,14 @@ In this page are collected all cover that you can use with nanosaur. Starting fr
 
 The **Nanosaur design** is under license [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 {: .notice}
+
 # Camera
 
 This documentation is for a **Raspberry PI camera v2** cover. The Bill of Material needed is in the table below:
 
 | Qt       | Part                        | :us: USA  | :it: Italy | :uk: UK | :netherlands: NL | Notes                               |
 |:--------:|-----------------------------|:---------:|:----------:|:-------:|:----------------:|-------------------------------------|
-| 1        | Raspberry PI camera v2      | :us: $23.50<br/>[Amazon](https://amzn.to/2LgasF5) | :it:<br/>[Amazon](https://amzn.to/3sDmw6P) | :uk:<br/>[Amazon](https://amzn.to/3mwzn71) | :netherlands:<br/>[Amazon](https://amzn.to/3qvbGNn) |     | 
+| 1        | Raspberry PI camera v2      | :us: $23.50<br/>[Amazon](https://amzn.to/2LgasF5) | :it:<br/>[Amazon](https://amzn.to/3sDmw6P) | :uk:<br/>[Amazon](https://amzn.to/3mwzn71) | :netherlands:<br/>[Amazon](https://amzn.to/3qvbGNn) |     |
 
 [Return to BoM](/bill-of-materials/#cameras){: .btn .btn--warning .align-center}
 

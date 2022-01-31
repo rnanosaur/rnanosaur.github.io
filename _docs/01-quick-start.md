@@ -25,6 +25,7 @@ header:
 
 nanosaur is simple and does not need enough time to wander on your desktop.
 If you are making from scratch nanosaur you need to follow this guide in order, starting from
+
 1. [Bill of Materials](/bill-of-materials) (BOM)
 2. [3D print](/3d-print) (The longest part)
 3. [Expansion board](/expansion-board)
