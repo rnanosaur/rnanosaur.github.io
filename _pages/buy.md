@@ -17,7 +17,7 @@ header:
       url: "/about"
 ---
 
-**:construction: Project in draft** some parts are not done or completed.<br/>For any issue join on [Discord](https://discord.gg/NSrC52P5mw)
+**:construction: Under construction** Some parts are not completed.<br/>For any issue join on [Discord](https://discord.gg/NSrC52P5mw)
 {: .notice--warning}
 
 You don't have a 3D printer and you want make a 🦕 nanosaur?
