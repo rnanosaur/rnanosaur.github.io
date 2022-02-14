@@ -7,8 +7,10 @@ main:
     url: /tutorial/
 #  - title: ":shopping_cart: Buy"
 #    url: /buy/
-  - title: ":robot: Community"
-    url: /community/
+#  - title: ":robot: Community"
+#    url: /community/
+  - title: "🧑‍🏫 Courses"
+    url: /courses/
   - title: "📰 Posts"
     url: /posts/
 
