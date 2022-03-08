@@ -90,6 +90,8 @@ about:
   - title: About
     url: /about
     children:
+      - title: "- Architecture"
+        url: /architecture
       - title: "- Project"
         url: /project
       - title: "- Status"
