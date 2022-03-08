@@ -88,16 +88,13 @@ tutorial:
 
 about:
   - title: About
+    url: /about
     children:
+      - title: "- Project"
+        url: /project
+      - title: "- Status"
+        url: /status
       - title: "- Press"
         url: /press
       - title: "- Events"
         url: /events
-      - title: "- Timeline"
-        url: /about#timeline
-      - title: "- Specifications"
-        url: /about#specifications
-      - title: "- License"
-        url: /about#license
-      - title: "- Status"
-        url: /status
