@@ -112,11 +112,12 @@ nanosaur use a short set of M2 screw, you can buy a set
 | Quantity | Part                        | Note  |
 |:--------:|-----------------------------|-------|
 | 6        | M2 nuts                     |       |
-| 6        | Hex M2 20mm                 |       |
-| 2        | Hex M2 6mm                  |       |
 | 20       | Hex M2 4mm                  |       |
+| 4        | Hex M2 6mm                  |       |
+| 4        | Hex M2 10mm                 |       |
+| 6        | Hex M2 20mm                 |       |
 
-If you are building nanosaur without magnets, you need other 3 extra screws
+If you are building nanosaur [**without** magnets](/optional/screw-assembly), you need other 3 extra screws
 
 | Quantity | Part                        | Note  |
 |:--------:|-----------------------------|-------|
