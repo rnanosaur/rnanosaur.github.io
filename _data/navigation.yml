@@ -87,16 +87,16 @@ tutorial:
         url: /community/
 
 about:
-  - title: About
+  - title: "🦕 About"
     url: /about
     children:
-      - title: "- Architecture"
+      - title: "📐 Architecture"
         url: /architecture
-      - title: "- Project"
+      - title: "👷 Project"
         url: /project
-      - title: "- Status"
+      - title: "🚦 Status"
         url: /status
-      - title: "- Press"
+      - title: "🗞️ Press"
         url: /press
-      - title: "- Events"
+      - title: "🎟️ Events"
         url: /events
