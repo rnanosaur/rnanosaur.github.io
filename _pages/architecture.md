@@ -3,6 +3,22 @@ title: "Architecture"
 excerpt: "nanosaur is based with ROS2 and Isaac ROS"
 permalink: /architecture/
 classes: wide
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/intro.jpg
+  teaser: /assets/images/intro.jpg
+  actions:
+    - label: "🦕 About"
+      url: /about/
+    - label: "👷 Project"
+      url: /project/
+    - label: "🚦 Status"
+      url: /status/
+    - label: "🗞️ Press"
+      url: "/press"
+    - label: "🎟️ Events"
+      url: "/events"
 sidebar:
   - nav: "about"
 ---
@@ -19,3 +35,7 @@ sidebar:
 # Realsense
 
 {% include figure image_path="/assets/docs/architecture/nanosaur-realsense.architecture.drawio.png" alt="nanosaur architecture realsense camera" %}
+
+# Nanosaur robot package
+
+{% include figure image_path="/assets/docs/architecture/nanosaur_robot.architecture.drawio.png" alt="nanosaur robot package overview" %}

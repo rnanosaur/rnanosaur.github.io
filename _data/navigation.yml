@@ -91,12 +91,12 @@ about:
     url: /about
     children:
       - title: "📐 Architecture"
-        url: /architecture
+        url: /architecture/
       - title: "👷 Project"
-        url: /project
+        url: /project/
       - title: "🚦 Status"
-        url: /status
+        url: /status/
       - title: "🗞️ Press"
-        url: /press
+        url: /press/
       - title: "🎟️ Events"
-        url: /events
+        url: /events/

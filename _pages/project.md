@@ -3,6 +3,22 @@ title: "Project"
 excerpt: "Project timeline. Next step and current stage"
 permalink: /project/
 classes: wide
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/intro.jpg
+  teaser: /assets/images/intro.jpg
+  actions:
+    - label: "🦕 About"
+      url: /about/
+    - label: "📐 Architecture"
+      url: /architecture/
+    - label: "🚦 Status"
+      url: /status/
+    - label: "🗞️ Press"
+      url: "/press"
+    - label: "🎟️ Events"
+      url: "/events"
 sidebar:
   - nav: "about"
 ---
