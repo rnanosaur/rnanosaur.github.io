@@ -1,5 +1,5 @@
 ---
-title: ":building_construction: status"
+title: "Status"
 excerpt: "Current nanosaur software deploy status"
 permalink: /status/
 classes: wide
