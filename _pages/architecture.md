@@ -15,10 +15,6 @@ header:
       url: /project/
     - label: "🚦 Status"
       url: /status/
-    - label: "🗞️ Press"
-      url: "/press"
-    - label: "🎟️ Events"
-      url: "/events"
 sidebar:
   - nav: "about"
 ---

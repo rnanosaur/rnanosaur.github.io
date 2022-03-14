@@ -15,10 +15,6 @@ header:
       url: /project/
     - label: "📐 Architecture"
       url: /architecture/
-    - label: "🗞️ Press"
-      url: "/press"
-    - label: "🎟️ Events"
-      url: "/events"
 sidebar:
   - nav: "about"
 ---
