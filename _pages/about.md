@@ -13,6 +13,8 @@ header:
       url: "https://github.com/sponsors/rbonghi"
     - label: ":star: Star"
       url: "https://github.com/rnanosaur/nanosaur"
+    - label: "📐 Architecture"
+      url: /architecture/
     - label: "🗞️ Press"
       url: "/press"
     - label: "🎟️ Events"
@@ -41,9 +43,9 @@ Below technical information about nanosaur
 | **Robot dimensions** | ~10x12x6 cm (~4x4.8x2.3 in)  |
 | **Weight**           | ~500g (~18oz) |
 | **Driver type**      | 2-track drive |
-| **Top speed**        | ----        |
+| **Top speed**        | ----          |
 | **Max power**        | 4W Jetson + 1.5W motors |
-| **Battery type**     | Power bank with PD min 3W |
+| **Battery type**     | [Power bank with PD min 3W](/optional/power-bank) |
 | **Software**         | ROS2 in Docker |
 
 # License

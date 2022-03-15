@@ -12,6 +12,8 @@ header:
   overlay_image: /assets/images/intro.jpg
   teaser: /assets/images/intro.jpg
   actions:
+    - label: ":sparkling_heart: Sponsor"
+      url: "https://github.com/sponsors/rbonghi"
     - label: "🦕 About"
       url: /about/
     - label: "👷 Project"
