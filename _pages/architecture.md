@@ -2,7 +2,10 @@
 title: "Architecture"
 excerpt: "nanosaur is based with ROS2 and Isaac ROS"
 permalink: /architecture/
-classes: wide
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
+toc_sticky: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
