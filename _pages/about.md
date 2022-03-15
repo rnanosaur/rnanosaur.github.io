@@ -25,14 +25,11 @@ sidebar:
 
 {% include figure image_path="/assets/images/nanosaur_teaser.gif" alt="nanosaur teaser" %}
 
-[:star: Star](https://github.com/rnanosaur/nanosaur){: .btn .btn--inverse} this project!
-{: .text-center}
-
 nanosaur is a simple **open-source** robot based on [NVIDIA Jetson](https://developer.nvidia.com/buy-jetson). The robot is fully 3D printable, able to wander on your desk autonomously and uses a simple camera and two OLEDs — these act as a pair of eyes. It measures a compact 10x12x6cm and it weighs only 500g.
 
 # Timeline
 
-{% include figure image_path="/assets/images/nanosaur-story.jpg" alt="nanosaur story" caption="nanosaur story steps" %}
+{% include figure image_path="/assets/images/nanosaur-story.png" alt="nanosaur story" caption="nanosaur story steps" %}
 
 # Specifications
 
