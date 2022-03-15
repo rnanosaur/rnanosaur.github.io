@@ -52,6 +52,8 @@ docs:
         url: /tutorial/keyboard
       - title: "- Web interface"
         url: /tutorial/webinterface
+  - title: ":shopping_cart: Buy"
+    url: /buy/
   - title: Documentation
     children:
       - title: "🧑‍🏫 Courses"
@@ -71,6 +73,8 @@ tutorial:
         url: /tutorial/keyboard
       - title: "- Web interface"
         url: /tutorial/webinterface
+  - title: ":shopping_cart: Buy"
+    url: /buy/
   - title: Documentation
     children:
       - title: "🧑‍🏫 Courses"
@@ -85,6 +89,12 @@ tutorial:
         url: /quick-start/
       - title: ":robot: Community"
         url: /community/
+      - title: "📐 Architecture"
+        url: /architecture/
+      - title: "👷 Project"
+        url: /project/
+      - title: "🚦 Status"
+        url: /status/
 
 about:
   - title: "🦕 About"
@@ -100,3 +110,5 @@ about:
         url: /press/
       - title: "🎟️ Events"
         url: /events/
+  - title: ":shopping_cart: Buy"
+    url: /buy/
