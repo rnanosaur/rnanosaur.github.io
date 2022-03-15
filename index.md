@@ -45,6 +45,6 @@ footer:
 
 {% include feature_row %}
 
-{% include discord.html %}
-
 {% include feature_row id="footer" type="center" %}
+
+{% include discord.html %}
