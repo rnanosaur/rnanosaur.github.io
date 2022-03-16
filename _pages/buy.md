@@ -3,6 +3,7 @@ title: "🛒 Buy"
 excerpt: "Do you need an help to build a nanosaur, This is the page for you!"
 permalink: /buy/
 classes: wide
+author_profile: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -15,9 +16,11 @@ header:
       url: "https://github.com/rnanosaur/nanosaur"
     - label: "🦕 nanosaur"
       url: "/about"
+sidebar:
+  - nav: "about"
 ---
 
-**:construction: Under construction** Some parts are not completed.<br/>For any issue join on [Discord](https://discord.gg/NSrC52P5mw)
+**:construction: This page is under construction.**<br/>For any issue join on [Discord](https://discord.gg/NSrC52P5mw)
 {: .notice--warning}
 
 You don't have a 3D printer and you want make a 🦕 nanosaur?
