@@ -40,3 +40,7 @@ sidebar:
 # Nanosaur robot package
 
 {% include figure image_path="/assets/docs/architecture/nanosaur_robot.architecture.drawio.png" alt="nanosaur robot package overview" %}
+
+New architecture in draft
+
+{% include figure image_path="/assets/docs/architecture/nanosaur_robot_new.architecture.drawio.png" alt="nanosaur robot package overview" %}
