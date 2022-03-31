@@ -24,10 +24,16 @@ sidebar:
 **:construction: This page is under construction.**<br/>For any issue join on [Discord](https://discord.gg/NSrC52P5mw)
 {: .notice--warning}
 
+# Roadmap
+
 {% include figure image_path="/assets/docs/project/timeline.drawio.png" alt="nanosaur project timeline" %}
 
 [nanosaur project](https://github.com/orgs/rnanosaur/projects/6)
 
 # Workflow
+
+This project follow an extended version of [gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) where:
+ * **main** branch record only stable release from the stable ros foxy branch
+ * **ROS"** branch record progress for specific ROS2 repository (usually these branch are unstable)
 
 {% include figure image_path="/assets/docs/project/workflow.drawio.png" alt="nanosaur package architecture" %}
