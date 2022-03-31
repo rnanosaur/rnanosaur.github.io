@@ -28,4 +28,6 @@ sidebar:
 
 [nanosaur project](https://github.com/orgs/rnanosaur/projects/6)
 
-{% include figure image_path="/assets/docs/project/packages.drawio.png" alt="nanosaur package architecture" %}
+# Workflow
+
+{% include figure image_path="/assets/docs/project/workflow.drawio.png" alt="nanosaur package architecture" %}
