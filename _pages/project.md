@@ -43,8 +43,12 @@ This project follow an extended version of [gitflow](https://www.atlassian.com/g
 {% include figure image_path="/assets/docs/project/workflow.drawio.png" alt="nanosaur package architecture" %}
 
  * **main** branch record only stable release from the stable ros foxy branch
- * **ROS2** branch record progress for specific ROS2 repository (usually these branch are unstable)
+ * **ROS2** branches record progress for specific ROS2 repository (usually these branches are unstable)
 
 # Tagging
 
 nanosaur follow a code release tagging 
+
+...
+
+Under construction

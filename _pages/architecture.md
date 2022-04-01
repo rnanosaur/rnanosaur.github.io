@@ -27,24 +27,30 @@ sidebar:
 **:construction: This page is under construction.**<br/>For any issue join on [Discord](https://discord.gg/NSrC52P5mw)
 {: .notice--warning}
 
+# Architecture
+
 {% include figure image_path="/assets/docs/architecture/nanosaur.architecture.drawio.png" alt="nanosaur top architecture overview" %}
 
-# Argus camera
+## Argus camera
 
 {% include figure image_path="/assets/docs/architecture/nanosaur-argus.architecture.drawio.png" alt="nanosaur architecture Argus camera" %}
 
-# Realsense
+## Realsense
 
 {% include figure image_path="/assets/docs/architecture/nanosaur-realsense.architecture.drawio.png" alt="nanosaur architecture realsense camera" %}
 
-# Nanosaur robot package
+## ZEDmini
+
+Coming soon
+
+# Package architecture 
+
+{% include figure image_path="/assets/docs/architecture/packages.drawio.png" alt="nanosaur package architecture" %}
+
+## Nanosaur robot hardware
 
 {% include figure image_path="/assets/docs/architecture/nanosaur_robot.architecture.drawio.png" alt="nanosaur robot package overview" %}
 
 New architecture in draft
 
 {% include figure image_path="/assets/docs/architecture/nanosaur_robot_new.architecture.drawio.png" alt="nanosaur robot package overview" %}
-
-# Package architecture 
-
-{% include figure image_path="/assets/docs/architecture/packages.drawio.png" alt="nanosaur package architecture" %}
