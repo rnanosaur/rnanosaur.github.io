@@ -41,7 +41,7 @@ sidebar:
 
 ## ZEDmini
 
-Coming soon
+{% include figure image_path="/assets/docs/architecture/nanosaur-zed.architecture.drawio.png" alt="nanosaur architecture ZED mini camera" %}
 
 # Package architecture 
 
