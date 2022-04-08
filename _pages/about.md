@@ -45,6 +45,9 @@ Below technical information about nanosaur
 | **Battery type**     | [Power bank with PD min 3W](/optional/power-bank) |
 | **Software**         | ROS2 in Docker |
 
+**:floppy_disk: Download** Download [**nanosaur-datasheet.pdf**](https://github.com/rnanosaur/nanosaur/releases/latest/download/nanosaur-datasheet.pdf) with all mechanical size and configuration of the robot.
+{: .notice--success}
+
 # License
 
 This open-source project is under license:
