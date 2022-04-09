@@ -213,10 +213,10 @@ Following this guideline the average time to print nanosaur is:
 | 2  | track_print.stl | TPU black/grey  | 1:30h | [Track](#print-tracks)                                   |
 |    |                 | **Total**       | **15h** |                                                        |
 
-**:floppy_disk: Download** you can obtain all Nanosaur parts only downloading this zip file [**nanosaur_stl.zip**](https://github.com/rnanosaur/nanosaur/releases/latest/download/nanosaur_stl.zip)
+**:floppy_disk: Download** you can obtain all Nanosaur parts only downloading this zip file [**nanosaur-stl.zip**](https://github.com/rnanosaur/nanosaur/releases/latest/download/nanosaur-stl.zip)
 {: .notice--success}
 
-**:bulb: Hint** On nanosaur_stl.zip you can find a folder **025in** for ball bearings with size *ID 1/4in x OD 1/2in*
+**:bulb: Hint** On nanosaur-stl.zip you can find a folder **025in** for ball bearings with size *ID 1/4in x OD 1/2in*
 {: .notice--info}
 
 {% include video id="5cVNXbF6HzI" provider="youtube" %}
@@ -251,7 +251,7 @@ To print this parts you need a **PLA green**. The average time will be: **1h** a
 
 ## Wheels and sprockets
 
-**:bulb: Hint** On nanosaur_stl.zip you can find a folder **025in** for ball bearings with size *ID 1/4in x OD 1/2in*
+**:bulb: Hint** On nanosaur-stl.zip you can find a folder **025in** for ball bearings with size *ID 1/4in x OD 1/2in*
 {: .notice--info}
 
 To print this parts you need a **PLA green/black**. The average time will be: **2h**.
