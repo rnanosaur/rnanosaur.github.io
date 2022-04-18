@@ -7,8 +7,8 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/intro.jpg
-  teaser: /assets/images/intro.jpg
+  overlay_image: /assets/images/nanosaur_arch.jpg
+  teaser: /assets/images/nanosaur_arch.jpg
   actions:
     - label: ":sparkling_heart: Sponsor"
       url: "https://github.com/sponsors/rbonghi"
