@@ -2,6 +2,7 @@
 title: "Status"
 excerpt: "Current nanosaur software deploy status"
 permalink: /status/
+author_profile: false
 classes: wide
 header:
   overlay_color: "#000"
@@ -11,8 +12,6 @@ header:
   actions:
     - label: ":sparkling_heart: Sponsor"
       url: "https://github.com/sponsors/rbonghi"
-    - label: "🦕 About"
-      url: /about/
     - label: "👷 Project"
       url: /project/
     - label: "📐 Architecture"

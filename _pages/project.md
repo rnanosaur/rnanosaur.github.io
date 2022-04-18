@@ -2,6 +2,7 @@
 title: "Project"
 excerpt: "Project timeline. Next step and current stage"
 permalink: /project/
+author_profile: false
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
@@ -14,8 +15,6 @@ header:
   actions:
     - label: ":sparkling_heart: Sponsor"
       url: "https://github.com/sponsors/rbonghi"
-    - label: "🦕 About"
-      url: /about/
     - label: "📐 Architecture"
       url: /architecture/
     - label: "🚦 Status"
@@ -51,4 +50,5 @@ nanosaur follow a code release tagging
 
 ...
 
-Under construction
+**:construction: This part will be updated soon.**<br/>For any issue join on [Discord](https://discord.gg/NSrC52P5mw)
+{: .notice--warning}

@@ -15,14 +15,22 @@ header:
     url: "/quick-start/"
 intro: 
   - excerpt: '🦕 nanosaur is an open-source and 3D printable platform, designed to wander on your desk. With this platform, you learn the fundamentals of [ROS2](https://www.ros.org/) and NVIDIA [Isaac ROS](https://developer.nvidia.com/isaac-ros-gems) GEMs. Learning how to use AI applied in robotics.'
-feature_row:
+about:
   - image_path: /assets/images/nanosaur_og.jpg
     alt: "nanosaur"
     title: "🦕 About"
-    excerpt: "nanosaur is an 🇮🇹 italian open-source project, made around NVIDIA Jetson and designed with an active community behind."
+    excerpt: "nanosaur is an 🇮🇹 italian open-source and 3D printable platform, designed to wander on your desk. With this platform, you learn the fundamentals of [ROS2](https://www.ros.org/) and NVIDIA [Isaac ROS](https://developer.nvidia.com/isaac-ros-gems) GEMs. Learning how to use AI applied in robotics."
     url: "/about"
-    btn_label: "📃 The project"
-    btn_class: "btn--primary"
+    btn_label: "📃 learn more"
+    btn_class: "btn--success"
+feature_row:
+  - image_path: /assets/images/nanosaur-wireframe-bw.png
+    alt: "nanosaur"
+    title: "📐 Architecture"
+    excerpt: "nanosaur is designed like a real AMR robot, with a complete ROS2 pipeline, high level controllers and AI,docker containers based."
+    url: "/architecture"
+    btn_label: "👷 The project"
+    btn_class: "btn--inverse"
   - image_path: /assets/images/nanosaur_build.jpg
     alt: "nanosaur quick-start"
     title: ":wrench: Make"
@@ -41,7 +49,7 @@ footer:
   - excerpt: '🦕 **nanosaur** is proudly part of :pizza: [pizzarobotics](https://pizzarobotics.org) community'
 ---
 
-{% include feature_row id="intro" type="center" %}
+{% include feature_row id="about" type="left" %}
 
 {% include feature_row %}
 
