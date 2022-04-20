@@ -17,8 +17,8 @@ When it is done, you can move forward installing the required 🦕 nanosaur pack
 
 Like the nanosaur installation, download and run the Nanosaur script on your desktop following the line below
 
-{% capture code %}curl https://raw.githubusercontent.com/rnanosaur/nanosaur/master/nanosaur/scripts/nanosaur -o $HOME/nanosaur && chmod +x $HOME/nanosaur && $HOME/nanosaur install{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
+{% capture code %}curl https://github.com/rnanosaur/nanosaur/releases/latest/download/nanosaur -o $HOME/nanosaur && chmod +x $HOME/nanosaur && $HOME/nanosaur install developer{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
 
 The script install in your desktop:
  * A new [**nanosaur**](https://github.com/rnanosaur/nanosaur/wiki/script_nanosaur) command
- * A new ROS2 nanosaur workspace **nanosaur_ws** in your home folder
+ * A new ROS2 nanosaur workspace **nanosaur_core** in your home folder
