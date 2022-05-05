@@ -27,7 +27,7 @@ To run nanosaur on gazebo you need first for all load all sources
 
 When the shell is done, run the simulator using this launch file:
 
-{% capture code %}ros2 launch nanosaur_gazebo nanosaur_gazebo.launch.py{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
+{% capture code %}ros2 launch nanosaur_gazebo gazebo.launch.py{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
 
 The final output on gazebo, will be like:
 
