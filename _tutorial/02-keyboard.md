@@ -33,7 +33,7 @@ Before to move nanosaur check:
  * Nanosaur is running (appears two eyes on the Nanosaur oleds)
  * Your desktop is connected in the same wifi network
 
-{% capture code %}ros2 run teleop_twist_keyboard teleop_twist_keyboard --ros-args --remap cmd_vel:=key_vel{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
+{% capture code %}ros2 run teleop_twist_keyboard teleop_twist_keyboard --ros-args --remap cmd_vel:=/nanosaur/key_vel{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
 
 Now you can drive nanosaur from your keyboard, following the instruction on terminal
 
