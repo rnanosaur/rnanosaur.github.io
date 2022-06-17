@@ -7,6 +7,8 @@ categories:
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
+  overlay_image: /assets/posts/ROS-developer-day2022.jpg
+  teaser: /assets/posts/ROS-developer-day2022.jpg
   actions:
     - label: "The construct website"
       url: "https://www.theconstructsim.com/ros-developers-day-2022"
