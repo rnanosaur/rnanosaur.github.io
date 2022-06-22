@@ -5,7 +5,7 @@ tagline: "The smallest <b>NVIDIA Jetson</b> dinosaur robot, fully 3D printable, 
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/intro.jpg
+  overlay_image: /assets/images/banner.jpg
   actions:
   - label: ":sparkling_heart: Sponsor"
     url: "https://github.com/sponsors/rbonghi"
