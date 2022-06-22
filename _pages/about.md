@@ -48,6 +48,12 @@ Below technical information about nanosaur
 **:floppy_disk: Download** Download [**nanosaur-datasheet.pdf**](https://github.com/rnanosaur/nanosaur/releases/latest/download/nanosaur-datasheet.pdf) with all mechanical size and configuration of the robot.
 {: .notice--success}
 
+# Awards
+
+nanosaur is Best ROS robot 2022 awarded from the ROS developers community
+
+{% include figure image_path="/assets/posts/achievements/nanosaur-winner-2022.jpg" alt="nanosaur is the Best ROS robot 2022" caption="nanosaur is the Best ROS robot 2022" %}
+
 # License
 
 This open-source project is under license:
