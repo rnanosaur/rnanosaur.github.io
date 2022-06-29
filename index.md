@@ -46,6 +46,11 @@ feature_row:
     url: "/tutorial/"
     btn_label: "💯 Tutorials"
     btn_class: "btn--success"
+award:
+  - image_path: /assets/posts/achievements/nanosaur-winner-2022.jpg
+    alt: "nanosaur Best ROS Robot 2022"
+    title: "🏆 Best ROS Robot 2022"
+    excerpt: "nanosaur is the winner of the [**Best ROS Robot 2022**](https://www.theconstructsim.com/ros-awards-2022/) Awarded from the ROS Developers Community"
 footer: 
   - excerpt: '🦕 **nanosaur** is proudly part of :pizza: [pizzarobotics](https://pizzarobotics.org) community'
 ---
@@ -55,5 +60,7 @@ footer:
 {% include feature_row %}
 
 {% include feature_row id="footer" type="center" %}
+
+{% include feature_row id="award" type="right" %}
 
 {% include discord.html %}
