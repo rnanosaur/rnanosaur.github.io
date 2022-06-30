@@ -30,7 +30,7 @@ feature_row:
     title: "📐 Architecture"
     excerpt: "nanosaur is designed like a real AMR robot, with a complete ROS2 pipeline, high level controllers and AI,docker containers based."
     url: "/architecture"
-    btn_label: "👷 The project"
+    btn_label: "👷 Deep dive"
     btn_class: "btn--inverse"
   - image_path: /assets/images/nanosaur_build.jpg
     alt: "nanosaur quick-start"
