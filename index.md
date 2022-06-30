@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/banner.jpg
-  caption: "[**Best ROS Robot 2022**](https://www.theconstructsim.com/ros-awards-2022-results/)"
+  caption: "[**Best ROS Robot 2022**](https://www.theconstructsim.com/ros-awards-2022/)"
   actions:
   - label: ":sparkling_heart: Sponsor"
     url: "https://github.com/sponsors/rbonghi"
@@ -50,7 +50,7 @@ award:
   - image_path: /assets/posts/achievements/nanosaur-winner-2022.jpg
     alt: "nanosaur Best ROS Robot 2022"
     title: "🏆 Best ROS Robot 2022"
-    excerpt: "nanosaur is the winner of the [**Best ROS Robot 2022**](https://www.theconstructsim.com/ros-awards-2022-results/) Awarded from the ROS Developers Community"
+    excerpt: "nanosaur is the winner of the [**Best ROS Robot 2022**](https://www.theconstructsim.com/ros-awards-2022/) Awarded from the ROS Developers Community"
     url: "https://www.theconstructsim.com/ros-awards-2022-results/"
     btn_label: "🥇 Read more"
     btn_class: "btn--success"
