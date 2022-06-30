@@ -9,7 +9,7 @@ header:
   teaser: /assets/posts/achievements/nanosaur-winner-2022.jpg
   actions:
     - label: "The construct website"
-      url: "https://www.theconstructsim.com/ros-awards-2022/"
+      url: "https://www.theconstructsim.com/ros-awards-2022-results/"
 categories:
   - Press
 tags:
@@ -28,3 +28,5 @@ nanosaur is Best ROS robot 2022 awarded from the ROS developers community
 nanosaur and I are honored to achieve this prestigious award!
 
 Thank you for everyone how believe in this project!
+
+{% include figure image_path="/assets/posts/achievements/best_ros_robot_nanosaur.jpg" alt="nanosaur is the Best ROS robot 2022" caption="nanosaur is the Best ROS robot 2022" %}
