@@ -51,6 +51,9 @@ award:
     alt: "nanosaur Best ROS Robot 2022"
     title: "🏆 Best ROS Robot 2022"
     excerpt: "nanosaur is the winner of the [**Best ROS Robot 2022**](https://www.theconstructsim.com/ros-awards-2022-results/) Awarded from the ROS Developers Community"
+    url: "https://www.theconstructsim.com/ros-awards-2022-results/"
+    btn_label: "🥇 Read more"
+    btn_class: "btn--success"
 footer: 
   - excerpt: '🦕 **nanosaur** is proudly part of :pizza: [pizzarobotics](https://pizzarobotics.org) community'
 ---
