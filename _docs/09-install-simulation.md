@@ -1,10 +1,7 @@
 ---
 title: "Install simulation"
 permalink: /install/simulation
-toc: true
-toc_label: "Table of Contents"
-toc_icon: "cog"
-toc_sticky: true
+classes: wide
 ---
 
 Do you want to try nanosaur on a simulator? You can start directly from this tutorial.
