@@ -1,5 +1,5 @@
 ---
-title: "Install simulation"
+title: "Install nanosaur desktop simulation"
 permalink: /install/simulation
 classes: wide
 ---
