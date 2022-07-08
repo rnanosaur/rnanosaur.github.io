@@ -1,7 +1,7 @@
 ---
 title: "Install nanosaur workspace on Desktop PC"
 excerpt: "Install nanosaur workspace on desktop PC"
-permalink: /tutorial/install-desktop
+permalink: /install/desktop
 classes: wide
 header:
   teaser: /assets/tutorial/remote/nanosaur_sheel.png

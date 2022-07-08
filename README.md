@@ -7,7 +7,7 @@
 If you have **docker** and **docker-compose** you can use only this command
 
 ```
-docker-compose up -d
+docker compose up
 ```
 
 **Note:** If you are updating `config.yml` or `_config.dev.yml` please **restart** container.

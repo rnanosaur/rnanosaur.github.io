@@ -29,8 +29,19 @@ docs:
         url: /electronics/
       - title: "5. Assembly"
         url: /assembly/
-      - title: "6. Install"
+  - title: 6. Installation
+    url: /install/
+    children:
+      - title: "a. Install on Jetson"
         url: /install/
+      - title: "b. Install on desktop"
+        url: /install/desktop
+      - title: "c. Install simulators"
+        url: /install/simulation
+  - title: Configuration
+    children:
+      - title: "Cover configuration"
+        url: /configuration/cover
   - title: Options
     children:
       - title: "🔋 Power bank dimensioning"
