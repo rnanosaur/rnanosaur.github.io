@@ -89,16 +89,22 @@ Following the picture above, there are:
 * [nanosaur](https://github.com/rnanosaur/nanosaur)
 * [nanosaur_robot](https://github.com/rnanosaur/nanosaur_robot)
 
-## gazebo (simulation on desktop)
-
-* [nanosaur](https://github.com/rnanosaur/nanosaur)
-* [nanosaur_gazebo](https://github.com/rnanosaur/nanosaur_gazebo)
+Extra packages:
+* [ros2_jetson_stats](https://github.com/rbonghi/ros2_jetson_stats.git)
+* [ros2_system_manager](https://github.com/rbonghi/ros2_system_manager.git)
 
 ## Perception
 
 * [nanosaur](https://github.com/rnanosaur/nanosaur)
 * [nanosaur_perception](https://github.com/rnanosaur/nanosaur_perception)
+
+Extra packages:
 * [Isaac ROS packages](https://github.com/NVIDIA-ISAAC-ROS)
+
+## Simulations (simulators on desktop)
+
+* [nanosaur](https://github.com/rnanosaur/nanosaur)
+* [nanosaur_simulations](https://github.com/rnanosaur/nanosaur_simulations.git)
 
 # Nanosaur robot hardware
 
