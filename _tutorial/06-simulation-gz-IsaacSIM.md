@@ -56,3 +56,10 @@ Run Ignition Gazebo
 
 {% capture code %}source nanosaur
 ros2 launch nanosaur_ignition ignition.launch.py{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
+
+Start realtime converter
+
+{% capture code %}export IGN_GAZEBO_RESOURCE_PATH="/opt/ros/foxy/share:~/nanosaur_core/install/share"
+source ~/ign-omni/install/setup.bash
+cd ~/ign-omni/src/ign-omni
+reset && bash run_ignition_omni.sh -p omniverse://localhost/Users/nanosaur/nanosaur.usd -w lab -v --pose ignition{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
