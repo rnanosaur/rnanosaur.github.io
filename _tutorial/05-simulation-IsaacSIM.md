@@ -30,3 +30,9 @@ In a second terminal
 
 {% capture code %}source nanosaur
 ros2 launch nanosaur_isaac_sim isaac_sim.launch.py{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
+
+## Run perception
+
+In your last terminal you need the perception module active
+
+{% capture code %}nanosaur perception{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
