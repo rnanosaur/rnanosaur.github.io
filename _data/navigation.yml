@@ -84,6 +84,14 @@ tutorial:
         url: /tutorial/keyboard
       - title: "- Web interface"
         url: /tutorial/webinterface
+  - title: "👨‍💻 Simulation"
+    children:
+      - title: "- Gazebo/Ignition"
+        url: /tutorial/gazebo-simulation
+      - title: "- NVIDIA Isaac SIM"
+        url: /tutorial/isaac-simulation
+      - title: "- gz-omni connector"
+        url: /tutorial/isaacsim-connector
   - title: ":shopping_cart: Buy"
     url: /buy/
   - title: Documentation
