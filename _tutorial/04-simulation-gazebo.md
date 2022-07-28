@@ -37,6 +37,18 @@ The final output on gazebo, will be like:
 
 {% include figure image_path="/assets/docs/simulation/sim_01_gazebo.png" alt="nanosaur on Gazebo" caption="nanosaur on Gazebo" %}
 
+### Change world or configuration
+
+There are different option you to select on your simulation:
+1. **world_name**
+2. **namespace** (experimental)
+
+All worlds available are in the [nanosaur_worlds](https://github.com/rnanosaur/nanosaur_simulations/tree/main/nanosaur_worlds/worlds) package in [nanosaur_simulations](https://github.com/rnanosaur/nanosaur_simulations) repository.
+
+Example if you want to run an empty world
+
+{% capture code %}ros2 launch nanosaur_gazebo gazebo.launch.py world_name:=empty{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
+
 ## Ignition Gazebo
 
 {% capture code %}ros2 launch nanosaur_igniton ignition.launch.py{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
@@ -44,6 +56,18 @@ The final output on gazebo, will be like:
 The final output on gazebo, will be like:
 
 {% include figure image_path="/assets/docs/simulation/sim_02_ignition.png" alt="nanosaur on Ignition Gazebo" caption="nanosaur on Ignition Gazebo" %}
+
+### Change world or configuration
+
+There are different option you to select on your simulation:
+1. **world_name**
+2. **namespace** (experimental)
+
+All worlds available are in the [nanosaur_worlds](https://github.com/rnanosaur/nanosaur_simulations/tree/main/nanosaur_worlds/worlds) package in [nanosaur_simulations](https://github.com/rnanosaur/nanosaur_simulations) repository.
+
+Example if you want to run an empty world
+
+{% capture code %}ros2 launch nanosaur_igniton ignition.launch.py world_name:=empty{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
 
 # Run perception
 
