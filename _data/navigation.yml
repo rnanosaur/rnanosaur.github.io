@@ -89,7 +89,7 @@ tutorial:
       - title: "- Gazebo/Ignition"
         url: /tutorial/gazebo-simulation
       - title: "- NVIDIA Isaac SIM"
-        url: /tutorial/isaac-simulation
+        url: /tutorial/isaacsim-simulation
       - title: "- gz-omni connector"
         url: /tutorial/isaacsim-connector
   - title: ":shopping_cart: Buy"
