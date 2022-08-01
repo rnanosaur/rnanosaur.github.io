@@ -57,6 +57,8 @@ docs:
   - title: "🕹️ Play"
     url: /tutorial
     children:
+      - title: "- nanosaur script"
+        url: /tutorial/nanosaur-script
       - title: "- Joystick drive"
         url: /tutorial/joystick
       - title: "- Keyboard drive"
@@ -78,6 +80,8 @@ tutorial:
   - title: "🕹️ Play"
     url: /tutorial
     children:
+      - title: "- nanosaur script"
+        url: /tutorial/nanosaur-script
       - title: "- Joystick drive"
         url: /tutorial/joystick
       - title: "- Keyboard drive"
