@@ -124,11 +124,13 @@ Now you need to enable the live sync on your simulation, to use realtime both si
 * Click on the cloud on right and chose **Always on**
 * If appear "Merge Conflict" window, press **Fetch Latest**
 
-## Run perception
+# Run perception
 
 In your last terminal you need the perception module active
 
 {% capture code %}nanosaur perception{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
+
+{% include figure image_path="/assets/docs/simulation/nanosaur_perception.png" alt="nanosaur perception terminal" caption="nanosaur perception terminal" %}
 
 # Drive nanosaur
 
