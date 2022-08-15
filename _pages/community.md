@@ -8,7 +8,7 @@ entries_layout: grid
 classes: wide
 author_profile: false
 sidebar:
-  - nav: "about"
+  - nav: "tutorial"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

@@ -12,3 +12,5 @@ categories:
 tags:
   - Adafruit
 ---
+
+{% include figure image_path="/assets/posts/achievements/adafruit-blog.png" alt="nanosaur on adafruit blog" caption="nanosaur on adafruit blog" %}

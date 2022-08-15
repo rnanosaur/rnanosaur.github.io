@@ -1,5 +1,5 @@
 ---
-title: "Install"
+title: "Install on Jetson"
 permalink: /install/
 toc: true
 toc_label: "Table of Contents"
@@ -16,7 +16,7 @@ Go on [NVIDIA Jetpack](https://developer.nvidia.com/embedded/Jetpack) webpage an
 **:warning: WARNING** Please download the right version for your NVIDIA Jetson 2Gb or 4Gb
 {: .notice--warning}
 
-1. Download the last [NVIDIA Jetpack](https://developer.nvidia.com/embedded/Jetpack)
+1. Download [NVIDIA Jetpack](https://developer.nvidia.com/embedded/Jetpack) **4.6.1**
 2. Download, install, and launch [Etcher](https://www.balena.io/etcher)
 3. Click “Select image” and choose the zipped image file downloaded earlier.
 4. Insert your microSD card.
@@ -35,6 +35,21 @@ Go on [NVIDIA Jetpack](https://developer.nvidia.com/embedded/Jetpack) webpage an
 
 {% include figure image_path="/assets/docs/install/Etcher.png" alt="Etcher view" caption="Etcher view" %}
 
+## Configuration Jetson
+
+Remember to configure your NVIDIA Jetson with these parameters:
+
+- Your name: *Chose your best user name*
+- Your computer's name: *nanosaur (suggested)*
+- Pick a username: *Usually the same of your name*
+- Password: *Chose your best password*
+
+Set: **Log in Automatically**
+
+Will appear something like the picture below:
+
+{% include figure image_path="/assets/docs/install/05-User.png" alt="Configuration Jetson" caption="Configuration Jetson" %}
+
 ## Connect to WiFi
 
 If you have not already connected your Jetson Nano to your Wi-Fi network, press the button below to follow this specific tutorial.
@@ -51,6 +66,6 @@ When your machine will be up to date, we can run the Nanosaur installation scrip
 
 :clipboard: Copy and paste on the NVIDIA Jetson terminal the following line
 
-{% capture code %}curl https://raw.githubusercontent.com/rnanosaur/nanosaur/master/nanosaur/scripts/nanosaur -o $HOME/nanosaur && chmod +x $HOME/nanosaur && $HOME/nanosaur install{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
+{% capture code %}curl https://github.com/rnanosaur/nanosaur/releases/latest/download/nanosaur -o $HOME/nanosaur && chmod +x $HOME/nanosaur && $HOME/nanosaur install{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
 
 Follow the instructions and reboot your board!

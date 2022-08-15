@@ -217,6 +217,7 @@ If you are here, you are ready to mount nanosaur!
 There are few steps to follow to mount nanosaur only using the tools in list, remember to collect and buy all components listed in the [Bill of Materials](/bill-of-materials)
 
 We can split the nanosaur assembly into four parts:
+
 * [Power Bank holder](#power-bank-holder)
 * [Flap](#flap)
 * [Body](#body)
@@ -358,7 +359,7 @@ This part is relative simple, you need to follow for each track this simple step
 
 1. Pass all screws to the all sliders holes
 2. Bring the wheel and assembly to the last housing following the picture below
-3. Bring the track and fit to the sprocket 
+3. Bring the track and fit to the sprocket
 4. Bring the slider and wheel block and fit the track to he wheel
 5. Screw all bolts
 
@@ -463,4 +464,3 @@ Nanosaur is assembled, need POWER! :smile:
 Finally nanosaur is ready to be installed, let's go to flash the MicroSD and [install](/install) all software
 
 {% include figure image_path="/assets/docs/assembly/nanosaur.png" alt="nanosaur" caption="nanosaur" %}
-

@@ -7,8 +7,10 @@ main:
     url: /tutorial/
 #  - title: ":shopping_cart: Buy"
 #    url: /buy/
-  - title: ":robot: Community"
-    url: /community/
+#  - title: ":robot: Community"
+#    url: /community/
+  - title: "🧑‍🏫 Courses"
+    url: /courses/
   - title: "📰 Posts"
     url: /posts/
 
@@ -27,8 +29,19 @@ docs:
         url: /electronics/
       - title: "5. Assembly"
         url: /assembly/
-      - title: "6. Install"
+  - title: 6. Installation
+    url: /install/
+    children:
+      - title: "a. Install on Jetson"
         url: /install/
+      - title: "b. Install on desktop"
+        url: /install/desktop
+      - title: "c. Install simulators"
+        url: /install/simulation
+  - title: Configuration
+    children:
+      - title: "Cover configuration"
+        url: /configuration/cover
   - title: Options
     children:
       - title: "🔋 Power bank dimensioning"
@@ -44,12 +57,16 @@ docs:
   - title: "🕹️ Play"
     url: /tutorial
     children:
+      - title: "- nanosaur script"
+        url: /tutorial/nanosaur-script
       - title: "- Joystick drive"
         url: /tutorial/joystick
       - title: "- Keyboard drive"
         url: /tutorial/keyboard
       - title: "- Web interface"
         url: /tutorial/webinterface
+  - title: ":shopping_cart: Buy"
+    url: /buy/
   - title: Documentation
     children:
       - title: "🧑‍🏫 Courses"
@@ -63,12 +80,24 @@ tutorial:
   - title: "🕹️ Play"
     url: /tutorial
     children:
+      - title: "- nanosaur script"
+        url: /tutorial/nanosaur-script
       - title: "- Joystick drive"
         url: /tutorial/joystick
       - title: "- Keyboard drive"
         url: /tutorial/keyboard
       - title: "- Web interface"
         url: /tutorial/webinterface
+  - title: "👨‍💻 Simulation"
+    children:
+      - title: "- Gazebo/Ignition"
+        url: /tutorial/gazebo-simulation
+      - title: "- NVIDIA Isaac SIM"
+        url: /tutorial/isaacsim-simulation
+      - title: "- gz-omni connector"
+        url: /tutorial/isaacsim-connector
+  - title: ":shopping_cart: Buy"
+    url: /buy/
   - title: Documentation
     children:
       - title: "🧑‍🏫 Courses"
@@ -83,19 +112,26 @@ tutorial:
         url: /quick-start/
       - title: ":robot: Community"
         url: /community/
+      - title: "📐 Architecture"
+        url: /architecture/
+      - title: "👷 Project"
+        url: /project/
+      - title: "🚦 Status"
+        url: /status/
 
 about:
-  - title: About
+  - title: "🦕 About"
+    url: /about
     children:
-      - title: "- Press"
-        url: /press
-      - title: "- Events"
-        url: /events
-      - title: "- Timeline"
-        url: /about#timeline
-      - title: "- Specifications"
-        url: /about#specifications
-      - title: "- License"
-        url: /about#license
-      - title: "- Status"
-        url: /status
+      - title: "📐 Architecture"
+        url: /architecture/
+      - title: "👷 Project"
+        url: /project/
+      - title: "🚦 Status"
+        url: /status/
+      - title: "🗞️ Press"
+        url: /press/
+      - title: "🎟️ Events"
+        url: /events/
+  - title: ":shopping_cart: Buy"
+    url: /buy/

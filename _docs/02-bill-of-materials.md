@@ -35,7 +35,7 @@ This table is your necessary needed to make nanosaur. Few parts, starting from t
 | 2        | oled display                | :us: $5<br/>[Amazon](https://amzn.to/3ocB3kJ) | :it:<br/>[Amazon](https://amzn.to/3EwAObC) | :uk:<br/>[Amazon](https://amzn.to/3HavufG) | :netherlands:<br/>[Amazon](https://amzn.to/3EwYaxK) | 128x64px 0.06in I2C<br/> Best price pack:<br/>[3 display](https://amzn.to/3d6Qgkv)  |
 | 6        | Ball bearings **F686ZZ**    | :us: $7.49<br/>[Amazon](https://amzn.to/3dIs8DJ) | :it:<br/>[Amazon](https://amzn.to/3z0zeh4) | :uk:<br/>[Amazon](https://amzn.to/3qmJVqc) | :netherlands:<br/>[Amazon](https://amzn.to/3Hay856) | **alternative**:<br/>[aliexpress.com](https://www.aliexpress.com/item/32862353983.html)  |
 | 10       | Magnets 4x2mm              | :us: $10.99<br/>[Amazon](https://amzn.to/3pwnnTp) |   |  | :netherlands:<br/>[Amazon](https://amzn.to/3z1FgOD) | **alternative**:<br/>[aliexpress.com](https://www.aliexpress.com/item/1005001530483863.html)                          |
-| -        | Expansion board             |           |           |           |           | [Expansion board](#expansion-board) | 
+| -        | Expansion board             |           |           |           |           | [Expansion board](#expansion-board) |
 | -        | 3D parts                    |           |           |           |           | [3D filaments](#3d-filaments)               |
 | -        | Hex M2 Screw set            | :us: $10*<br/>Amazon |            |           |           | [Screw set](#screw-set)             |
 
@@ -49,7 +49,6 @@ List of camera options available
 | ![Raspberry Camera v2]({{ '/assets/docs/assembly/cover-cam/nanosaur-cover-200.png' | relative_url }}) | [Raspberry Camera v2](/optional/cover#camera) |
 | ![Stereolabs ZED mini]({{ '/assets/docs/assembly/cover-zedmini/nanosaur-cover-zedmini-200.png' | relative_url }}) | [Stereolabs ZED mini](/optional/cover#zed-mini) |
 | ![Intel Realsense d435i]({{ '/assets/docs/assembly/cover-rs/nanosaur-cover-realsense-200.png' | relative_url }}) | [Intel Realsense d435i](/optional/cover#realsense) |
-
 
 ## Optionals
 
@@ -82,6 +81,7 @@ First step, you need the **nanosaur-expansion-board** PCB
 {% include figure image_path="/assets/docs/expansion-board/nanosaur-exp-board-Board_top.svg" alt="Nanosaur Expansion board PCB top" caption="Nanosaur Expansion board PCB top" %}
 
 To obtain one and support this project follow these steps:
+
 - Register to PCBWay using [my refferer link](https://www.pcbway.com/setinvite.aspx?inviteid=472567)
 - Upon you registered, go to the <a href="https://www.pcbway.com/project/shareproject/Nanosaur___The_smallest_NVIDIA_Jetson_dinosaur_robot.html">nanosaur <img src="https://www.pcbway.com/project/img/images/frompcbway.png" alt="PCB from PCBWay" /></a>
 - Click on **"Add to Cart"** button on the right
@@ -92,6 +92,7 @@ The BoM below is to assembly the **nanosaur-expansion-board**:
 {% include kicad_bom.html table_name=site.data.nanosaur-exp-board %}
 
 To assembly the nanosaur expansion board follow [expansion-board](/expansion-board) documentation.
+
 ## Table connectors
 
 In this table you can assembly all nanosaur connectors for [expansion-board](/expansion-board).
@@ -107,16 +108,17 @@ In this table you can assembly all nanosaur connectors for [expansion-board](/ex
 
 # Screw set
 
-nanosaur use a short set of M2 screw, you can buy a set 
+nanosaur use a short set of M2 screw, you can buy a set
 
 | Quantity | Part                        | Note  |
 |:--------:|-----------------------------|-------|
 | 6        | M2 nuts                     |       |
-| 6        | Hex M2 20mm                 |       |
-| 2        | Hex M2 6mm                  |       |
 | 20       | Hex M2 4mm                  |       |
+| 4        | Hex M2 6mm                  |       |
+| 4        | Hex M2 10mm                 |       |
+| 6        | Hex M2 20mm                 |       |
 
-If you are building nanosaur without magnets, you need other 3 extra screws
+If you are building nanosaur [**without** magnets](/optional/screw-assembly), you need other 3 extra screws
 
 | Quantity | Part                        | Note  |
 |:--------:|-----------------------------|-------|

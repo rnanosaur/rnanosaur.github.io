@@ -33,7 +33,7 @@ This is the coolest robot that you ever print!
 
 # Glass
 
-A nanosaur always need a good cocktail after work! With this scaled **Thingiverse** you can take cool shots. 
+A nanosaur always need a good cocktail after work! With this scaled **Thingiverse** you can take cool shots.
 
 I usually print in PLA/PETG transparent at slow speed.
 
@@ -43,7 +43,7 @@ I usually print in PLA/PETG transparent at slow speed.
 
 {% include figure image_path="/assets/docs/gadgets/nanosaur-glass.jpg" alt="nanosaur glass" caption="nanosaur glass" %}
 
-# Key Pi Cam v2 
+# Key Pi Cam v2
 
 If you are working with a [Pi cam v2 cover](/optional/cover#camera), this key is the perfect gadget to quickly calibrate the camera focus.
 

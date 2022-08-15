@@ -15,4 +15,6 @@ header:
       url: "/categories"
     - label: "📑 by Tags"
       url: "/tags"
+sidebar:
+  - nav: "about"
 ---

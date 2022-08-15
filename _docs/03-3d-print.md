@@ -193,6 +193,7 @@ The **Nanosaur design** is under license [Creative Commons Attribution-NonCommer
 {: .notice}
 
 In this guide you will find two different guidelines for three popular slicers:
+
 1. [**Cura**](https://ultimaker.com/software/ultimaker-cura)
 2. [**PrusaSlicer**](https://www.prusa3d.com/page/prusaslicer_424/) or [**SuperSlicer**](https://github.com/supermerill/SuperSlicer)
 
@@ -212,10 +213,10 @@ Following this guideline the average time to print nanosaur is:
 | 2  | track_print.stl | TPU black/grey  | 1:30h | [Track](#print-tracks)                                   |
 |    |                 | **Total**       | **15h** |                                                        |
 
-**:floppy_disk: Download** you can obtain all Nanosaur parts only downloading this zip file [**nanosaur_stl.zip**](https://github.com/rnanosaur/nanosaur/releases/latest/download/nanosaur_stl.zip)
+**:floppy_disk: Download** you can obtain all Nanosaur parts only downloading this zip file [**nanosaur-stl.zip**](https://github.com/rnanosaur/nanosaur/releases/latest/download/nanosaur-stl.zip)
 {: .notice--success}
 
-**:bulb: Hint** On nanosaur_stl.zip you can find a folder **025in** for ball bearings with size *ID 1/4in x OD 1/2in*
+**:bulb: Hint** On nanosaur-stl.zip you can find a folder **025in** for ball bearings with size *ID 1/4in x OD 1/2in*
 {: .notice--info}
 
 {% include video id="5cVNXbF6HzI" provider="youtube" %}
@@ -223,19 +224,21 @@ Following this guideline the average time to print nanosaur is:
 # Print PLA parts
 
 You can split all parts following this guideline and setup the printer using this profile:
+
 * **Layer height**: 0.2mm
 * **Print speed**: 50mm/s
 * **Infill**: 15%
 
 ## Base rear
 
-To print this parts you need a **PLA green**. The average time will be: **5h** 
+To print this parts you need a **PLA green**. The average time will be: **5h**
 
 | Quantity | Part            | 3D view |
 |:--------:|-----------------|:-------:|
 | 1        | [base_rear.stl](https://github.com/rnanosaur/nanosaur/raw/master/nanosaur_description/meshes/base_rear.stl) | {% include 3dview.html username="rnanosaur" repo="nanosaur" path_to_file="nanosaur_description/meshes/base_rear.stl" %} |
 
 {% include navtab id="nav-base-rear" %}
+
 ## Base front
 
 To print this parts you need a **PLA green**. The average time will be: **1h** and **30min**.
@@ -248,10 +251,10 @@ To print this parts you need a **PLA green**. The average time will be: **1h** a
 
 ## Wheels and sprockets
 
-**:bulb: Hint** On nanosaur_stl.zip you can find a folder **025in** for ball bearings with size *ID 1/4in x OD 1/2in*
+**:bulb: Hint** On nanosaur-stl.zip you can find a folder **025in** for ball bearings with size *ID 1/4in x OD 1/2in*
 {: .notice--info}
 
-To print this parts you need a **PLA green/black**. The average time will be: **2h**. 
+To print this parts you need a **PLA green/black**. The average time will be: **2h**.
 
 | Quantity | Part            | 3D view |
 |:--------:|-----------------|:-------:|
@@ -262,7 +265,7 @@ To print this parts you need a **PLA green/black**. The average time will be: **
 
 ## Sliders
 
-To print this parts you need a **PLA green**. The average time will be: **2h**. 
+To print this parts you need a **PLA green**. The average time will be: **2h**.
 
 | Quantity | Part            | 3D view |
 |:--------:|-----------------|:-------:|

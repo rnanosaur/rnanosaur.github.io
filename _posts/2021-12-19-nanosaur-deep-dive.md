@@ -12,11 +12,11 @@ tags:
   - YouTube
 ---
 
-What is #nanosaur?
-How it is works
-How you can make
-How you can hack
-next steps?
+* What is #nanosaur?
+* How it is works
+* How you can make
+* How you can hack
+* next steps?
 
 In this youtube live we will investigate how to use nanosaur and hack to add more performance to your robot.
 Bring your robot and try with me all features
