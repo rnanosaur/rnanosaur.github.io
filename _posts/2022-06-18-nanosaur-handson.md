@@ -3,15 +3,12 @@ title: "Hands-on Isaac ROS Visual SLAM with Nanosaur"
 excerpt: "ROS Developer Day 2022 (By Raffaello Bonghi, Developer Relations manager AI & Robotics - NVIDIA)"
 classes: wide
 categories:
-  - Events
+  - Course
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/posts/ROS-developer-day2022.jpg
+  video:
+    id: V5qOOWkkpww
+    provider: youtube
   teaser: /assets/posts/ROS-developer-day2022.jpg
-  actions:
-    - label: "The construct website"
-      url: "https://www.theconstructsim.com/ros-developers-day-2022"
 tags:
   - The Construct
   - Ricardo Tellez
@@ -19,6 +16,9 @@ tags:
   - ROS Developer Day
 ---
 
-Preview:
+[ROS Developer Day 2022](https://www.theconstructsim.com/ros-developers-day-2022)
 
+Preview:
 {% include video id="14uZDJSQCU8RlmveQID5iP__PuxQD3aqU" provider="google-drive" %}
+
+{% include figure image_path="/assets/posts/ROS-developer-day2022.jpg" alt="ROS developer Day 2022" caption="ROS developer Day 2022" %}
