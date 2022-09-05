@@ -66,6 +66,6 @@ When your machine will be up to date, we can run the Nanosaur installation scrip
 
 :clipboard: Copy and paste on the NVIDIA Jetson terminal the following line
 
-{% capture code %}curl https://github.com/rnanosaur/nanosaur/releases/latest/download/nanosaur -o $HOME/nanosaur && chmod +x $HOME/nanosaur && $HOME/nanosaur install{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
+{% capture code %}curl -L https://github.com/rnanosaur/nanosaur/releases/latest/download/nanosaur -o $HOME/nanosaur && chmod +x $HOME/nanosaur && $HOME/nanosaur install{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
 
 Follow the instructions and reboot your board!
