@@ -53,7 +53,7 @@ Example if you want to run an empty world.
 
 ## Ignition Gazebo
 
-{% capture code %}ros2 launch nanosaur_igniton ignition.launch.py{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
+{% capture code %}ros2 launch nanosaur_ignition ignition.launch.py{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
 
 The final output on gazebo, will be like:
 
@@ -69,7 +69,7 @@ All worlds available are in the [nanosaur_worlds](https://github.com/rnanosaur/n
 
 Example if you want to run an empty world.
 
-{% capture code %}ros2 launch nanosaur_igniton ignition.launch.py world_name:=empty{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
+{% capture code %}ros2 launch nanosaur_ignition ignition.launch.py world_name:=empty{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
 
 **Remember to don't write the world extension!**
 # Run perception
