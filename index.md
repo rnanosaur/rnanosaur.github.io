@@ -10,6 +10,8 @@ header:
   actions:
   - label: ":sparkling_heart: Sponsor"
     url: "https://github.com/sponsors/rbonghi"
+  - label: ":tshirt: T-shirt"
+    url: "https://teespring.com/nanosaur"
   - label: ":star: Star"
     url: "https://github.com/rnanosaur/nanosaur"
   - label: ":wrench: Make"
@@ -56,6 +58,14 @@ award:
     btn_class: "btn--success"
 footer: 
   - excerpt: '🦕 **nanosaur** is proudly part of :pizza: [pizzarobotics](https://pizzarobotics.org) community'
+merch:
+  - image_path: /assets/merch/nanosaur-merch.gif
+    alt: "nanosaur merchandising"
+    title: "nanosaur style"
+    excerpt: "nanosaur addicted! Pimp your day with T-Shirts, mugs, Hoodies and all for your robotic working day!"
+    url: "https://teespring.com/nanosaur"
+    btn_label: ":shopping_cart: Watch catalog"
+    btn_class: "btn--inverse"
 ---
 
 {% include feature_row id="about" type="left" %}
@@ -65,5 +75,7 @@ footer:
 {% include feature_row id="award" type="right" %}
 
 {% include feature_row id="footer" type="center" %}
+
+{% include feature_row id="merch" type="left" %}
 
 {% include discord.html %}
