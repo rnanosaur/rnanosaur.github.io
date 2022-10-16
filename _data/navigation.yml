@@ -67,6 +67,9 @@ docs:
         url: /tutorial/webinterface
   - title: ":shopping_cart: Buy"
     url: /buy/
+    children:
+      - title: "- :tshirt: Buy T-shirt or a mug"
+        url: https://teespring.com/nanosaur
   - title: Documentation
     children:
       - title: "🧑‍🏫 Courses"
