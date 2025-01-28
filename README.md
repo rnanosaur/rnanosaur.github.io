@@ -1,4 +1,4 @@
-# :sauropod: nanosaur.ai - [![CC BY-NC-ND 4.0][cc-by-nc-nd-image]][cc-by-nc-nd]
+# 🦕 nanosaur.ai [![CC BY-NC-ND 4.0][cc-by-nc-nd-image]][cc-by-nc-nd]
 <!-- INTRO START -->
 [![Discord](https://img.shields.io/discord/797461428646707211?style=social&logo=discord&label=Discord)](https://discord.gg/rCHgeUpUj9) [![GitHub rnanosaur stars](https://img.shields.io/github/stars/rnanosaur?style=social)](https://github.com/rnanosaur) [![GitHub rbonghi followers](https://img.shields.io/github/followers/rbonghi?label=rbonghi)](https://github.com/rbonghi) [![LinkedIn](https://img.shields.io/badge/LinkedIn:-raffaello--bonghi-0077B5?style=social)](https://www.linkedin.com/in/raffaello-bonghi) [![robo.panther](https://img.shields.io/badge/Follow:-robo.panther-E4405F?style=social&logo=instagram)](https://www.instagram.com/robo.panther)
 
@@ -26,7 +26,7 @@ Meet nanosaur:
 <!-- CI END -->
 ## Run locally
 
-If you have **docker** and **docker-compose** you can use only this command
+You can use only this command if you have **docker** and **docker-compose**.
 
 ```console
 docker compose up
@@ -36,14 +36,14 @@ docker compose up
 
 ## Install ruby and run on your host
 
-If you want install all environment on your desktop you need to install **ruby**:
+If you want to install the entire environment on your desktop, you need to install **ruby**:
 
 <https://gorails.com/setup/ubuntu/20.04#ruby-rbenv>
 
 * Using rbenv
 * version 2.7.3
 
-When is done, please run:
+When it is done, please run:
 
 ```console
 bundle
@@ -64,7 +64,7 @@ eq of: `bundle exec jekyll serve --config _config.yml,_config.dev.yml --incremen
 * [Enabling Cookie Consent with Jekyll Minimal Mistakes](https://ptc-it.de/enabling-cookie-consent-with-jekyll-minimal-mistakes/)
 * [Add favicon to MM Jekyll site](https://ptc-it.de/add-favicon-to-mm-jekyll-site/)
 * [How to add a copy to clipboard button to your Jekyll blog](https://www.aleksandrhovhannisyan.com/blog/how-to-add-a-copy-to-clipboard-button-to-your-jekyll-blog/)
-* Make a table from csv file [https://jekyllrb.com/tutorials/csv-to-table/](https://jekyllrb.com/tutorials/csv-to-table/)
+* Make a table from CSV file [https://jekyllrb.com/tutorials/csv-to-table/](https://jekyllrb.com/tutorials/csv-to-table/)
 
 ## Other
 
