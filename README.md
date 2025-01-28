@@ -51,34 +51,27 @@ eq of: `bundle exec jekyll serve --config _config.yml,_config.dev.yml --incremen
 
 ## Theme reference
 
-* https://mmistakes.github.io/minimal-mistakes/
-* https://github.com/mmistakes/mm-github-pages-starter
-* https://ptc-it.de/enabling-cookie-consent-with-jekyll-minimal-mistakes/
-* https://ptc-it.de/add-favicon-to-mm-jekyll-site/
-* https://www.aleksandrhovhannisyan.com/blog/how-to-add-a-copy-to-clipboard-button-to-your-jekyll-blog/
-* Make a table from csv file https://jekyllrb.com/tutorials/csv-to-table/
+* [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)
+* [mm-github-pages-starter](https://github.com/mmistakes/mm-github-pages-starter)
+* [Enabling Cookie Consent with Jekyll Minimal Mistakes](https://ptc-it.de/enabling-cookie-consent-with-jekyll-minimal-mistakes/)
+* [Add favicon to MM Jekyll site](https://ptc-it.de/add-favicon-to-mm-jekyll-site/)
+* [How to add a copy to clipboard button to your Jekyll blog](https://www.aleksandrhovhannisyan.com/blog/how-to-add-a-copy-to-clipboard-button-to-your-jekyll-blog/)
+* Make a table from csv file [https://jekyllrb.com/tutorials/csv-to-table/](https://jekyllrb.com/tutorials/csv-to-table/)
 
 ## Other
 
-* https://emojipedia.org/
-* https://realfavicongenerator.net/
-* https://docs.github.com/en/free-pro-team@latest/github/managing-files-in-a-repository/3d-file-viewer
+* [Emojipedia](https://emojipedia.org/)
+* [realfavicongenerator](https://realfavicongenerator.net/)
+* [3D File Viewer Documentation](https://docs.github.com/en/free-pro-team@latest/github/managing-files-in-a-repository/3d-file-viewer)
 
 ## Google TAG manager
 
-* https://www.analyticsmania.com/post/track-pdf-downloads-with-google-tag-manager-ga/
-* https://www.datadrivenu.com/track-downloads-google-analytics/
+* [Track PDF Downloads with Google Tag Manager](https://www.analyticsmania.com/post/track-pdf-downloads-with-google-tag-manager-ga/)
+* [Track Downloads with Google Analytics](https://www.datadrivenu.com/track-downloads-google-analytics/)
 
 ## Website license
 
 This website is under license [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International][cc-by-nc-nd].
-<!-- LICENSE START -->
-## License
-
-* All code is Under license [MIT](LICENSE)
-
-For more information about this project, please follow [nanosaur.ai/about](https://nanosaur.ai/about/#license)
-<!-- LICENSE END -->
 <!-- CREDITS START -->
 ## Contact Information
 
