@@ -73,6 +73,11 @@ eq of: `bundle exec jekyll serve --config _config.yml,_config.dev.yml --incremen
 
 This website is under license [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International][cc-by-nc-nd].
 <!-- LICENSE START -->
+## License
+
+* All code is Under license [MIT](LICENSE)
+
+For more information about this project, please follow [nanosaur.ai/about](https://nanosaur.ai/about/#license)
 <!-- LICENSE END -->
 <!-- CREDITS START -->
 ## Contact Information
