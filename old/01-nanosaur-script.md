@@ -9,8 +9,8 @@ toc_sticky: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  teaser: /assets/tutorial/nanosaur-script/nanosaur_sheel.png
-  overlay_image: /assets/tutorial/nanosaur-script/nanosaur_sheel.png
+  teaser: /old/images/nanosaur-script/nanosaur_sheel.png
+  overlay_image: /old/images/nanosaur-script/nanosaur_sheel.png
 ---
 
 **:construction: This part will be updated soon.**<br/>For any issue join on [Discord](https://discord.gg/NSrC52P5mw)

@@ -10,8 +10,8 @@ tags:
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/tutorial/AprilTagROS/ApriltagROS.jpg
-  teaser: /assets/tutorial/AprilTagROS/ApriltagROS.jpg
+  overlay_image: /assets/images/posts/AprilTagROS/ApriltagROS.jpg
+  teaser: /assets/images/posts/AprilTagROS/ApriltagROS.jpg
   actions:
     - label: "blog post"
       url: "https://developer.nvidia.com/blog/designing-robots-with-isaac-gems-for-ros/"

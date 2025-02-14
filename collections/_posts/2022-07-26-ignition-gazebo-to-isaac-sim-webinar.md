@@ -5,8 +5,8 @@ link: https://info.nvidia.com/ignition-gazebo-to-isaac-sim-webinar.html
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/tutorial/IsaacSIM/IsaacSIM-webinar.png
-  teaser: /assets/tutorial/IsaacSIM/IsaacSIM-webinar.png
+  overlay_image: /assets/images/posts/IsaacSIM/IsaacSIM-webinar.png
+  teaser: /assets/images/posts/IsaacSIM/IsaacSIM-webinar.png
 categories:
   - Course
 tags:

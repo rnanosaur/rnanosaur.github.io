@@ -9,7 +9,7 @@ toc_sticky: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  teaser: /assets/tutorial/base/nanosaur_joystick.jpg
+  teaser: /assets/images/collections/tutorial/base/nanosaur_joystick.jpg
   overlay_image: /assets/images/collections/tutorial/joystick/F710-top.jpg
 ---
 
@@ -37,7 +37,7 @@ If you want manually control nanosaur, there are two options:
 
 To drive Nanosaur, you can use the **left joystick** to accelerate and twist the robot.
 
-{% include figure image_path="/assets/tutorial/base/nanosaur-drive.png" alt="nanosaur desktop sheel" caption="Nanosaur desktop sheel" %}
+{% include figure image_path="/assets/images/collections/tutorial/base//nanosaur-drive.png" alt="nanosaur desktop sheel" caption="Nanosaur desktop sheel" %}
 
 # Power off
 
@@ -48,4 +48,4 @@ If you want power off nanosaur you can simply press all **rear buttons** togethe
 * **RB**
 * **RT**
 
-{% include figure image_path="/assets/tutorial/base/nanosaur-poweroff.png" alt="nanosaur desktop sheel" caption="Nanosaur desktop sheel" %}
+{% include figure image_path="/assets/images/collections/tutorial/base//nanosaur-poweroff.png" alt="nanosaur desktop sheel" caption="Nanosaur desktop sheel" %}
