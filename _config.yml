@@ -90,6 +90,7 @@ exclude:
   - LICENSE
   - Gemfile
   - vendor
+  - old
 
 # Build settings
 markdown: kramdown
