@@ -98,6 +98,8 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+collections_dir: collections
+
 collections:
   make:
     output: true
