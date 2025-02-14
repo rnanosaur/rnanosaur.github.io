@@ -114,6 +114,9 @@ collections:
   tutorial:
     output: true
     permalink: /:collection/:path/
+  courses:
+    output: true
+    permalink: /:collection/:path/
   community:
     output: true
     permalink: /:collection/:path/
@@ -173,6 +176,15 @@ defaults:
   - scope:
       path: ""
       type: simulation
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      read_time: true
+  # _courses
+  - scope:
+      path: ""
+      type: course
     values:
       layout: single
       author_profile: false

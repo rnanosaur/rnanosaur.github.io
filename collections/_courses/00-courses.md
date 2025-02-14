@@ -3,7 +3,7 @@ title: "Courses"
 excerpt: "Let's learn how is it work nanosaur and how to build a ROS 2 package and work with Isaac ROS"
 layout: single
 permalink: /courses/
-collection: make
+collection: course
 hidden: true
 classes: wide
 author_profile: false
@@ -19,6 +19,8 @@ header:
       url: "https://github.com/sponsors/rbonghi"
     - label: ":star: Star"
       url: "https://github.com/rnanosaur/nanosaur"
+    - label: "📓 Extra courses"
+      url: /courses/extra/
 feature_row:
   - image_path: /assets/images/collections/courses/beginner.webp
     alt: "nanosaur beginner course"
