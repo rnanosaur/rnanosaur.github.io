@@ -1,6 +1,9 @@
 ---
 title: "Assembly"
-permalink: /assembly/
+permalink: /make/assembly/
+collection: make
+redirect_from:
+  - /assembly
 header:
   teaser: /assets/docs/assembly/nanosaur-explode.png
 toc: true

@@ -1,7 +1,7 @@
 ---
 title: "Joystick drive"
 excerpt: "Let's start with nanosaur, manually control with a joystick"
-permalink: /tutorial/joystick
+# permalink: /tutorial/joystick
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"

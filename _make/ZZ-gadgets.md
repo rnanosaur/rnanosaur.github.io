@@ -1,7 +1,8 @@
 ---
 title: "Gadgets"
 excerpt: "3D print gadgets for nanosaur"
-permalink: /optional/gadgets
+permalink: /make/gadgets/
+collection: make
 toc: true
 toc_label: "Table of Contents"
 toc_sticky: true

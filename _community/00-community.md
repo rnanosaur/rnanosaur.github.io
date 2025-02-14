@@ -3,12 +3,13 @@ title: "Community"
 excerpt: "Join on 🦕 nanosaur community, and show your robot here!"
 layout: collection
 permalink: /community/
+hidden: true
 collection: robot
 entries_layout: grid
 classes: wide
 author_profile: false
 sidebar:
-  - nav: "tutorial"
+  - nav: "about"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

@@ -8,6 +8,10 @@ toc_icon: "cog"
 toc_sticky: true
 header:
   teaser: /assets/docs/simulation/gz-omni-hybrid_diagram.png
+categories:
+  - Course
+tags:
+  - NVIDIA
 ---
 
 If you want to work with the gz-omni connector you need to install some extra steps on your desktop 

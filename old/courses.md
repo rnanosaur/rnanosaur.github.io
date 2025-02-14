@@ -1,7 +1,7 @@
 ---
 title: Courses
 layout: category
-permalink: /courses/
+# permalink: /courses/
 entries_layout: grid
 classes: wide
 taxonomy: Course
@@ -16,6 +16,4 @@ header:
   actions:
     - label: "🕹️ Tutorials"
       url: "/tutorial"
-    - label: ":books: Wiki"
-      url: "https://github.com/rnanosaur/nanosaur/wiki"
 ---

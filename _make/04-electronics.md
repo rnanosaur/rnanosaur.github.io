@@ -1,6 +1,9 @@
 ---
 title: "Electronics"
-permalink: /electronics/
+permalink: /make/electronics/
+collection: make
+redirect_from:
+  - /electronics
 header:
   teaser: /assets/docs/electronics/adafruit-pinout.png
 toc: true

@@ -1,6 +1,7 @@
 ---
-title: "Install nanosaur desktop simulation"
-permalink: /install/simulation
+title: "nanosaur install"
+excerpt: "Install the nanosaur basic software"
+permalink: /install/nanosaur/
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"

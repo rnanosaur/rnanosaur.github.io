@@ -1,7 +1,7 @@
 ---
 title: "nanosaur script"
 excerpt: "How it is works and how you can use the nanosaur script on your robot or on your desktop"
-permalink: /tutorial/nanosaur-script
+# permalink: /tutorial/nanosaur-script
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"

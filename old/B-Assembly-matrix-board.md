@@ -1,6 +1,6 @@
 ---
 title: "Assembly matrix board"
-permalink: /option/assembly-matrix-board
+# permalink: /option/assembly-matrix-board
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"

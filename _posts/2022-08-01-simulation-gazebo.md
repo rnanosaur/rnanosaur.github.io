@@ -5,6 +5,10 @@ permalink: /tutorial/gazebo-simulation
 classes: wide
 header:
   teaser: /assets/docs/simulation/sim_02_ignition.png
+categories:
+  - Course
+tags:
+  - NVIDIA
 ---
 
 Do you want to try nanosaur on a simulator? You can start directly from this tutorial.

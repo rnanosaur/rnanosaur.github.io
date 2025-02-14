@@ -1,7 +1,7 @@
 ---
 title: "Keyboard drive"
 excerpt: "Drive by keyboard or watch nanosaur on rviz"
-permalink: /tutorial/keyboard
+permalink: /tutorial/drive/
 classes: wide
 header:
   overlay_color: "#000"

@@ -19,16 +19,13 @@ search_full_content: true
 
 github: [metadata]
 
-twitter:
-  username: &twitter "raffaello86"
-
 discord:
   id: 797461428646707211
 
 social:
   links: # An array of links to social media profiles
-    - "https://twitter.com/raffaello86"
     - "https://instagram.com/robo.panther"
+    - "https://instagram.com/raffaello86"
 
 analytics:
   provider: "google-gtag"
@@ -46,9 +43,6 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://rnext.it"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/raffaello86"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/raffaello-bonghi/"
@@ -68,9 +62,6 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/raffaello86"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/raffaello-bonghi/"
@@ -108,13 +99,19 @@ excerpt_separator: "\n\n"
 incremental: false
 
 collections:
-  docs:
+  make:
+    output: true
+    permalink: /:collection/:path/
+  install:
+    output: true
+    permalink: /:collection/:path/
+  simulation:
     output: true
     permalink: /:collection/:path/
   tutorial:
     output: true
     permalink: /:collection/:path/
-  robot:
+  community:
     output: true
     permalink: /:collection/:path/
 
@@ -130,17 +127,36 @@ defaults:
       share: true
       related: true
       show_date: true
-  # docs
+  # _pages
   - scope:
-      path: "_docs"
-      type: docs
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+  # _make
+  - scope:
+      path: ""
+      type: make
     values:
       layout: single
       author_profile: false
       share: false
       read_time: false
       sidebar:
-        nav: "docs"
+        nav: "make"
+  # _install
+  - scope:
+      path: ""
+      type: install
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      read_time: false
+      sidebar:
+        nav: "install"
   # _tutorial
   - scope:
       path: ""
@@ -150,12 +166,19 @@ defaults:
       author_profile: false
       share: true
       read_time: true
-      sidebar:
-        nav: "tutorial"
-  # _robot
+  # _simulation
   - scope:
       path: ""
-      type: robot
+      type: simulation
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      read_time: true
+  # _community
+  - scope:
+      path: ""
+      type: community
     values:
       layout: single
       author_profile: true
@@ -163,13 +186,6 @@ defaults:
       read_time: true
       sidebar:
         nav: "about"
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
 
 # Outputting
 permalink: /:categories/:title/

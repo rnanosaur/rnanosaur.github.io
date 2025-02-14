@@ -1,7 +1,7 @@
 ---
 title: "Web interface"
 excerpt: "How to visualize the nanosaur web interface"
-permalink: /tutorial/webinterface
+# permalink: /tutorial/webinterface
 classes: wide
 header:
   overlay_color: "#000"

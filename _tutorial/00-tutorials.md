@@ -3,7 +3,7 @@ title: "Tutorials & Courses"
 excerpt: "Do you have 🦕 nanosaur? It's time to follow these tutorial or jump on the courses."
 layout: collection
 permalink: /tutorial/
-collection: tutorial
+hidden: true
 entries_layout: grid
 classes: wide
 author_profile: false
@@ -19,10 +19,4 @@ header:
       url: "https://discord.gg/NSrC52P5mw"
     - label: "🧑‍🏫 Courses"
       url: "/courses"
-    - label: ":books: Wiki"
-      url: "https://github.com/rnanosaur/nanosaur/wiki"
 ---
-
-{% include 3steps.md %}
-
-# Tutorials

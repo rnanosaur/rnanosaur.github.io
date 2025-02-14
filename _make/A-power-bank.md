@@ -1,6 +1,7 @@
 ---
 title: "nanosaur power bank size"
-permalink: /optional/power-bank
+permalink: /make/power-bank/
+collection: make
 classes: wide
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "nanosaur cover head"
-permalink: /optional/cover
+permalink: /make/cover/
+collection: make
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"

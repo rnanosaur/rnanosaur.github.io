@@ -1,7 +1,8 @@
 ---
 title: "Configuration cover"
 excerpt: "Configuration cover on your nanosaur"
-permalink: /configuration/cover
+permalink: /make/cover/
+collection: make
 classes: wide
 ---
 

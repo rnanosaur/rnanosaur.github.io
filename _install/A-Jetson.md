@@ -1,6 +1,7 @@
 ---
-title: "Install on Jetson"
-permalink: /install/
+title: "Install an NVIDIA Jetson"
+excerpt: "Simple how to quick start an NVIDIA Jetson"
+permalink: install/jetson
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"

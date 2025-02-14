@@ -1,8 +1,10 @@
 ---
 title: "Bill of Materials"
 excerpt: "Bill of Materials to build nanosaur."
-permalink: /bill-of-materials/
+permalink: /make/bill-of-materials/
+collection: make
 redirect_from:
+  - /bill-of-materials
   - /extra/bom-countries
 toc: true
 toc_label: "Table of Contents"

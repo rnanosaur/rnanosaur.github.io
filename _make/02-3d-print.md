@@ -1,6 +1,9 @@
 ---
 title: "3D print"
-permalink: /3d-print/
+permalink: /make/3d-print/
+collection: make
+redirect_from:
+  - /3d-print
 header:
   teaser: /assets/docs/3d-print-cura/base_rear.png
 toc: true

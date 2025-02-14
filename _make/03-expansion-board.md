@@ -1,6 +1,9 @@
 ---
 title: "Expansion board"
-permalink: /expansion-board/
+permalink: /make/expansion-board/
+collection: make
+redirect_from:
+  - /expansion-board
 header:
   teaser: /assets/docs/expansion-board/nanosaur-exp-board-3dtop.png
 toc: true
