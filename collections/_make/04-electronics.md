@@ -5,31 +5,31 @@ collection: make
 redirect_from:
   - /electronics
 header:
-  teaser: /assets/docs/electronics/adafruit-pinout.png
+  teaser: /assets/images/collections/make/electronics/adafruit-pinout.png
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
 motor-control:
-  - url: /assets/docs/electronics/01-motor-control.png
-    image_path: /assets/docs/electronics/01-motor-control.png
+  - url: /assets/images/collections/make/electronics/01-motor-control.png
+    image_path: /assets/images/collections/make/electronics/01-motor-control.png
     alt: "Assembly nanosaur power bank"
     title: "Assembly nanosaur power bank"
-  - url: /assets/docs/electronics/02-motor-control.png
-    image_path: /assets/docs/electronics/02-motor-control.png
+  - url: /assets/images/collections/make/electronics/02-motor-control.png
+    image_path: /assets/images/collections/make/electronics/02-motor-control.png
     alt: "Mount XT-04 connectors"
     title: "Mount XT-04 connectors"
-  - url: /assets/docs/electronics/03-motor-control.png
-    image_path: /assets/docs/electronics/03-motor-control.png
+  - url: /assets/images/collections/make/electronics/03-motor-control.png
+    image_path: /assets/images/collections/make/electronics/03-motor-control.png
     alt: "Mount I2C connectors"
     title: "Mount I2C connectors"
 motor-wiring-steps:
-  - url: /assets/docs/electronics/motor-plus.jpg
-    image_path: /assets/docs/electronics/motor-plus.jpg
+  - url: /assets/images/collections/make/electronics/motor-plus.jpg
+    image_path: /assets/images/collections/make/electronics/motor-plus.jpg
     alt: "Motor detail (+) symbol"
     title: "Motor detail (+) symbol"
-  - url: /assets/docs/electronics/front-motor.jpg
-    image_path: /assets/docs/electronics/front-motor.jpg
+  - url: /assets/images/collections/make/electronics/front-motor.jpg
+    image_path: /assets/images/collections/make/electronics/front-motor.jpg
     alt: "Motor with cable"
     title: "Motor with cable"
 ---
@@ -48,7 +48,7 @@ We should wire the [DC Motor + Stepper FeatherWing Add-on](https://www.adafruit.
 
 The pinout of the [DC Motor + Stepper FeatherWing Add-on](https://www.adafruit.com/product/2927) will be the picture below
 
-{% include figure image_path="/assets/docs/electronics/adafruit-pinout.png" alt="Adafruit DC Motor pintout" caption="Adafruit DC Motor pintout" %}
+{% include figure image_path="/assets/images/collections/make/electronics/adafruit-pinout.png" alt="Adafruit DC Motor pintout" caption="Adafruit DC Motor pintout" %}
 
 # Motor wiring
 
@@ -78,4 +78,4 @@ The nanosaur expansion board connect the NVIDIA Jetson Nano to the Adafruit [DC 
 
 A schematic output has this output:
 
-{% include figure image_path="/assets/docs/electronics/Nanosaur-wiring.png" alt="Nanosaur-wiring" caption="Nanosaur-wiring" %}
+{% include figure image_path="/assets/images/collections/make/electronics/Nanosaur-wiring.png" alt="Nanosaur-wiring" caption="Nanosaur-wiring" %}

@@ -16,8 +16,8 @@ header:
     - label: "about nanosaur"
       url: "/about"
 nanosaur-evolution:
-  - url: /assets/community/one/nanosaur_firstbuild.jpg
-    image_path: /assets/community/one/nanosaur_firstbuild.jpg
+  - url: /assets/images/collections/community/one/nanosaur_firstbuild.jpg
+    image_path: /assets/images/collections/community/one/nanosaur_firstbuild.jpg
     alt: "nanosaur first build"
     title: "nanosaur first build"
   - url: /assets/images/intro.jpg

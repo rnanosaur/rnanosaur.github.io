@@ -8,8 +8,8 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/docs/assembly/body-head-04-magnets.jpg
-  teaser: /assets/docs/assembly/body-head-04-magnets.jpg
+  overlay_image: /assets/images/collections/make/assembly/body-head-04-magnets.jpg
+  teaser: /assets/images/collections/make/assembly/body-head-04-magnets.jpg
   actions:
     - label: ":sparkling_heart: Sponsor"
       url: "https://github.com/sponsors/rbonghi"

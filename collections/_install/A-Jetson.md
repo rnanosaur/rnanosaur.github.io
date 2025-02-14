@@ -34,7 +34,7 @@ Go on [NVIDIA Jetpack](https://developer.nvidia.com/embedded/Jetpack) webpage an
   {{ notice-text | markdownify }}
 </div>
 
-{% include figure image_path="/assets/docs/install/Etcher.png" alt="Etcher view" caption="Etcher view" %}
+{% include figure image_path="/assets/images/collections/install/Etcher.png" alt="Etcher view" caption="Etcher view" %}
 
 ## Configuration Jetson
 
@@ -49,7 +49,7 @@ Set: **Log in Automatically**
 
 Will appear something like the picture below:
 
-{% include figure image_path="/assets/docs/install/05-User.png" alt="Configuration Jetson" caption="Configuration Jetson" %}
+{% include figure image_path="/assets/images/collections/install/05-User.png" alt="Configuration Jetson" caption="Configuration Jetson" %}
 
 ## Connect to WiFi
 

@@ -10,7 +10,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   teaser: /assets/tutorial/base/nanosaur_joystick.jpg
-  overlay_image: /assets/docs/joystick/F710-top.jpg
+  overlay_image: /assets/images/collections/tutorial/joystick/F710-top.jpg
 ---
 
 Now you can manually drive 🦕 nanosaur on your desktop.

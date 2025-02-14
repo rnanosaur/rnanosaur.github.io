@@ -13,8 +13,8 @@ sidebar:
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/community.jpg
-  teaser: /assets/images/community.jpg
+  overlay_image: /assets/images/collections/community/community.jpg
+  teaser: /assets/images/collections/community/community.jpg
   actions:
   - label: "🤖 Discord"
     url: "https://discord.gg/NSrC52P5mw"

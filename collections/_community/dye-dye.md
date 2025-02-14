@@ -6,18 +6,18 @@ author: "Tiryoh"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/community/dye-dye/nanosaur_dye-dye_simple.jpg
-  teaser: /assets/community/dye-dye/nanosaur_dye-dye_simple.jpg
+  overlay_image: /assets/images/collections/community/dye-dye/nanosaur_dye-dye_simple.jpg
+  teaser: /assets/images/collections/community/dye-dye/nanosaur_dye-dye_simple.jpg
   actions:
     - label: ":sparkling_heart: Sponsor"
       url: "https://github.com/sponsors/Tiryoh"
 nanosaur-evolution:
-  - url: /assets/community/dye-dye/nanosaur_dye-dye_simple.jpg
-    image_path: /assets/community/dye-dye/nanosaur_dye-dye_simple.jpg
+  - url: /assets/images/collections/community/dye-dye/nanosaur_dye-dye_simple.jpg
+    image_path: /assets/images/collections/community/dye-dye/nanosaur_dye-dye_simple.jpg
     alt: "nanosaur with the simplest configuration"
     title: "nanosaur with the simplest configuration"
-  - url: /assets/community/dye-dye/nanosaur_dye-dye_with_lidar.jpg
-    image_path: /assets/community/dye-dye/nanosaur_dye-dye_with_lidar.jpg
+  - url: /assets/images/collections/community/dye-dye/nanosaur_dye-dye_with_lidar.jpg
+    image_path: /assets/images/collections/community/dye-dye/nanosaur_dye-dye_with_lidar.jpg
     alt: "nanosaur with LiDAR"
     title: "nanosaur with LiDAR"
 ---

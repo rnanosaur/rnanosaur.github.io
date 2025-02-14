@@ -59,7 +59,7 @@ award:
 footer: 
   - excerpt: '🦕 **nanosaur** is proudly part of :pizza: [pizzarobotics](https://pizzarobotics.org) community'
 merch:
-  - image_path: /assets/merch/nanosaur-merch.gif
+  - image_path: /assets/images/buy/merch/nanosaur-merch.gif
     alt: "nanosaur merchandising"
     title: "nanosaur style"
     excerpt: "nanosaur addicted! Pimp your day with T-Shirts, mugs, Hoodies and all for your robotic working day!"

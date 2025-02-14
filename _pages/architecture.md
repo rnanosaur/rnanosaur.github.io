@@ -29,7 +29,7 @@ nanosaur is made with the same capabilities of a real industrial AMR robot. The 
 
 The logic to drive and control this robot is the same of a control loop system. Where the driver and the mechanical parts are located on the left of the image below.
 
-{% include figure image_path="/assets/docs/architecture/nanosaur.architecture.drawio.png" alt="nanosaur top architecture overview" %}
+{% include figure image_path="/assets/images/about/architecture/nanosaur.architecture.drawio.png" alt="nanosaur top architecture overview" %}
 
 All perception is GPU accelerated to recognize and detect where nanosaur is moving and localize it in the world. This green block have different estimators for location, using the dead recognition from the cameras and motors (soon), mapping the environment and detection, object on the environment.
 
@@ -48,7 +48,7 @@ There are mainly three types architectures, different for the camera in use, whe
 
 If you are building a nanosaur with a monocular camera, such a raspberry Pi camera or a fisheye camera, the architecture and all **ROS2** node are like the image below.
 
-{% include figure image_path="/assets/docs/architecture/nanosaur-argus.architecture.drawio.png" alt="nanosaur architecture Argus camera" %}
+{% include figure image_path="/assets/images/about/architecture/nanosaur-argus.architecture.drawio.png" alt="nanosaur architecture Argus camera" %}
 
 * The **core** block is a set of package to control with path planners and low level controller the two motors of nanosaur. In this block there is also a joystick control and a board manager, with a twist_mux you are able to drive manually the robot with your joystick and in the same time enable the autonomous drive.
 
@@ -58,7 +58,7 @@ If you are building a nanosaur with a monocular camera, such a raspberry Pi came
 
 ## Realsense
 
-{% include figure image_path="/assets/docs/architecture/nanosaur-realsense.architecture.drawio.png" alt="nanosaur architecture realsense camera" %}
+{% include figure image_path="/assets/images/about/architecture/nanosaur-realsense.architecture.drawio.png" alt="nanosaur architecture realsense camera" %}
 
 * The **core** block is a set of package to control with path planners and low level controller the two motors of nanosaur. In this block there is also a joystick control and a board manager, with a twist_mux you are able to drive manually the robot with your joystick and in the same time enable the autonomous drive.
 
@@ -68,7 +68,7 @@ If you are building a nanosaur with a monocular camera, such a raspberry Pi came
 
 ## ZEDmini
 
-{% include figure image_path="/assets/docs/architecture/nanosaur-zed.architecture.drawio.png" alt="nanosaur architecture ZED mini camera" %}
+{% include figure image_path="/assets/images/about/architecture/nanosaur-zed.architecture.drawio.png" alt="nanosaur architecture ZED mini camera" %}
 
 * The **core** block is a set of package to control with path planners and low level controller the two motors of nanosaur. In this block there is also a joystick control and a board manager, with a twist_mux you are able to drive manually the robot with your joystick and in the same time enable the autonomous drive.
 
@@ -80,7 +80,7 @@ If you are building a nanosaur with a monocular camera, such a raspberry Pi came
 
 To build each docker container, nanosaur use a combination of different repositories, where are located different ROS2 packages:
 
-{% include figure image_path="/assets/docs/architecture/packages.drawio.png" alt="nanosaur package architecture" %}
+{% include figure image_path="/assets/images/about/architecture/packages.drawio.png" alt="nanosaur package architecture" %}
 
 
 Following the picture above, there are:
@@ -112,4 +112,4 @@ This new architecture will be released in the new nanosaur software **v2.1**
 
 **This picture can change!**
 
-{% include figure image_path="/assets/docs/architecture/nanosaur_robot_new.architecture.drawio.png" alt="nanosaur robot package overview" %}
+{% include figure image_path="/assets/images/about/architecture/nanosaur_robot_new.architecture.drawio.png" alt="nanosaur robot package overview" %}

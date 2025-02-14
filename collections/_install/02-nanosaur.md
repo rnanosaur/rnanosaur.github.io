@@ -32,18 +32,18 @@ There are two steps to do to have your robot on NVIDIA Isaac SIM:
 
 When is done, you can use Isaac SIM with your robot
 
-{% include figure image_path="/assets/docs/simulation/NVIDIA-IsaacSIM.png" alt="NVIDIA Isaac SIM" caption="NVIDIA Isaac SIM" %}
+{% include figure image_path="/assets/images/collections/simulation/NVIDIA-IsaacSIM.png" alt="NVIDIA Isaac SIM" caption="NVIDIA Isaac SIM" %}
 
 ### Setup NVIDIA Omniverse nucleus
 
 When nucleus is first installed, it will prompt you to create a user.
 **Remember** your username this is necessary for the [gz-omni connector](/tutorial/isaacsim-connector).
 
-{% include figure image_path="/assets/docs/simulation/nucleus_install_01.png" alt="Create new nucleus user" caption="Create new nucleus user" %}
+{% include figure image_path="/assets/images/collections/simulation/nucleus_install_01.png" alt="Create new nucleus user" caption="Create new nucleus user" %}
 
 Otherwise you can follow the image below to make your **nanosaur** user:
 
-{% include figure image_path="/assets/docs/simulation/nucleus_install_02.png" alt="Setting up nucleus user" caption="Setting up nucleus user" %}
+{% include figure image_path="/assets/images/collections/simulation/nucleus_install_02.png" alt="Setting up nucleus user" caption="Setting up nucleus user" %}
 
 * User: **nanosaur**
 * Password: *Chose your best password*
@@ -62,7 +62,7 @@ nanosaur on Gazebo is pretty simple, you need only to set up the script or follo
 
 {% capture code %}nanosaur simulation set{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
 
-{% include figure image_path="/assets/docs/simulation/set_simulator.png" alt="Set nanosaur simulator" caption="Set nanosaur simulator" %}
+{% include figure image_path="/assets/images/collections/simulation/set_simulator.png" alt="Set nanosaur simulator" caption="Set nanosaur simulator" %}
 
 After that you can run the simulator only with:
 

@@ -7,8 +7,8 @@ author_profile: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/components/nanosaur-all-parts.jpg
-  teaser: /assets/components/nanosaur-all-parts.jpg
+  overlay_image: /assets/images/buy/components/nanosaur-all-parts.jpg
+  teaser: /assets/images/buy/components/nanosaur-all-parts.jpg
   actions:
     - label: ":sparkling_heart: Sponsor"
       url: "https://github.com/sponsors/rbonghi"
@@ -29,32 +29,33 @@ Don't worry I can print for you! :smile:
 
 Options:
 
-1. [All parts](#all-parts)
-2. [All 3D parts](#3D-parts)
-3. [Tracks](#tracks)
-4. [Expansion board](#expansion-board)
-5. [Electronics and mech parts](#electronics-and-mech-parts)
+- [All Parts](#all-parts)
+- [3D parts](#3d-parts)
+- [Tracks](#tracks)
+- [Expansion board](#expansion-board)
+  - [Assembled](#assembled)
+- [Electronics and mech parts](#electronics-and-mech-parts)
 
 # All Parts
 
-{% include figure image_path="/assets/components/nanosaur-all-parts.jpg" alt="nanosaur All parts" %}
+{% include figure image_path="/assets/images/buy/components/nanosaur-all-parts.jpg" alt="nanosaur All parts" %}
 
 # 3D parts
 
-{% include figure image_path="/assets/components/nanosaur-PLA-parts.jpg" alt="nanosaur PLA parts" %}
+{% include figure image_path="/assets/images/buy/components/nanosaur-PLA-parts.jpg" alt="nanosaur PLA parts" %}
 
 # Tracks
 
-{% include figure image_path="/assets/components/nanosaur-TPU-tracks.jpg" alt="nanosaur TPU tracks" %}
+{% include figure image_path="/assets/images/buy/components/nanosaur-TPU-tracks.jpg" alt="nanosaur TPU tracks" %}
 
 # Expansion board
 
-{% include figure image_path="/assets/docs/expansion-board/nanosaur-exp-board-components.jpg" alt="nanosaur Expansion board" %}
+{% include figure image_path="/assets/images/collections/make/expansion-board/nanosaur-exp-board-components.jpg" alt="nanosaur Expansion board" %}
 
 ## Assembled
 
-{% include figure image_path="/assets/docs/expansion-board/nanosaur-expansion-board.jpg" alt="nanosaur Expansion board assembled" %}
+{% include figure image_path="/assets/images/collections/make/expansion-board/nanosaur-expansion-board.jpg" alt="nanosaur Expansion board assembled" %}
 
 # Electronics and mech parts
 
-{% include figure image_path="/assets/components/nanosaur-mech-parts.jpg" alt="nanosaur Electronics and mechanical parts" %}
+{% include figure image_path="/assets/images/buy/components/nanosaur-mech-parts.jpg" alt="nanosaur Electronics and mechanical parts" %}

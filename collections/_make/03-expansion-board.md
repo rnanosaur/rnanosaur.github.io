@@ -5,84 +5,84 @@ collection: make
 redirect_from:
   - /expansion-board
 header:
-  teaser: /assets/docs/expansion-board/nanosaur-exp-board-3dtop.png
+  teaser: /assets/images/collections/make/expansion-board/nanosaur-exp-board-3dtop.png
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
 pcb_expansion_board_3d:
-  - url: /assets/docs/expansion-board/nanosaur-exp-board-3dtop.png
-    image_path: /assets/docs/expansion-board/nanosaur-exp-board-3dtop.png
+  - url: /assets/images/collections/make/expansion-board/nanosaur-exp-board-3dtop.png
+    image_path: /assets/images/collections/make/expansion-board/nanosaur-exp-board-3dtop.png
     alt: "Nanosaur Expansion board PCB top"
     title: "Nanosaur Expansion board PCB top"
-  - url: /assets/docs/expansion-board/nanosaur-exp-board-3dbottom.png
-    image_path: /assets/docs/expansion-board/nanosaur-exp-board-3dbottom.png
+  - url: /assets/images/collections/make/expansion-board/nanosaur-exp-board-3dbottom.png
+    image_path: /assets/images/collections/make/expansion-board/nanosaur-exp-board-3dbottom.png
     alt: "Nanosaur Expansion board PCB bottom"
     title: "Nanosaur Expansion board PCB bottom"
 pcb_expansion_board:
-  - url: /assets/docs/expansion-board/nanosaur-exp-board-Board_top.svg
-    image_path: /assets/docs/expansion-board/nanosaur-exp-board-Board_top.svg
+  - url: /assets/images/collections/make/expansion-board/nanosaur-exp-board-Board_top.svg
+    image_path: /assets/images/collections/make/expansion-board/nanosaur-exp-board-Board_top.svg
     alt: "Nanosaur Expansion board PCB top"
     title: "Nanosaur Expansion board PCB top"
-  - url: /assets/docs/expansion-board/nanosaur-exp-board-Board_bottom.svg
-    image_path: /assets/docs/expansion-board/nanosaur-exp-board-Board_bottom.svg
+  - url: /assets/images/collections/make/expansion-board/nanosaur-exp-board-Board_bottom.svg
+    image_path: /assets/images/collections/make/expansion-board/nanosaur-exp-board-Board_bottom.svg
     alt: "Nanosaur Expansion board PCB bottom"
     title: "Nanosaur Expansion board PCB bottom"
 pcb_expansion_steps:
-  - url: /assets/docs/expansion-board/nanosaur-exp-board-01-resistors.png
-    image_path: /assets/docs/expansion-board/nanosaur-exp-board-01-resistors.png
+  - url: /assets/images/collections/make/expansion-board/nanosaur-exp-board-01-resistors.png
+    image_path: /assets/images/collections/make/expansion-board/nanosaur-exp-board-01-resistors.png
     alt: "Nanosaur Expansion board assembly resistors"
     title: "Nanosaur Expansion board assembly resistors"
-  - url: /assets/docs/expansion-board/nanosaur-exp-board-02-resistors.png
-    image_path: /assets/docs/expansion-board/nanosaur-exp-board-02-resistors.png
+  - url: /assets/images/collections/make/expansion-board/nanosaur-exp-board-02-resistors.png
+    image_path: /assets/images/collections/make/expansion-board/nanosaur-exp-board-02-resistors.png
     alt: "Nanosaur Expansion board assembly resistors"
     title: "Nanosaur Expansion board assembly resistors"
-  - url: /assets/docs/expansion-board/nanosaur-exp-board-03-switch.png
-    image_path: /assets/docs/expansion-board/nanosaur-exp-board-03-switch.png
+  - url: /assets/images/collections/make/expansion-board/nanosaur-exp-board-03-switch.png
+    image_path: /assets/images/collections/make/expansion-board/nanosaur-exp-board-03-switch.png
     alt: "Nanosaur Expansion board assembly switch"
     title: "Nanosaur Expansion board assembly switch"
-  - url: /assets/docs/expansion-board/nanosaur-exp-board-04-connector.png
-    image_path: /assets/docs/expansion-board/nanosaur-exp-board-04-connector.png
+  - url: /assets/images/collections/make/expansion-board/nanosaur-exp-board-04-connector.png
+    image_path: /assets/images/collections/make/expansion-board/nanosaur-exp-board-04-connector.png
     alt: "Nanosaur Expansion board assembly connector"
     title: "Nanosaur Expansion board assembly connector"
-  - url: /assets/docs/expansion-board/nanosaur-exp-board-05-assembled.png
-    image_path: /assets/docs/expansion-board/nanosaur-exp-board-05-assembled.png
+  - url: /assets/images/collections/make/expansion-board/nanosaur-exp-board-05-assembled.png
+    image_path: /assets/images/collections/make/expansion-board/nanosaur-exp-board-05-assembled.png
     alt: "Nanosaur Expansion board assembled"
     title: "Nanosaur Expansion board assembled"
-  - url: /assets/docs/expansion-board/nanosaur-exp-board-06-assembled.png
-    image_path: /assets/docs/expansion-board/nanosaur-exp-board-06-assembled.png
+  - url: /assets/images/collections/make/expansion-board/nanosaur-exp-board-06-assembled.png
+    image_path: /assets/images/collections/make/expansion-board/nanosaur-exp-board-06-assembled.png
     alt: "Nanosaur Expansion board assembled"
     title: "Nanosaur Expansion board assembled"
 pcb_expansion_wiring:
-  - url: /assets/docs/expansion-board/wire-motor-control-01.png
-    image_path: /assets/docs/expansion-board/wire-motor-control-01.png
+  - url: /assets/images/collections/make/expansion-board/wire-motor-control-01.png
+    image_path: /assets/images/collections/make/expansion-board/wire-motor-control-01.png
     alt: "Wire motor control"
     title: "Wire motor control"
-  - url: /assets/docs/expansion-board/wire-display.jpg
-    image_path: /assets/docs/expansion-board/wire-display.jpg
+  - url: /assets/images/collections/make/expansion-board/wire-display.jpg
+    image_path: /assets/images/collections/make/expansion-board/wire-display.jpg
     alt: "Wire display"
     title: "Wire display"
 wiring:
-  - url: /assets/docs/expansion-board/nanosaur-expansion-board.jpg
-    image_path: /assets/docs/expansion-board/nanosaur-expansion-board.jpg
+  - url: /assets/images/collections/make/expansion-board/nanosaur-expansion-board.jpg
+    image_path: /assets/images/collections/make/expansion-board/nanosaur-expansion-board.jpg
     alt: "Nanosaur Expansion board"
     title: "Nanosaur Expansion board"
 usb-connector:
-  - url: /assets/docs/expansion-board/usb-connector-parts.jpg
-    image_path: /assets/docs/expansion-board/usb-connector-parts.jpg
+  - url: /assets/images/collections/make/expansion-board/usb-connector-parts.jpg
+    image_path: /assets/images/collections/make/expansion-board/usb-connector-parts.jpg
     alt: "USB connector parts"
     title: "USB connector parts"
-  - url: /assets/docs/expansion-board/usb-soldering-wires.jpg
-    image_path: /assets/docs/expansion-board/usb-soldering-wires.jpg
+  - url: /assets/images/collections/make/expansion-board/usb-soldering-wires.jpg
+    image_path: /assets/images/collections/make/expansion-board/usb-soldering-wires.jpg
     alt: "USB soldering wires"
     title: "USB soldering wires"
-  - url: /assets/docs/expansion-board/usb-cover-B.jpg
-    image_path: /assets/docs/expansion-board/usb-cover-B.jpg
+  - url: /assets/images/collections/make/expansion-board/usb-cover-B.jpg
+    image_path: /assets/images/collections/make/expansion-board/usb-cover-B.jpg
     alt: "USB cover"
     title: "USB cover"
 usb-connector-complete:
-  - url: /assets/docs/expansion-board/usb-connector.jpg
-    image_path: /assets/docs/expansion-board/usb-connector.jpg
+  - url: /assets/images/collections/make/expansion-board/usb-connector.jpg
+    image_path: /assets/images/collections/make/expansion-board/usb-connector.jpg
     alt: "USB connector assembled"
     title: "USB connector assembled"
 ---
@@ -131,7 +131,7 @@ The list of components that you need to have are in this table below
 
 If you BoM have all components, like the picture below you are ready to assembly!
 
-{% include figure image_path="/assets/docs/expansion-board/nanosaur-exp-board-components.jpg" alt="Nanosaur expansion board components" caption="Nanosaur expansion board components" %}
+{% include figure image_path="/assets/images/collections/make/expansion-board/nanosaur-exp-board-components.jpg" alt="Nanosaur expansion board components" caption="Nanosaur expansion board components" %}
 
 ## Schematic
 
@@ -139,7 +139,7 @@ This expansion board is a simple connector for oleds and motor controller and wo
 
 More detail are available on nanosaur expansion board schematic.
 
-{% include figure image_path="/assets/docs/expansion-board/Expansion board-Schematic.svg" alt="Nanosaur schematic expansion board" caption="nanosaur schematic expansion board" %}
+{% include figure image_path="/assets/images/collections/make/expansion-board/Expansion board-Schematic.svg" alt="Nanosaur schematic expansion board" caption="nanosaur schematic expansion board" %}
 
 **:floppy_disk: Download** the nanosaur expansion board [**nanosaur-schematic.pdf**](https://github.com/rnanosaur/nanosaur-exp-board/releases/latest/download/nanosaur-schematic.pdf)
 {: .notice--success}
@@ -168,7 +168,7 @@ To wire bring your 30cm flat ribbon cable 20P Rainbow IDC wire 1.27mm and split 
 | 2        | motor         | 90mm    | red & brown     |
 | 1        | USB connector | 120mm   | black & red     |
 
-{% include figure image_path="/assets/docs/expansion-board/nanosaur-exp-board-wire-01.png" alt="wire color schematic" caption="wire color schematic" %}
+{% include figure image_path="/assets/images/collections/make/expansion-board/nanosaur-exp-board-wire-01.png" alt="wire color schematic" caption="wire color schematic" %}
 
 Now pay attention to wire in the right order the motor control cable **(Conn_motors)** where:
 
@@ -202,7 +202,7 @@ To wire the expansion board follow the picture below, where:
 | J4   | Conn_i2c_oled **left**  | **Violet** wire on squared hole (pin 1) |
 | J5   | Conn_motors             | **Brown** wire on squared hole (pin 1) |
 
-{% include figure image_path="/assets/docs/expansion-board/nanosaur-exp-board-wires-02.jpg" alt="Soldering wires on nanosaur expansion board" caption="Soldering wires on nanosaur expansion board" %}
+{% include figure image_path="/assets/images/collections/make/expansion-board/nanosaur-exp-board-wires-02.jpg" alt="Soldering wires on nanosaur expansion board" caption="Soldering wires on nanosaur expansion board" %}
 
 When the soldering is done you will obtain nanosaur expansion board ready to be assembled on Nanosaur
 
@@ -214,7 +214,7 @@ Last plug, last wiring! It's almost done.
 
 Bring your **120mm wires red and black** and solder to the USB connector following the USB pinout below
 
-{% include figure image_path="/assets/docs/expansion-board/USB.jpg" alt="USB pinout" caption="USB pinout" %}
+{% include figure image_path="/assets/images/collections/make/expansion-board/USB.jpg" alt="USB pinout" caption="USB pinout" %}
 
 Now wire the USB connector follow this table
 

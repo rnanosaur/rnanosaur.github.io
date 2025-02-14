@@ -22,4 +22,4 @@ The maximum size allowed for nanosaur is:
 
 You can use this image such a reference.
 
-{% include figure image_path="/assets/docs/power-bank/power-bank-size.png" alt="nanosaur power bank size" caption="nanosaur power bank size" %}
+{% include figure image_path="/assets/images/collections/make/power-bank/power-bank-size.png" alt="nanosaur power bank size" caption="nanosaur power bank size" %}

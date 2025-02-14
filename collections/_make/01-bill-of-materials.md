@@ -47,10 +47,10 @@ List of camera options available
 
 | Cover                | Bill of Material |
 |----------------------|------------------|
-| ![Waveshare IMX219-160 Camera]({{ '/assets/docs/assembly/cover-fe/nanosaur-cover-fe-200.png' | relative_url }}) | [Waveshare IMX219-160 Camera](/optional/cover#wide-angle-camera-fish-eye) |
-| ![Raspberry Camera v2]({{ '/assets/docs/assembly/cover-cam/nanosaur-cover-200.png' | relative_url }}) | [Raspberry Camera v2](/optional/cover#camera) |
-| ![Stereolabs ZED mini]({{ '/assets/docs/assembly/cover-zedmini/nanosaur-cover-zedmini-200.png' | relative_url }}) | [Stereolabs ZED mini](/optional/cover#zed-mini) |
-| ![Intel Realsense d435i]({{ '/assets/docs/assembly/cover-rs/nanosaur-cover-realsense-200.png' | relative_url }}) | [Intel Realsense d435i](/optional/cover#realsense) |
+| ![Waveshare IMX219-160 Camera]({{ '/assets/images/collections/make/assembly/cover-fe/nanosaur-cover-fe-200.png' | relative_url }}) | [Waveshare IMX219-160 Camera](/optional/cover#wide-angle-camera-fish-eye) |
+| ![Raspberry Camera v2]({{ '/assets/images/collections/make/assembly/cover-cam/nanosaur-cover-200.png' | relative_url }}) | [Raspberry Camera v2](/optional/cover#camera) |
+| ![Stereolabs ZED mini]({{ '/assets/images/collections/make/assembly/cover-zedmini/nanosaur-cover-zedmini-200.png' | relative_url }}) | [Stereolabs ZED mini](/optional/cover#zed-mini) |
+| ![Intel Realsense d435i]({{ '/assets/images/collections/make/assembly/cover-rs/nanosaur-cover-realsense-200.png' | relative_url }}) | [Intel Realsense d435i](/optional/cover#realsense) |
 
 ## Optionals
 
@@ -80,7 +80,7 @@ For more details follow [3D print](/3d-print) page to setup and print all 3D pri
 
 First step, you need the **nanosaur-expansion-board** PCB
 
-{% include figure image_path="/assets/docs/expansion-board/nanosaur-exp-board-Board_top.svg" alt="Nanosaur Expansion board PCB top" caption="Nanosaur Expansion board PCB top" %}
+{% include figure image_path="/assets/images/collections/make/expansion-board/nanosaur-exp-board-Board_top.svg" alt="Nanosaur Expansion board PCB top" caption="Nanosaur Expansion board PCB top" %}
 
 To obtain one and support this project follow these steps:
 

@@ -9,69 +9,69 @@ toc_sticky: true
 nav-cover-print:
   - name: "Cura"
     image: 
-      - image_path: /assets/docs/3d-print-cura/cover.png
+      - image_path: /assets/images/collections/make/3d-print-cura/cover.png
     caption: "cover.stl slicer"
     excerpt: >
       I suggest orienting the STL following this picture and setup with:
         * **Supports**: Disable
   - name: "PrusaSlicer/SuperSlicer"
     image: 
-      - image_path: /assets/docs/3d-print-slicer/cover.png
+      - image_path: /assets/images/collections/make/3d-print-slicer/cover.png
     caption: "cover.stl slicer"
     excerpt: >
       I suggest orienting the STL following this picture and setup with:
         * **Supports**: Disable
 cover:
-  - url: /assets/docs/assembly/cover-cam/cover-01-magnets.png
-    image_path: /assets/docs/assembly/cover-cam/cover-01-magnets.png
+  - url: /assets/images/collections/make/assembly/cover-cam/cover-01-magnets.png
+    image_path: /assets/images/collections/make/assembly/cover-cam/cover-01-magnets.png
     alt: "Cover assembly magnets"
     title: "Cover Assembly magnets"
-  - url: /assets/docs/assembly/cover-cam/cover-02-display.png
-    image_path: /assets/docs/assembly/cover-cam/cover-02-display.png
+  - url: /assets/images/collections/make/assembly/cover-cam/cover-02-display.png
+    image_path: /assets/images/collections/make/assembly/cover-cam/cover-02-display.png
     alt: "Cover assembly display"
     title: "Cover Assembly display"
-  - url: /assets/docs/assembly/cover-cam/cover-03-cam.png
-    image_path: /assets/docs/assembly/cover-cam/cover-03-cam.png
+  - url: /assets/images/collections/make/assembly/cover-cam/cover-03-cam.png
+    image_path: /assets/images/collections/make/assembly/cover-cam/cover-03-cam.png
     alt: "Cover assembly camera"
     title: "Assembly camera"
 cover-complete:
-  - url: /assets/docs/assembly/cover-cam/cover-04-assembled.jpg
-    image_path: /assets/docs/assembly/cover-cam/cover-04-assembled.jpg
+  - url: /assets/images/collections/make/assembly/cover-cam/cover-04-assembled.jpg
+    image_path: /assets/images/collections/make/assembly/cover-cam/cover-04-assembled.jpg
     alt: "Nanosaur cover assembled"
     title: "Nanosaur cover assembled"
 nav-cover-fe-print:
   - name: "Cura"
     image: 
-      - image_path: /assets/docs/3d-print-cura/coverFishEye.png
+      - image_path: /assets/images/collections/make/3d-print-cura/coverFishEye.png
     caption: "cover-fe.stl slicer"
     excerpt: >
       I suggest orienting the STL following this picture and setup with:
         * **Supports**: Disable
   - name: "PrusaSlicer/SuperSlicer"
     image: 
-      - image_path: /assets/docs/3d-print-slicer/coverFishEye.png
+      - image_path: /assets/images/collections/make/3d-print-slicer/coverFishEye.png
     caption: "cover-fe.stl slicer"
     excerpt: >
       I suggest orienting the STL following this picture and setup with:
         * **Supports**: Disable
 cover-fe:
-  - url: /assets/docs/assembly/cover-fe/01-coverFishEye.png
-    image_path: /assets/docs/assembly/cover-fe/01-coverFishEye.png
+  - url: /assets/images/collections/make/assembly/cover-fe/01-coverFishEye.png
+    image_path: /assets/images/collections/make/assembly/cover-fe/01-coverFishEye.png
     alt: "Cover assembly magnets"
     title: "Cover Assembly magnets"
-  - url: /assets/docs/assembly/cover-fe/02-coverFishEye.png
-    image_path: /assets/docs/assembly/cover-fe/02-coverFishEye.png
+  - url: /assets/images/collections/make/assembly/cover-fe/02-coverFishEye.png
+    image_path: /assets/images/collections/make/assembly/cover-fe/02-coverFishEye.png
     alt: "Cover assembly display"
     title: "Cover Assembly display"
-  - url: /assets/docs/assembly/cover-fe/03-coverFishEye.png
-    image_path: /assets/docs/assembly/cover-fe/03-coverFishEye.png
+  - url: /assets/images/collections/make/assembly/cover-fe/03-coverFishEye.png
+    image_path: /assets/images/collections/make/assembly/cover-fe/03-coverFishEye.png
     alt: "Cover assembly camera"
     title: "Assembly camera"
 nav-cover-zedmini-print:
   - name: "Cura"
     image: 
-      - image_path: /assets/docs/3d-print-cura/coverZEDmini.png
-      - image_path: /assets/docs/3d-print-cura/coverZEDmini-detail.png
+      - image_path: /assets/images/collections/make/3d-print-cura/coverZEDmini.png
+      - image_path: /assets/images/collections/make/3d-print-cura/coverZEDmini-detail.png
     caption: "cover-zedmini.stl slicer"
     excerpt: >
       I suggest orienting the STL following this picture and setup with:
@@ -80,8 +80,8 @@ nav-cover-zedmini-print:
         * **Support placement**: Touching buildplate
   - name: "PrusaSlicer/SuperSlicer"
     image: 
-      - image_path: /assets/docs/3d-print-slicer/coverZEDmini.png
-      - image_path: /assets/docs/3d-print-slicer/coverZEDmini-detail.png
+      - image_path: /assets/images/collections/make/3d-print-slicer/coverZEDmini.png
+      - image_path: /assets/images/collections/make/3d-print-slicer/coverZEDmini-detail.png
     caption: "cover-zedmini.stl slicer"
     excerpt: >
       I suggest orienting the STL following this picture and setup with:
@@ -89,23 +89,23 @@ nav-cover-zedmini-print:
         * **Support on build plate only**: Enable
         * **Don't support brides**: Disable
 cover-zedmini:
-  - url: /assets/docs/assembly/cover-zedmini/01-cover_ZEDmini.png
-    image_path: /assets/docs/assembly/cover-zedmini/01-cover_ZEDmini.png
+  - url: /assets/images/collections/make/assembly/cover-zedmini/01-cover_ZEDmini.png
+    image_path: /assets/images/collections/make/assembly/cover-zedmini/01-cover_ZEDmini.png
     alt: "Cover assembly magnets"
     title: "Cover Assembly magnets"
-  - url: /assets/docs/assembly/cover-zedmini/02-cover_ZEDmini.png
-    image_path: /assets/docs/assembly/cover-zedmini/02-cover_ZEDmini.png
+  - url: /assets/images/collections/make/assembly/cover-zedmini/02-cover_ZEDmini.png
+    image_path: /assets/images/collections/make/assembly/cover-zedmini/02-cover_ZEDmini.png
     alt: "Cover assembly display"
     title: "Cover Assembly display"
-  - url: /assets/docs/assembly/cover-zedmini/03-cover_ZEDmini.png
-    image_path: /assets/docs/assembly/cover-zedmini/03-cover_ZEDmini.png
+  - url: /assets/images/collections/make/assembly/cover-zedmini/03-cover_ZEDmini.png
+    image_path: /assets/images/collections/make/assembly/cover-zedmini/03-cover_ZEDmini.png
     alt: "Cover assembly ZEDmini"
     title: "Assembly ZEDmini"
 nav-cover-rs-print:
   - name: "Cura"
     image: 
-      - image_path: /assets/docs/3d-print-cura/coverRealSense.png
-      - image_path: /assets/docs/3d-print-cura/coverRealSense-detail.png
+      - image_path: /assets/images/collections/make/3d-print-cura/coverRealSense.png
+      - image_path: /assets/images/collections/make/3d-print-cura/coverRealSense-detail.png
     caption: "cover-rs.stl slicer"
     excerpt: >
       I suggest orienting the STL following this picture and setup with:
@@ -114,8 +114,8 @@ nav-cover-rs-print:
         * **Support placement**: Touching buildplate
   - name: "PrusaSlicer/SuperSlicer"
     image: 
-      - image_path: /assets/docs/3d-print-slicer/coverRealSense.png
-      - image_path: /assets/docs/3d-print-slicer/coverRealSense-detail.png
+      - image_path: /assets/images/collections/make/3d-print-slicer/coverRealSense.png
+      - image_path: /assets/images/collections/make/3d-print-slicer/coverRealSense-detail.png
     caption: "cover-zedmini.stl slicer"
     excerpt: >
       I suggest orienting the STL following this picture and setup with:
@@ -123,16 +123,16 @@ nav-cover-rs-print:
         * **Support on build plate only**: Enable
         * **Don't support brides**: Disable
 cover-rs:
-  - url: /assets/docs/assembly/cover-rs/01-cover_RealSense.png
-    image_path: /assets/docs/assembly/cover-rs/01-cover_RealSense.png
+  - url: /assets/images/collections/make/assembly/cover-rs/01-cover_RealSense.png
+    image_path: /assets/images/collections/make/assembly/cover-rs/01-cover_RealSense.png
     alt: "Cover assembly magnets"
     title: "Cover Assembly magnets"
-  - url: /assets/docs/assembly/cover-rs/02-cover_RealSense.png
-    image_path: /assets/docs/assembly/cover-rs/02-cover_RealSense.png
+  - url: /assets/images/collections/make/assembly/cover-rs/02-cover_RealSense.png
+    image_path: /assets/images/collections/make/assembly/cover-rs/02-cover_RealSense.png
     alt: "Cover assembly display"
     title: "Cover Assembly display"
-  - url: /assets/docs/assembly/cover-rs/03-cover_RealSense.png
-    image_path: /assets/docs/assembly/cover-rs/03-cover_RealSense.png
+  - url: /assets/images/collections/make/assembly/cover-rs/03-cover_RealSense.png
+    image_path: /assets/images/collections/make/assembly/cover-rs/03-cover_RealSense.png
     alt: "Cover assembly Realsense D435i"
     title: "Assembly Realsense D435i"
 ---
