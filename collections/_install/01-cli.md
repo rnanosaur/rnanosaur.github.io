@@ -1,5 +1,5 @@
 ---
-title: "cli"
+title: "Command Line Interface (CLI)"
 excerpt: "Install the nanosaur command line interface"
 permalink: install/cli/
 classes: wide

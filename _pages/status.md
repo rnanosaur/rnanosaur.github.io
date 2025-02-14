@@ -21,7 +21,7 @@ sidebar:
 ---
 
 On this page are collected all Continuous Integration badges and Docker image size badges.
-
+<!-- CI START -->
 # Continuous Integration
 
 **Latest** = ROS2 **_foxy_** at latest tag released
@@ -42,3 +42,4 @@ On this page are collected all Continuous Integration badges and Docker image si
 
 
 **Latest** = ROS2 **_foxy_** at latest tag released
+<!-- CI END -->

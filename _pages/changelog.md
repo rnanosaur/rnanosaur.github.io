@@ -20,6 +20,7 @@ sidebar:
   - nav: "about"
 ---
 
+<!-- CHANGELOG START -->
 # Changelog
 
 ## 2.0 (8th June 2022)
@@ -64,3 +65,4 @@ Improve nanosaur layout for powerbanks with different size
 ## 1.0 (17th Feb. 2021)
 
 First release of nanosaur software based on ROS2 Foxy
+<!-- CHANGELOG END -->
