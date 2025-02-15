@@ -172,6 +172,8 @@ defaults:
       author_profile: false
       share: true
       read_time: true
+      sidebar:
+        nav: "tutorial"
   # _simulation
   - scope:
       path: ""
@@ -181,15 +183,19 @@ defaults:
       author_profile: false
       share: true
       read_time: true
+      sidebar:
+        - nav: "simulation"
   # _courses
   - scope:
       path: ""
-      type: course
+      type: courses
     values:
       layout: single
       author_profile: false
       share: true
       read_time: true
+      sidebar:
+        nav: "courses"
   # _community
   - scope:
       path: ""

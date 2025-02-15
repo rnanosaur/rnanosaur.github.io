@@ -3,14 +3,12 @@ title: Extra Courses
 excerpt: "Posts and specific courses presented along the time on nanosaur"
 layout: category
 permalink: /courses/extra/
-collection: course
+collection: courses
 hidden: true
 entries_layout: grid
 classes: wide
 taxonomy: Course
 author_profile: false
-sidebar:
-  - nav: "course"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

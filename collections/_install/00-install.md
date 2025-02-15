@@ -7,8 +7,6 @@ collection: install
 entries_layout: grid
 hidden: true
 classes: wide
-sidebar:
-  - nav: "install"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
