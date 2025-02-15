@@ -1,6 +1,6 @@
 ---
 title: "Command Line Interface (CLI)"
-excerpt: "Install the nanosaur command line interface"
+excerpt: "Install the nanosaur command line interface. With this tool we will be able to install all software on your computer or Jetson and configure the robot."
 permalink: install/cli/
 toc: true
 toc_label: "Table of Contents"
