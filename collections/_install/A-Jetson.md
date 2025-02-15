@@ -28,6 +28,7 @@ Go on [NVIDIA Jetpack](https://developer.nvidia.com/embedded/Jetpack) webpage an
 
 {% capture notice-text %}
 **:bulb: Hint** For this, we'll assume you've set up your Jetson Nano using the online Getting Started guide.
+
 * [Getting Started With Jetson Nano Developer Kit](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit)
 * [Getting Started with Jetson Nano 2GB Developer Kit](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-2gb-devkit)
 {% endcapture %}
@@ -42,10 +43,10 @@ Go on [NVIDIA Jetpack](https://developer.nvidia.com/embedded/Jetpack) webpage an
 
 Remember to configure your NVIDIA Jetson with these parameters:
 
-- Your name: *Chose your best user name*
-- Your computer's name: *nanosaur (suggested)*
-- Pick a username: *Usually the same of your name*
-- Password: *Chose your best password*
+* Your name: *Chose your best user name*
+* Your computer's name: *nanosaur (suggested)*
+* Pick a username: *Usually the same of your name*
+* Password: *Chose your best password*
 
 Set: **Log in Automatically**
 
@@ -59,16 +60,13 @@ If you have not already connected your Jetson Nano to your Wi-Fi network, press 
 
 [Wi-Fi configuration](/install/wifi){: .align-center .btn .btn--info .btn--large}
 
-# Install and run nanosaur
+# Update and clean your Jetson
 
-First step connect to your NVIDIA Jetson, **update & upgrade** the distribution and install **curl**
+First step connect to your NVIDIA Jetson and **update & upgrade** with the commands below:
 
-{% capture code %}sudo apt update && sudo apt -y full-upgrade && sudo apt -y autoremove && sudo apt -y install curl{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
-
-When your machine will be up to date, we can run the Nanosaur installation script.
-
-:clipboard: Copy and paste on the NVIDIA Jetson terminal the following line
-
-{% capture code %}curl -L https://github.com/rnanosaur/nanosaur/releases/latest/download/nanosaur -o $HOME/nanosaur && chmod +x $HOME/nanosaur && $HOME/nanosaur install{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
-
-Follow the instructions and reboot your board!
+{% capture code %}
+sudo apt update
+sudo apt -y full-upgrade
+sudo apt -y autoremove
+{% endcapture %}
+{% include code.html code=code lang="sh" copyable=true %}

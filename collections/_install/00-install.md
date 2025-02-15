@@ -4,7 +4,6 @@ excerpt: "Let's start to install all nanosaur software"
 layout: collection
 permalink: /install/
 collection: install
-entries_layout: grid
 hidden: true
 classes: wide
 header:
@@ -20,3 +19,5 @@ header:
     - label: "🤖 Discord"
       url: "https://discord.gg/NSrC52P5mw"
 ---
+
+In this section, we will install the nanosaur-cli the main software to control and manage all nanosaur software.
