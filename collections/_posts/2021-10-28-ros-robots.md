@@ -5,8 +5,8 @@ link: https://robots.ros.org/nanosaur/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/posts/achievements/ros-robots.jpg
-  teaser: /assets/posts/achievements/ros-robots.jpg
+  overlay_image: /assets/images/posts/achievements/ros-robots.jpg
+  teaser: /assets/images/posts/achievements/ros-robots.jpg
 categories:
   - Press
 tags:
@@ -15,4 +15,4 @@ tags:
 
 nanosaur now is part of the official robot list in [robots.ros.org](https://robots.ros.org/)
 
-{% include figure image_path="/assets/posts/achievements/ros-robots.jpg" alt="nanosaur in ROS robots" caption="nanosaur in ROS robots" %}
+{% include figure image_path="/assets/images/posts/achievements/ros-robots.jpg" alt="nanosaur in ROS robots" caption="nanosaur in ROS robots" %}

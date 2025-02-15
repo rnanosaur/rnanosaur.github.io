@@ -52,7 +52,7 @@ Below technical information about nanosaur
 
 nanosaur is Best ROS robot 2022 awarded from the ROS developers community
 
-{% include figure image_path="/assets/posts/achievements/nanosaur-winner-2022.jpg" alt="nanosaur is the Best ROS robot 2022" caption="nanosaur is the Best ROS robot 2022" %}
+{% include figure image_path="/assets/images/posts/achievements/nanosaur-winner-2022.jpg" alt="nanosaur is the Best ROS robot 2022" caption="nanosaur is the Best ROS robot 2022" %}
 
 # License
 

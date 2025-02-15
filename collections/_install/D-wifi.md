@@ -7,7 +7,7 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
 header:
-  teaser: /assets/tutorial/wifi/desktop_selecting_ssid.png
+  teaser: /assets/images/collections/install/desktop_selecting_ssid.png
 ---
 
 There are two ways to connect nanosaur on your Wi-Fi network using [Monitor-attached Mode](#monitor-attached-mode) or [USB device Mode](#usb-device-mode)
@@ -35,7 +35,7 @@ Now follow these steps:
 2. Open the network menu on the top right (like the picture below)
 3. Setup your Wi-Fi
 
-{% include figure image_path="/assets/tutorial/wifi/desktop_selecting_ssid.png" alt="Wi-Fi menu on Jetson Desktop" caption="Wi-Fi menu on Jetson Desktop" %}
+{% include figure image_path="/assets/images/collections/install/desktop_selecting_ssid.png" alt="Wi-Fi menu on Jetson Desktop" caption="Wi-Fi menu on Jetson Desktop" %}
 
 # USB device Mode
 

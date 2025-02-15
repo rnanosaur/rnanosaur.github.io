@@ -8,7 +8,7 @@ header:
   video:
     id: V5qOOWkkpww
     provider: youtube
-  teaser: /assets/posts/ROS-developer-day2022.jpg
+  teaser: /assets/images/posts/ROS-developer-day2022.jpg
 tags:
   - The Construct
   - Ricardo Tellez
@@ -21,4 +21,4 @@ tags:
 Preview:
 {% include video id="14uZDJSQCU8RlmveQID5iP__PuxQD3aqU" provider="google-drive" %}
 
-{% include figure image_path="/assets/posts/ROS-developer-day2022.jpg" alt="ROS developer Day 2022" caption="ROS developer Day 2022" %}
+{% include figure image_path="/assets/images/posts/ROS-developer-day2022.jpg" alt="ROS developer Day 2022" caption="ROS developer Day 2022" %}

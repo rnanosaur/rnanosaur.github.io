@@ -5,8 +5,8 @@ link: https://info.nvidia.com/isaac-ros-and-nvidia-jetson-wbn.html
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/posts/nanosaur-localization.png
-  teaser: /assets/posts/nanosaur-isaac-ros.png
+  overlay_image: /assets/images/posts/nanosaur-localization.png
+  teaser: /assets/images/posts/nanosaur-isaac-ros.png
 categories:
   - Course
 tags:

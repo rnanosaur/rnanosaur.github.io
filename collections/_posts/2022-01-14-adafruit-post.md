@@ -5,12 +5,12 @@ link: https://blog.adafruit.com/2022/01/14/3d-printable-dinosaur-robot-raspberry
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/posts/achievements/adafruit-blog.png
-  teaser: /assets/posts/achievements/adafruit-blog.png
+  overlay_image: /assets/images/posts/achievements/adafruit-blog.png
+  teaser: /assets/images/posts/achievements/adafruit-blog.png
 categories:
   - Press
 tags:
   - Adafruit
 ---
 
-{% include figure image_path="/assets/posts/achievements/adafruit-blog.png" alt="nanosaur on adafruit blog" caption="nanosaur on adafruit blog" %}
+{% include figure image_path="/assets/images/posts/achievements/adafruit-blog.png" alt="nanosaur on adafruit blog" caption="nanosaur on adafruit blog" %}

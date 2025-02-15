@@ -49,7 +49,7 @@ feature_row:
     btn_label: "💯 Tutorials"
     btn_class: "btn--success"
 award:
-  - image_path: /assets/posts/achievements/nanosaur-winner-2022.jpg
+  - image_path: /assets/images/posts/achievements/nanosaur-winner-2022.jpg
     alt: "nanosaur Best ROS Robot 2022"
     title: "🏆 Best ROS Robot 2022"
     excerpt: "nanosaur is the winner of the [**Best ROS Robot 2022**](https://www.theconstructsim.com/ros-awards-2022/) Awarded from the ROS Developers Community"

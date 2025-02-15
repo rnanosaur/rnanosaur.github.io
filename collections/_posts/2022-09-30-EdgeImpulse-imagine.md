@@ -5,8 +5,8 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/posts/Nanosaur-EI-Social.png
-  teaser: /assets/posts/Nanosaur-EI-Social.png
+  overlay_image: /assets/images/posts/Nanosaur-EI-Social.png
+  teaser: /assets/images/posts/Nanosaur-EI-Social.png
   actions:
     - label: "Edge Impulse - Imagine"
       url: "https://edgeimpulse.com/imagine"

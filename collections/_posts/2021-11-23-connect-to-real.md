@@ -10,8 +10,8 @@ tags:
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/tutorial/TheConstructSim/LiveClass_133_Simulation-to-real.jpg
-  teaser: /assets/tutorial/TheConstructSim/LiveClass_133_Simulation-to-real.jpg
+  overlay_image: /assets/images/posts/TheConstructSim/LiveClass_133_Simulation-to-real.jpg
+  teaser: /assets/images/posts/TheConstructSim/LiveClass_133_Simulation-to-real.jpg
   actions:
     - label: "Live"
       url: "https://app.theconstructsim.com/#/LiveClass/8953502c-39c2-414f-9685-db54cac211bb"

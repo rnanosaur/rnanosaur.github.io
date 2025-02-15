@@ -2,7 +2,7 @@
 title: "Maker Learn - Hands-on nanosaur"
 excerpt: "(:it: in Italian) Come costruire un #nanosaur? Approfondimento su questo semplice robot"
 header:
-  teaser: /assets/posts/MFR/MF-Learn.jpg
+  teaser: /assets/images/posts/MFR/MF-Learn.jpg
   video:
     id: Pi5Xgs-MGAQ
     provider: youtube
