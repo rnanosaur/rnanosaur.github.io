@@ -121,6 +121,13 @@ simulation:
     url: /install/
   - title: "👨‍💻 Simulation"
     url: /simulation/
+    children:
+      - title: "🔧 Configure"
+        url: /simulation/configuration/
+      - title: "👨‍💻 Isaac Sim"
+        url: /simulation/isaac-sim/
+      - title: "👨‍💻 Gazebo"
+        url: /simulation/gazebo/
   - title: "🕹️ Tutorials"
     url: /tutorial/
   - title: "📚 Courses"

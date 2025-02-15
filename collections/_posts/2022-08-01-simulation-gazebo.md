@@ -4,7 +4,7 @@ excerpt: "Run nanosaur in simulation using Gazebo or Ignition Gazebo"
 permalink: /tutorial/gazebo-simulation
 classes: wide
 header:
-  teaser: /assets/images/collections/simulation/sim_02_ignition.png
+  teaser: /assets/images/posts/simulation/sim_02_ignition.png
 categories:
   - Course
 tags:
@@ -19,7 +19,7 @@ You can run your simulator directly
 
 {% capture code %}nanosaur simulation set{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
 
-{% include figure image_path="/assets/images/collections/simulation/set_simulator.png" alt="Set nanosaur simulator" caption="Set nanosaur simulator" %}
+{% include figure image_path="/assets/images/posts/simulation/set_simulator.png" alt="Set nanosaur simulator" caption="Set nanosaur simulator" %}
 
 Otherwise follow below how this script works!
 
@@ -39,7 +39,7 @@ You have two simulators really simple to run: **Gazebo** or **Ignition Gazebo**
 
 The final output on gazebo, will be like:
 
-{% include figure image_path="/assets/images/collections/simulation/sim_01_gazebo.png" alt="nanosaur on Gazebo" caption="nanosaur on Gazebo" %}
+{% include figure image_path="/assets/images/posts/simulation/sim_01_gazebo.png" alt="nanosaur on Gazebo" caption="nanosaur on Gazebo" %}
 
 ### Change world or configuration
 
@@ -61,7 +61,7 @@ Example if you want to run an empty world.
 
 The final output on gazebo, will be like:
 
-{% include figure image_path="/assets/images/collections/simulation/sim_02_ignition.png" alt="nanosaur on Ignition Gazebo" caption="nanosaur on Ignition Gazebo" %}
+{% include figure image_path="/assets/images/posts/simulation/sim_02_ignition.png" alt="nanosaur on Ignition Gazebo" caption="nanosaur on Ignition Gazebo" %}
 
 ### Change world or configuration
 

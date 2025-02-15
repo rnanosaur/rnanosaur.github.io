@@ -6,6 +6,8 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
+header:
+  teaser: /assets/images/collections/install/Jetson/jetson-orin-nano.png
 ---
 
 Now nanosaur is almost done! You need only to setup the MicroSD card and start your robot.
@@ -34,7 +36,7 @@ Go on [NVIDIA Jetpack](https://developer.nvidia.com/embedded/Jetpack) webpage an
   {{ notice-text | markdownify }}
 </div>
 
-{% include figure image_path="/assets/images/collections/install/Etcher.png" alt="Etcher view" caption="Etcher view" %}
+{% include figure image_path="/assets/images/collections/install/Jetson/Etcher.png" alt="Etcher view" caption="Etcher view" %}
 
 ## Configuration Jetson
 
@@ -49,13 +51,13 @@ Set: **Log in Automatically**
 
 Will appear something like the picture below:
 
-{% include figure image_path="/assets/images/collections/install/05-User.png" alt="Configuration Jetson" caption="Configuration Jetson" %}
+{% include figure image_path="/assets/images/collections/install/Jetson/05-User.png" alt="Configuration Jetson" caption="Configuration Jetson" %}
 
 ## Connect to WiFi
 
 If you have not already connected your Jetson Nano to your Wi-Fi network, press the button below to follow this specific tutorial.
 
-[Wi-Fi configuration](/optional/wifi){: .align-center .btn .btn--info .btn--large}
+[Wi-Fi configuration](/install/wifi){: .align-center .btn .btn--info .btn--large}
 
 # Install and run nanosaur
 

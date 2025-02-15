@@ -1,6 +1,7 @@
 ---
 title: "Quick-Start Guide"
 excerpt: "Build nanosaur and follow the guide. Let's go!"
+layout: collection
 permalink: /make/
 collection: make
 hidden: true
@@ -27,13 +28,6 @@ sidebar:
 
 nanosaur is simple and does not need enough time to wander on your desktop.
 If you are making from scratch nanosaur you need to follow this guide in order, starting from
-
-1. [Bill of Materials](bill-of-materials) (BOM)
-2. [3D print](3d-print) (The longest part)
-3. [Expansion board](expansion-board)
-4. [Electronics](electronics)
-5. [Assembly](assembly)
-6. [Install](install)
 
 <!--
 If you want save time, or if you don't have a 3D printer you can [:shopping_cart: buy](/buy) some parts or all robot.

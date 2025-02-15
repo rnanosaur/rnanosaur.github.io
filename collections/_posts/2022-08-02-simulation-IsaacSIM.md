@@ -4,7 +4,7 @@ excerpt: "Run nanosaur in simulation using Isaac SIM"
 permalink: /tutorial/isaacsim-simulation
 classes: wide
 header:
-  teaser: /assets/images/collections/simulation/sim_03_IsaacSIM.png
+  teaser: /assets/images/posts/simulation/sim_03_IsaacSIM.png
 categories:
   - Course
 tags:
@@ -19,7 +19,7 @@ You can run your simulator directly
 
 {% capture code %}nanosaur simulation set{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
 
-{% include figure image_path="/assets/images/collections/simulation/set_simulator.png" alt="Set nanosaur simulator" caption="Set nanosaur simulator" %}
+{% include figure image_path="/assets/images/posts/simulation/set_simulator.png" alt="Set nanosaur simulator" caption="Set nanosaur simulator" %}
 
 Otherwise follow below how this script works!
 

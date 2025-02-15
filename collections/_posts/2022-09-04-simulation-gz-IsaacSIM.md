@@ -7,7 +7,7 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
 header:
-  teaser: /assets/images/collections/simulation/gz-omni-hybrid_diagram.png
+  teaser: /assets/images/posts/simulation/gz-omni-hybrid_diagram.png
 categories:
   - Course
 tags:
@@ -77,7 +77,7 @@ ros2 launch nanosaur_ignition ignition.launch.py{% endcapture %}{% include code.
 
 When the simulator is running you will see a window like below
 
-{% include figure image_path="/assets/images/collections/simulation/sim_02_ignition.png" alt="nanosaur on Ignition Gazebo" caption="nanosaur on Ignition Gazebo" %}
+{% include figure image_path="/assets/images/posts/simulation/sim_02_ignition.png" alt="nanosaur on Ignition Gazebo" caption="nanosaur on Ignition Gazebo" %}
 
 ## Run gz-omni connector
 
@@ -100,13 +100,13 @@ bash run_ignition_omni.sh -p omniverse://localhost/Users/<USER_NAME>/nanosaur.us
 
 if you see a line like this `[Dbg] [main.cpp:122] fps: 59.7457` the connector is working properly
 
-{% include figure image_path="/assets/images/collections/simulation/gz-omni-running.png" alt="gz-omni running" caption="gz-omni running" %}
+{% include figure image_path="/assets/images/posts/simulation/gz-omni-running.png" alt="gz-omni running" caption="gz-omni running" %}
 
 ## Run NVIDIA Isaac SIM
 
 First stage you need to start NVIDIA Isaac SIM, pressing the button "START" on the **Isaac Sim App Selector**, like the picture below
 
-{% include figure image_path="/assets/images/collections/simulation/gz-omni_01_start_isaac_sim_app.png" alt="Start NVIDIA Isaac SIM" caption="Start NVIDIA Isaac SIM" %}
+{% include figure image_path="/assets/images/posts/simulation/gz-omni_01_start_isaac_sim_app.png" alt="Start NVIDIA Isaac SIM" caption="Start NVIDIA Isaac SIM" %}
 
 When the system is up, in the window "*content*" below, open from the Omniverse folder:
 
@@ -114,15 +114,15 @@ When the system is up, in the window "*content*" below, open from the Omniverse 
 
 *Remember, if your user is different to find the right folder*
 
-{% include figure image_path="/assets/images/collections/simulation/gz-omni_02_select_project.png" alt="Select USD project to load" caption="Select USD project to load" %}
+{% include figure image_path="/assets/images/posts/simulation/gz-omni_02_select_project.png" alt="Select USD project to load" caption="Select USD project to load" %}
 
 The output will be like the picture below
 
-{% include figure image_path="/assets/images/collections/simulation/gz-omni_03_project_loaded.png" alt="Output after loading project" caption="Output after loading project" %}
+{% include figure image_path="/assets/images/posts/simulation/gz-omni_03_project_loaded.png" alt="Output after loading project" caption="Output after loading project" %}
 
 Now you need to enable the live sync on your simulation, to use realtime both simulation running at the same time
 
-{% include figure image_path="/assets/images/collections/simulation/gz-omni_04_isaac_sim_sync.gif" alt="Enable the Live Sync on NVIDIA Isaac SIM" caption="Enable the Live Sync on NVIDIA Isaac SIM" %}
+{% include figure image_path="/assets/images/posts/simulation/gz-omni_04_isaac_sim_sync.gif" alt="Enable the Live Sync on NVIDIA Isaac SIM" caption="Enable the Live Sync on NVIDIA Isaac SIM" %}
 
 * On top right open the tab **Layer**
 * Click on the cloud on right and chose **Always on**
@@ -134,7 +134,7 @@ In your last terminal you need the perception module active
 
 {% capture code %}nanosaur perception{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
 
-{% include figure image_path="/assets/images/collections/simulation/nanosaur_perception.png" alt="nanosaur perception terminal" caption="nanosaur perception terminal" %}
+{% include figure image_path="/assets/images/posts/simulation/nanosaur_perception.png" alt="nanosaur perception terminal" caption="nanosaur perception terminal" %}
 
 # Drive nanosaur
 
