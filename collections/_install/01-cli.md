@@ -75,12 +75,15 @@ If you see an output like the image below, everything is working fine! We can ty
 
 Now check out the platform setup and configuration of your computer and like expected we will see few information now, but don't forget this command will be really helpful is something is going wrong on your installation or setup.
 
-**:bulb: Hint** You can use the bash completion to quickly work with nanosaur!
+**:bulb: Hint** You can use the bash completion to quickly work with nanosaur cli!
 {: .notice--info}
 
 {% capture code %}nanosaur info{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
 
 {% include figure image_path="/assets/images/collections/install/cli/nanosaur-cli-info.png" alt="nanosaur info" caption="nanosaur info command" %}
+
+**:bulb: Hint** All links are clickable! Just press on your keyboard **CTRL** and click on the link or folder!
+{: .notice--info}
 
 If you need more details you can run the same command with a verbose output:
 
