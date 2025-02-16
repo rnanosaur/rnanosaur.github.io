@@ -22,7 +22,7 @@ simulation:
   - image_path: /assets/images/collections/simulation/IsaacSIM.png
     alt: "simulation nanosaur"
     title: "👨‍💻 Simulation"
-    excerpt: "In this guide you learn how to set up a simulation on your desktop and run it. If you are working in simulation follow this guide before to start the tutorial."
+    excerpt: "In this guide you learn how to set up a simulation on your desktop and run it.\n\n**If you are working in simulation follow this guide before to start the tutorial.**"
     url: /simulation/
     btn_label: "📃 learn more"
     btn_class: "btn--success"

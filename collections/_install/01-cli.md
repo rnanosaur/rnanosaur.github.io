@@ -10,7 +10,7 @@ header:
   teaser: /assets/images/collections/install/cli/nanosaur-cli.png
 ---
 
-The nanosaur command Line Interface (CLI) is an all-in-one script to manage nanosaur, developing or running in simulation. 
+The nanosaur command Line Interface (CLI) is an all-in-one script to manage nanosaur, developing or running in simulation.
 This tool is extremely simple and need few steps to be used.
 
 If you are working on NVIDIA Jetson please follow the guide below to install the latest NVIDIA Jetpack version.
