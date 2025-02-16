@@ -1,6 +1,6 @@
 ---
 title: "Tutorials"
-excerpt: "Do you have 🦕 nanosaur? It's time to follow these tutorial or jump on the courses."
+excerpt: "In this section we learn how to control, setup and visualize nanosaur. The basic skills to work with nanosaur."
 layout: collection
 permalink: /tutorial/
 hidden: true

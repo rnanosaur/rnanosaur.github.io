@@ -1,13 +1,10 @@
 ---
 title: "Keyboard drive"
-excerpt: "Drive by keyboard or watch nanosaur on rviz"
+excerpt: "How to drive and control your nanosaur, real or simulated."
 permalink: /tutorial/drive/
 classes: wide
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
   teaser: /assets/tutorial/remote/nanosaur_keyboard.png
-  overlay_image: /assets/tutorial/remote/nanosaur_keyboard.png
 ---
 
 Now you can manually drive 🦕 nanosaur on your desktop.

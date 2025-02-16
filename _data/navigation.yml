@@ -9,14 +9,14 @@ main:
 #    url: /install/
   - title: "👨‍💻 Simulation"
     url: /simulation/
-#  - title: "🕹️ Tutorials"
-#    url: /tutorial/
+  - title: "🕹️ Tutorials"
+    url: /tutorial/
   - title: "📚 Courses"
     url: /courses/
 #  - title: "🗂️ Documentation"
 #    url: /docs/
-  - title: "📰 Posts"
-    url: /posts/
+#  - title: "📰 Posts"
+#    url: /posts/
 
 about:
   - title: "🛒 Buy"
@@ -24,20 +24,14 @@ about:
   - title: "🦕 About"
     url: /about
     children:
-      - title: "📐 Architecture"
-        url: /architecture/
+      - title: "📰 Posts"
+        url: /posts/
       - title: "👥 Community"
         url: /community/
       - title: "🗞️ Press"
         url: /press/
       - title: "🎟️ Events"
         url: /events/
-      - title: "🚦 Status"
-        url: /status/
-      - title: "🕐 Changelog"
-        url: /changelog/
-      - title: "👷 Project"
-        url: /project/
   - title: "🔧 Make"
     url: /make/
   - title: "💾 Install"
@@ -50,8 +44,6 @@ about:
     url: /courses/
   - title: "🗂️ Documentation"
     url: /docs/
-  - title: "📰 Posts"
-    url: /posts/
 
 make:
   - title: "🛒 Buy"
@@ -81,9 +73,6 @@ make:
     url: /courses/
   - title: "🗂️ Documentation"
     url: /docs/
-  - title: "📰 Posts"
-    url: /posts/
-
 
 install:
   - title: "🛒 Buy"
@@ -107,8 +96,6 @@ install:
     url: /courses/
   - title: "🗂️ Documentation"
     url: /docs/
-  - title: "📰 Posts"
-    url: /posts/
 
 simulation:
   - title: "🛒 Buy"
@@ -134,8 +121,6 @@ simulation:
     url: /courses/
   - title: "🗂️ Documentation"
     url: /docs/
-  - title: "📰 Posts"
-    url: /posts/
 
 tutorial:
   - title: "🛒 Buy"
@@ -151,20 +136,18 @@ tutorial:
   - title: "🕹️ Tutorials"
     url: /tutorial/
     children:
-      - title: "- Start robot"
+      - title: "- Start & Stop"
         url: tutorial/start/
-      - title: "- Drive robot"
+      - title: "- Drive"
         url: tutorial/drive/
-      - title: "- Visualize robot"
+      - title: "- Visualize"
         url: tutorial/visualize/
-      - title: "- Configure robot"
+      - title: "- Configuration"
         url: tutorial/configuration/
   - title: "📚 Courses"
     url: /courses/
   - title: "🗂️ Documentation"
     url: /docs/
-  - title: "📰 Posts"
-    url: /posts/
 
 courses:
   - title: "🛒 Buy"
@@ -190,5 +173,30 @@ courses:
         url: /courses/hacker/
   - title: "🗂️ Documentation"
     url: /docs/
-  - title: "📰 Posts"
-    url: /posts/
+
+docs:
+  - title: "🛒 Buy"
+    url: /buy/
+  - title: "🦕 About"
+    url: /about
+  - title: "🔧 Make"
+    url: /make/
+  - title: "💾 Install"
+    url: /install/
+  - title: "👨‍💻 Simulation"
+    url: /simulation/
+  - title: "🕹️ Tutorials"
+    url: /tutorial/
+  - title: "📚 Courses"
+    url: /courses/
+  - title: "🗂️ Documentation"
+    url: /docs/
+    children:
+      - title: "📐 Architecture"
+        url: /architecture/
+      - title: "🚦 Status"
+        url: /status/
+      - title: "🕐 Changelog"
+        url: /changelog/
+      - title: "👷 Project"
+        url: /project/

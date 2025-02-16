@@ -3,7 +3,7 @@ title: "Posts by Year"
 excerpt: "All posts, events, and courses by Year on 🦕 nanosaur"
 permalink: /posts/
 layout: posts
-author_profile: true
+author_profile: false
 classes: wide
 header:
   overlay_color: "#000"

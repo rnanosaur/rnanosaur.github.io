@@ -2,6 +2,7 @@
 title: Press
 layout: category
 permalink: /press/
+author_profile: false
 classes: wide
 taxonomy: Press
 header:

@@ -2,6 +2,7 @@
 title: Events
 layout: category
 permalink: /events/
+author_profile: false
 classes: wide
 taxonomy: Events
 header:
