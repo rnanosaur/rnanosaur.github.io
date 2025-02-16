@@ -30,7 +30,7 @@ tutorial:
     alt: "Tutorial nanosaur robot"
     title: "🕹️ Tutorial"
     excerpt: "If you don't know how to start and setup the nanosaur robot or how to drive follow the tutorial."
-    url: /install/
+    url: /tutorial/
     btn_label: "📃 learn more"
     btn_class: "btn--success"
 ---

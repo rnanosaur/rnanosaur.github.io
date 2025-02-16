@@ -137,13 +137,15 @@ tutorial:
     url: /tutorial/
     children:
       - title: "- Start & Stop"
-        url: tutorial/start/
-      - title: "- Drive"
-        url: tutorial/drive/
+        url: /tutorial/start/
       - title: "- Visualize"
-        url: tutorial/visualize/
+        url: /tutorial/visualize/
+      - title: "- Drive"
+        url: /tutorial/drive/
+      - title: "- Terminal"
+        url: /tutorial/terminal/
       - title: "- Configuration"
-        url: tutorial/configuration/
+        url: /tutorial/configuration/
   - title: "📚 Courses"
     url: /courses/
   - title: "🗂️ Documentation"

@@ -82,7 +82,7 @@ Now check out the platform setup and configuration of your computer and like exp
 
 {% include figure image_path="/assets/images/collections/install/cli/nanosaur-cli-info.png" alt="nanosaur info" caption="nanosaur info command" %}
 
-**:bulb: Hint** All links are clickable! Just press on your keyboard **CTRL** and click on the link or folder!
+**:bulb: Hint** All links are clickable! Just press on your keyboard **CTRL & CLICK** on the link or folder!
 {: .notice--info}
 
 If you need more details you can run the same command with a verbose output:
