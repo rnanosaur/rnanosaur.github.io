@@ -4,7 +4,7 @@ excerpt: "How to switch on your nanosaur in simulation or real"
 permalink: /tutorial/start/
 classes: wide
 header:
-  teaser: /assets/images/collections/tutorial/configure/nanosaur-robot-config.png
+  teaser: /assets/images/collections/tutorial/nanosaur-robot.png
 ---
 
 This command will start the robot with the selected configuration and all engines selected active.

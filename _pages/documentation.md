@@ -10,4 +10,14 @@ header:
   teaser: /assets/images/nanosaur_arch.jpg
 sidebar:
   - nav: "docs"
+architecture:
+  - image_path: /assets/images/nanosaur-wireframe-bw.png
+    alt: "nanosaur"
+    title: "📐 Architecture"
+    excerpt: "nanosaur is designed like a real AMR robot, with a complete ROS2 pipeline, high level controllers and AI,docker containers based."
+    url: "/architecture/"
+    btn_label: "👷 Deep dive"
+    btn_class: "btn--inverse"
 ---
+
+{% include feature_row id="architecture" type="left" %}

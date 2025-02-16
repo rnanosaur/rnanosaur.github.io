@@ -1,5 +1,5 @@
 ---
-title: "Tutorials"
+title: "Tutorial"
 excerpt: "In this section we learn how to control, setup and visualize nanosaur. The basic skills to work with nanosaur."
 layout: collection
 permalink: /tutorial/

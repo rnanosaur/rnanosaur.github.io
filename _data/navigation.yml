@@ -9,7 +9,7 @@ main:
 #    url: /install/
   - title: "👨‍💻 Simulation"
     url: /simulation/
-  - title: "🕹️ Tutorials"
+  - title: "🕹️ Tutorial"
     url: /tutorial/
   - title: "📚 Courses"
     url: /courses/
@@ -38,7 +38,7 @@ about:
     url: /install/
   - title: "👨‍💻 Simulation"
     url: /simulation/
-  - title: "🕹️ Tutorials"
+  - title: "🕹️ Tutorial"
     url: /tutorial/
   - title: "📚 Courses"
     url: /courses/
@@ -67,7 +67,7 @@ make:
     url: /install/
   - title: "👨‍💻 Simulation"
     url: /simulation/
-  - title: "🕹️ Tutorials"
+  - title: "🕹️ Tutorial"
     url: /tutorial/
   - title: "📚 Courses"
     url: /courses/
@@ -90,7 +90,7 @@ install:
         url: /install/nanosaur/
   - title: "👨‍💻 Simulation"
     url: /simulation/
-  - title: "🕹️ Tutorials"
+  - title: "🕹️ Tutorial"
     url: /tutorial/
   - title: "📚 Courses"
     url: /courses/
@@ -115,7 +115,7 @@ simulation:
         url: /simulation/isaac-sim/
       - title: "👨‍💻 Gazebo"
         url: /simulation/gazebo/
-  - title: "🕹️ Tutorials"
+  - title: "🕹️ Tutorial"
     url: /tutorial/
   - title: "📚 Courses"
     url: /courses/
@@ -133,7 +133,7 @@ tutorial:
     url: /install/
   - title: "👨‍💻 Simulation"
     url: /simulation/
-  - title: "🕹️ Tutorials"
+  - title: "🕹️ Tutorial"
     url: /tutorial/
     children:
       - title: "- Start & Stop"
@@ -164,7 +164,7 @@ courses:
     url: /install/
   - title: "👨‍💻 Simulation"
     url: /simulation/
-  - title: "🕹️ Tutorials"
+  - title: "🕹️ Tutorial"
     url: /tutorial/
   - title: "📚 Courses"
     url: /courses/
@@ -189,7 +189,7 @@ docs:
     url: /install/
   - title: "👨‍💻 Simulation"
     url: /simulation/
-  - title: "🕹️ Tutorials"
+  - title: "🕹️ Tutorial"
     url: /tutorial/
   - title: "📚 Courses"
     url: /courses/
