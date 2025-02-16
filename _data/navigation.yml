@@ -146,6 +146,8 @@ tutorial:
         url: /tutorial/terminal/
       - title: "- Configuration"
         url: /tutorial/configuration/
+      - title: "- Wake up"
+        url: /tutorial/wake-up/
   - title: "📚 Courses"
     url: /courses/
   - title: "🗂️ Documentation"
