@@ -83,9 +83,6 @@ If the installation will works fine, you will see something like the image below
 
 This installation is designed for developers want to work with nanosaur and designed or use for teaching. This installation, make some extra folders to work with Isaac ROS make a default `ros_ws` workspace.
 
-**:warning: WARNING** This configuration is suggested for developers want to modify the nanosaur architecture and want to make improvements, if you want only design new software and work with the default nanosaur configuration this installation is **NOT** for you.
-{: .notice--warning}
-
 ```sh
 user-home/
 └── nanosaur/
@@ -112,7 +109,10 @@ If you already work with ROS 2 and you want to skill with nanosaur and Isaac ROS
 
 When you install nanosaur in maintainer mode you have full access to all source code and you can modify, add new features and help on the nanosaur development!
 
-This script will load all ROS workspaces where the software is running, and depending on which architecture you are, build all workspaces and clone all repositories to work deeply on the robot.  
+This script will load all ROS workspaces where the software is running, and depending on which architecture you are, build all workspaces and clone all repositories to work deeply on the robot.
+
+**:warning: WARNING** This configuration is suggested for developers want to modify the nanosaur architecture and want to make improvements, if you want only design new software and work with the default nanosaur configuration this installation is **NOT** for you.
+{: .notice--warning}
 
 ```sh
 user-home/
