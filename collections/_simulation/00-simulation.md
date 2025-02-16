@@ -26,7 +26,7 @@ install:
     btn_label: "📃 learn more"
     btn_class: "btn--success"
 tutorial:
-  - image_path: /assets/images/collections/install/cli/nanosaur-cli.png
+  - image_path: /assets/images/collections/tutorial/nanosaur-robot.png
     alt: "Tutorial nanosaur robot"
     title: "🕹️ Tutorial"
     excerpt: "If you don't know how to start and setup the nanosaur robot or how to drive follow the tutorial."

@@ -1,5 +1,5 @@
 ---
-title: "Tutorials & Courses"
+title: "Tutorials"
 excerpt: "Do you have 🦕 nanosaur? It's time to follow these tutorial or jump on the courses."
 layout: collection
 permalink: /tutorial/
@@ -10,11 +10,28 @@ author_profile: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/community.jpg
-  teaser: /assets/images/community.jpg
+  overlay_image: /assets/images/collections/tutorial/nanosaur-robot.png
+  teaser: /assets/images/collections/tutorial/nanosaur-robot.png
   actions:
+    - label: ":sparkling_heart: Sponsor"
+      url: "https://github.com/sponsors/rbonghi"
+    - label: ":star: Star"
+      url: "https://github.com/rnanosaur/nanosaur"
     - label: "🤖 Discord"
       url: "https://discord.gg/NSrC52P5mw"
-    - label: "🧑‍🏫 Courses"
-      url: "/courses"
 ---
+
+In this tutorial we start to use nanosaur, controlling by keyboard or joystick and visualize the output on screen.
+
+With this basic tutorial you will be always able to control nanosaur in simulation or real, changing the configuration and test new feature.
+
+This tutorial will teach you how to use the robot and how to use the command:
+
+{% capture code %}nanosaur robot{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
+
+{% include figure image_path="assets/images/collections/tutorial/nanosaur-robot.png" alt="nanosaur robot" caption="nanosaur robot command" %}
+
+Follow the guide below to learn how to use the robot.
+
+**:memo: Note** These commands are always available for every installation you choose.
+{: .notice}

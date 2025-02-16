@@ -7,7 +7,7 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
 header:
-  teaser: /assets/images/collections/install/nanosaur/nanosaur-install-done.png
+  teaser: /assets/images/collections/install/nanosaur/nanosaur-install-robot.png
 ---
 
 It's time to install nanosaur on your device, the installation command is exactly the same on your desktop or on your Jetson, the `nanosaur-cli` automatically detect and will install properly all files.
