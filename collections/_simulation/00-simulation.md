@@ -44,7 +44,7 @@ If you follow the installation guide, we can start to configure your desktop to 
 * [NVIDIA Isaac Sim](https://developer.nvidia.com/isaac/sim)
 * [Gazebo](https://gazebosim.org)
 
-You can use the simulation working with the simulators directly installed on your desktop, otherwise you can run everything in a docker container. 
+You can use the simulation working with the simulators directly installed on your desktop, otherwise you can run everything in a docker container.
 
 {% include feature_row id="tutorial" type="right" %}
 
