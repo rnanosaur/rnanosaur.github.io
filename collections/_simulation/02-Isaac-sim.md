@@ -84,6 +84,9 @@ Now you can open a *new terminal* and switch on the robot with:
 
 {% capture code %}nanosaur robot start{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
 
+**:warning: WARNING** Every time you change the nanosaur configuration, you need to reboot the simulation.
+{: .notice--warning}
+
 ## GUI from host
 
 If you selected the run from your host and Isaac Sim is properly [installed](https://docs.isaacsim.omniverse.nvidia.com/latest/installation/download.html#latest-release) you will see the User Interface coming up like the image below.
@@ -93,3 +96,6 @@ If you selected the run from your host and Isaac Sim is properly [installed](htt
 Now you can open a *new terminal* and switch on the robot with:
 
 {% capture code %}nanosaur robot start{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
+
+**:warning: WARNING** Every time you change the nanosaur configuration, you need to reboot the simulation.
+{: .notice--warning}

@@ -41,11 +41,21 @@ Before to move ahead working with nanosaur in simulation, if you did not do yet,
 
 If you follow the installation guide, we can start to configure your desktop to work with the simulator selected. At this time nanosaur can be simulated on:
 
-* [NVIDIA Isaac Sim](https://developer.nvidia.com/isaac/sim)
-* [Gazebo](https://gazebosim.org)
+* [NVIDIA Isaac Sim](/simulation/isaac-sim/)
+* [Gazebo](/simulation/gazebo/)
 
 You can use the simulation working with the simulators directly installed on your desktop, otherwise you can run everything in a docker container.
 
 {% include feature_row id="tutorial" type="right" %}
 
-In the next pages we setup the simulators from the nanosaur-cli and how to use them.
+With only two terminal and two commands you can switch on your simulation with nanosaur:
+
+* First terminal:
+
+{% capture code %}nanosaur simulation start{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
+
+* Second terminal:
+
+{% capture code %}nanosaur robot start{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
+
+But how to configure your computer and how the simulators are working are explained in the next pages we setup the simulators from the `nanosaur-cli` and how to use them.
