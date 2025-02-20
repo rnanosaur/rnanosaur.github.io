@@ -10,12 +10,8 @@ header:
   actions:
   - label: ":sparkling_heart: Sponsor"
     url: "https://github.com/sponsors/rbonghi"
-  - label: ":tshirt: T-shirt"
-    url: "https://teespring.com/nanosaur"
   - label: ":star: Star"
     url: "https://github.com/rnanosaur/nanosaur"
-  - label: ":wrench: Make"
-    url: "/make/"
 intro: 
   - excerpt: '🦕 nanosaur is an open-source and 3D printable platform, designed to wander on your desk. With this platform, you learn the fundamentals of [ROS 2](https://www.ros.org/) and NVIDIA [Isaac ROS](https://developer.nvidia.com/isaac-ros-gems) GEMs. Learning how to use AI applied in robotics.'
 about:
@@ -43,13 +39,13 @@ feature_row:
     btn_class: "btn--warning"
   - image_path: /assets/images/nanosaur_follower.jpg
     alt: "nanosaur tutorials"
-    title: ":school_satchel: Play"
-    excerpt: "Learn Robotics with nanosaur, deepdive on ROS 2 AI and other. Follow tutorials and courses to start in this world."
-    url: "/tutorial/"
-    btn_label: "💯 Tutorials"
+    title: "📚 Courses"
+    excerpt: "Let's learn how is it work nanosaur and how to build a ROS 2 package and work with Isaac ROS"
+    url: "/courses/"
+    btn_label: "🎓 learn"
     btn_class: "btn--success"
 award:
-  - image_path: /assets/images/posts/achievements/nanosaur-winner-2022.jpg
+  - image_path: /assets/images/nanosaur-award-2022.jpg
     alt: "nanosaur Best ROS Robot 2022"
     title: "🏆 Best ROS Robot 2022"
     excerpt: "nanosaur is the winner of the [**Best ROS Robot 2022**](https://www.theconstructsim.com/ros-awards-2022/) Awarded from the ROS Developers Community"
@@ -58,24 +54,14 @@ award:
     btn_class: "btn--success"
 footer: 
   - excerpt: '🦕 **nanosaur** is proudly part of :pizza: [pizzarobotics](https://pizzarobotics.org) community'
-merch:
-  - image_path: /assets/images/buy/merch/nanosaur-merch.gif
-    alt: "nanosaur merchandising"
-    title: "nanosaur style"
-    excerpt: "nanosaur addicted! Pimp your day with T-Shirts, mugs, Hoodies and all for your robotic working day!"
-    url: "https://teespring.com/nanosaur"
-    btn_label: ":shopping_cart: Watch catalog"
-    btn_class: "btn--inverse"
 ---
+
+{% include feature_row id="award" type="right" %}
 
 {% include feature_row id="about" type="left" %}
 
 {% include feature_row %}
 
-{% include feature_row id="award" type="right" %}
-
 {% include feature_row id="footer" type="center" %}
-
-{% include feature_row id="merch" type="left" %}
 
 {% include discord.html %}

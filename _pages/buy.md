@@ -16,12 +16,24 @@ header:
       url: "https://github.com/rnanosaur/nanosaur"
     - label: "🦕 nanosaur"
       url: "/about"
+    - label: ":tshirt: T-shirt"
+      url: "https://teespring.com/nanosaur"
 sidebar:
   - nav: "about"
+merch:
+  - image_path: /assets/images/buy/merch/nanosaur-merch.gif
+    alt: "nanosaur merchandising"
+    title: "nanosaur style"
+    excerpt: "nanosaur addicted! Pimp your day with T-Shirts, mugs, Hoodies and all for your robotic working day!"
+    url: "https://teespring.com/nanosaur"
+    btn_label: ":shopping_cart: Watch catalog"
+    btn_class: "btn--inverse"
 ---
 
 **:construction: This page is under construction.**<br/>For any issue join on [Discord]({{ site.discord.link }})
 {: .notice--warning}
+
+{% include feature_row id="merch" type="left" %}
 
 You don't have a 3D printer and you want make a 🦕 nanosaur?
 
