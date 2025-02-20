@@ -64,5 +64,5 @@ Improve nanosaur layout for powerbanks with different size
 
 ## 1.0 (17th Feb. 2021)
 
-First release of nanosaur software based on ROS2 Foxy
+First release of nanosaur software based on ROS 2 Foxy
 <!-- CHANGELOG END -->

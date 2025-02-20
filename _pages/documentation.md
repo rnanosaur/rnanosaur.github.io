@@ -14,7 +14,7 @@ architecture:
   - image_path: /assets/images/nanosaur-wireframe-bw.png
     alt: "nanosaur"
     title: "📐 Architecture"
-    excerpt: "nanosaur is designed like a real AMR robot, with a complete ROS2 pipeline, high level controllers and AI,docker containers based."
+    excerpt: "nanosaur is designed like a real AMR robot, with a complete ROS 2 pipeline, high level controllers and AI,docker containers based."
     url: "/architecture/"
     btn_label: "👷 Deep dive"
     btn_class: "btn--inverse"

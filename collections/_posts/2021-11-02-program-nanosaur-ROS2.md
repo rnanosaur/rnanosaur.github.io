@@ -1,6 +1,6 @@
 ---
-title: "TCS 130 - Program nanosaur with ROS2"
-excerpt: "In this Live Class, we will use the nanosaur simulation to program with ROS2 Galactic."
+title: "TCS 130 - Program nanosaur with ROS 2"
+excerpt: "In this Live Class, we will use the nanosaur simulation to program with ROS 2 Galactic."
 classes: wide
 link: https://app.theconstructsim.com/#/LiveClass/9f0e0eea-00c0-4e3e-b54e-197ebee21b68
 categories:
@@ -19,7 +19,7 @@ header:
       url: "https://www.theconstructsim.com/"
 ---
 
-In this Live Class, we will use the nanosaur simulation to program with ROS2 Galactic. You will learn:
+In this Live Class, we will use the nanosaur simulation to program with ROS 2 Galactic. You will learn:
 
 * How to build a Gazebo simulation of the nanosaur robot
-* Create a simple ROS2 program to control the nanosaur robot and move it around
+* Create a simple ROS 2 program to control the nanosaur robot and move it around

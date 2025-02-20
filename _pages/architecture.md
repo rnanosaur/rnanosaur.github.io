@@ -1,6 +1,6 @@
 ---
 title: "Architecture"
-excerpt: "nanosaur is based with ROS2 and Isaac ROS"
+excerpt: "nanosaur is based with ROS 2 and Isaac ROS"
 permalink: /architecture/
 author_profile: false
 toc: true
@@ -46,7 +46,7 @@ There are mainly three types architectures, different for the camera in use, whe
 
 ## Monocular camera
 
-If you are building a nanosaur with a monocular camera, such a raspberry Pi camera or a fisheye camera, the architecture and all **ROS2** node are like the image below.
+If you are building a nanosaur with a monocular camera, such a raspberry Pi camera or a fisheye camera, the architecture and all **ROS 2** node are like the image below.
 
 {% include figure image_path="/assets/images/about/architecture/nanosaur-argus.architecture.drawio.png" alt="nanosaur architecture Argus camera" %}
 
@@ -74,11 +74,11 @@ If you are building a nanosaur with a monocular camera, such a raspberry Pi came
 
 * The **diagnostic** block, is a web-interface to know realtime the status and set high level control to the robot. This block is also replicable on your desktop and you can use **rviz2** to read all status coming from the robot.
 
-* The **perception** block is GPU accelerated and use the full [ZED SDK](https://www.stereolabs.com/developers/release/) capabilities to know realtime the localization, floor plan, pointcloud coming out from the [ROS2 ZED wrapper](https://github.com/stereolabs/zed-ros2-wrapper).
+* The **perception** block is GPU accelerated and use the full [ZED SDK](https://www.stereolabs.com/developers/release/) capabilities to know realtime the localization, floor plan, pointcloud coming out from the [ROS 2 ZED wrapper](https://github.com/stereolabs/zed-ros2-wrapper).
 
 # Package architecture 
 
-To build each docker container, nanosaur use a combination of different repositories, where are located different ROS2 packages:
+To build each docker container, nanosaur use a combination of different repositories, where are located different ROS 2 packages:
 
 {% include figure image_path="/assets/images/about/architecture/packages.drawio.png" alt="nanosaur package architecture" %}
 

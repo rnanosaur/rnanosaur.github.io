@@ -25,7 +25,7 @@ The gz-omni connector use:
 * NVIDIA Isaac SIM
 * [gz-omni connector](https://github.com/gazebosim/gz-omni)
 
-Follow the instruction below to install Ignition Gazebo (not default simulator for ROS2) and in another terminal install the [gz-omni connector](https://github.com/gazebosim/gz-omni)
+Follow the instruction below to install Ignition Gazebo (not default simulator for ROS 2) and in another terminal install the [gz-omni connector](https://github.com/gazebosim/gz-omni)
 
 ## Install Ignition Gazebo - Edifice
 

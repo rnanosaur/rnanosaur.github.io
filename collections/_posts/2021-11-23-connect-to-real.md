@@ -1,6 +1,6 @@
 ---
 title: "TCS 133 - Connect to the real NanoSaur robot"
-excerpt: "We will connect to the real Nanosaur robot and we will control it using ROS2."
+excerpt: "We will connect to the real Nanosaur robot and we will control it using ROS 2."
 classes: wide
 link: https://app.theconstructsim.com/#/LiveClass/8953502c-39c2-414f-9685-db54cac211bb
 categories:
@@ -21,7 +21,7 @@ header:
 
 In this Live Class:
 
-We will connect to the real Nanosaur robot and we will control it using ROS2. You will learn:
+We will connect to the real Nanosaur robot and we will control it using ROS 2. You will learn:
 
 * How to connect to the real NanoSaur robot
-* How to run and control the real NanoSaur robot with ROS2
+* How to run and control the real NanoSaur robot with ROS 2

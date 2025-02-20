@@ -24,7 +24,7 @@ Use this script will be your first reference to use nanosaur avoiding weird comm
 
 You already used this script when you installed all [nanosaur software](/install). In this scprit is already included a way to detect in which NVIDIA Jetson or desktop is running the script and install all dependencies or packages.
 
-Also with this script you can remotely connect from your Ubuntu desktop machine and use the ROS2 tools to know what is going on your nanosaur.
+Also with this script you can remotely connect from your Ubuntu desktop machine and use the ROS 2 tools to know what is going on your nanosaur.
 
 **:bulb: Hint** You can use the bash completition to quickly work with nanosaur!
 {: .notice--info}

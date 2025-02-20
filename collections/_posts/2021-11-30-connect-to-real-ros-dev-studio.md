@@ -21,7 +21,7 @@ header:
 
 In this Live Class:
 
-We will connect to the real NanoSaur robot using the ROS Development Studio. We will show you how to easily connect to ANY real robot from a rosject in just a few steps and we will create a simple ROS2 program to control the real NanoSaur robot. You will learn:
+We will connect to the real NanoSaur robot using the ROS Development Studio. We will show you how to easily connect to ANY real robot from a rosject in just a few steps and we will create a simple ROS 2 program to control the real NanoSaur robot. You will learn:
 
 * Connect to the real robot using the ROS Development Studio
-* Create a simple ROS2 program to control the real NanoSaur robot
+* Create a simple ROS 2 program to control the real NanoSaur robot

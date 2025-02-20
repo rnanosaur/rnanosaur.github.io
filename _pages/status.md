@@ -24,7 +24,7 @@ On this page are collected all Continuous Integration badges and Docker image si
 <!-- CI START -->
 # Continuous Integration
 
-**Latest** = ROS2 **_foxy_** at latest tag released
+**Latest** = ROS 2 **_foxy_** at latest tag released
 
 | 🏗️ CI            | latest* | foxy | galactic |
 |:-------------:|:-------:|:----:|:--------:|
@@ -41,5 +41,5 @@ On this page are collected all Continuous Integration badges and Docker image si
 | 🖼️ [perception](https://github.com/rnanosaur/nanosaur_perception.git)    |  [![Docker Image Size (tag)](https://img.shields.io/docker/image-size/nanosaur/perception/latest)](https://hub.docker.com/r/nanosaur/perception) <br/> zed <br/> [![Docker Image Size (tag)](https://img.shields.io/docker/image-size/nanosaur/perception/latest-zed)](https://hub.docker.com/r/nanosaur/perception) <br/> realsense <br/> [![Docker Image Size (tag)](https://img.shields.io/docker/image-size/nanosaur/perception/latest-realsense)](https://hub.docker.com/r/nanosaur/perception) | [![Docker Image Size (tag)](https://img.shields.io/docker/image-size/nanosaur/perception/foxy)](https://hub.docker.com/r/nanosaur/perception) <br/> zed <br/> [![Docker Image Size (tag)](https://img.shields.io/docker/image-size/nanosaur/perception/foxy-zed)](https://hub.docker.com/r/nanosaur/perception) <br/> realsense <br/> [![Docker Image Size (tag)](https://img.shields.io/docker/image-size/nanosaur/perception/foxy-realsense)](https://hub.docker.com/r/nanosaur/perception) | [![Docker Image Size (tag)](https://img.shields.io/docker/image-size/nanosaur/perception/galactic)](https://hub.docker.com/r/nanosaur/perception) | [![Docker Pulls](https://img.shields.io/docker/pulls/nanosaur/perception)](https://hub.docker.com/r/nanosaur/perception) |
 
 
-**Latest** = ROS2 **_foxy_** at latest tag released
+**Latest** = ROS 2 **_foxy_** at latest tag released
 <!-- CI END -->
