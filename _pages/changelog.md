@@ -23,7 +23,7 @@ sidebar:
 <!-- CHANGELOG START -->
 # Changelog
 
-## [2.0.0-pre2]
+## [2.0.0-pre2] - 2025-02-20
 
 ### Features
 
