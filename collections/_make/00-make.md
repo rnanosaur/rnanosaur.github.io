@@ -3,6 +3,8 @@ title: "Quick-Start Guide"
 excerpt: "Build nanosaur and follow the guide. Let's go!"
 layout: collection
 permalink: /make/
+redirect_from:
+  - /quick-start/
 collection: make
 hidden: true
 classes: wide
