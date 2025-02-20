@@ -20,7 +20,7 @@ header:
     - label: "🚦 Status"
       url: /status/
 sidebar:
-  - nav: "about"
+  - nav: "docs"
 ---
 
 nanosaur is not a simple robot, but is designed like a real industrial robot, with a year develop roadmap, a develop workflow and a technical tagging release version.

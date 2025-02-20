@@ -17,7 +17,7 @@ header:
     - label: "📐 Architecture"
       url: /architecture/
 sidebar:
-  - nav: "about"
+  - nav: "docs"
 ---
 
 <!-- CHANGELOG START -->

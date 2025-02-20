@@ -17,7 +17,7 @@ header:
     - label: "📐 Architecture"
       url: /architecture/
 sidebar:
-  - nav: "about"
+  - nav: "docs"
 ---
 
 On this page are collected all Continuous Integration badges and Docker image size badges.

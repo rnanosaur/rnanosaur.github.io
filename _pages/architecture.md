@@ -20,7 +20,7 @@ header:
     - label: "🚦 Status"
       url: /status/
 sidebar:
-  - nav: "about"
+  - nav: "docs"
 ---
 
 nanosaur is made with the same capabilities of a real industrial AMR robot. The main architecture is splitted in different parts.
