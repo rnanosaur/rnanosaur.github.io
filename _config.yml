@@ -28,6 +28,11 @@ social:
     - "https://instagram.com/robo.panther"
     - "https://instagram.com/raffaello86"
 
+nanosaur:
+  release: "2.0.0-pre2"
+  requirements:
+    jetpack: "JP6.2"
+
 analytics:
   provider: "google-gtag"
   google:

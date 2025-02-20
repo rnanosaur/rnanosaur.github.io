@@ -14,7 +14,7 @@ How to run a keyboard control?
 {% capture code %}nanosaur robot drive{% endcapture %}{% include code.html code=code lang="sh" copyable=true %}
 
 **:memo: Note** If your device has a valid version of ROS installed, you can choice to run instead in a docker, directly on your host. A question will appear everytime you type the command.
-{: .notice--info}
+{: .notice}
 
 The terminal will show something like the picture below:
 

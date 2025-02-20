@@ -19,7 +19,7 @@ Go on [NVIDIA Jetpack](https://developer.nvidia.com/embedded/Jetpack) webpage an
 **:warning: WARNING** Please download the right version for your NVIDIA Jetson 2Gb or 4Gb
 {: .notice--warning}
 
-1. Download [NVIDIA Jetpack](https://developer.nvidia.com/embedded/Jetpack) **4.6.1**
+1. Download [NVIDIA Jetpack](https://developer.nvidia.com/embedded/Jetpack) **{{ site.nanosaur.requirements.jetpack }}**
 2. Download, install, and launch [Etcher](https://www.balena.io/etcher)
 3. Click “Select image” and choose the zipped image file downloaded earlier.
 4. Insert your microSD card.
