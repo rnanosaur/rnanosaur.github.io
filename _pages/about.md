@@ -13,12 +13,12 @@ header:
       url: "https://github.com/sponsors/rbonghi"
     - label: ":star: Star"
       url: "https://github.com/rnanosaur/nanosaur"
-    - label: "📐 Architecture"
-      url: /architecture/
     - label: "🗞️ Press"
       url: "/press"
     - label: "🎟️ Events"
       url: "/events"
+    - label: "🔑 License"
+      url: /license/
 sidebar:
   - nav: "about"
 ---
@@ -53,16 +53,3 @@ Below technical information about nanosaur
 nanosaur is Best ROS robot 2022 awarded from the ROS developers community
 
 {% include figure image_path="/assets/images/posts/achievements/nanosaur-winner-2022.jpg" alt="nanosaur is the Best ROS robot 2022" caption="nanosaur is the Best ROS robot 2022" %}
-
-# License
-
-This open-source project is under license:
-
-* **Design and project** - [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-* **All PCB boards** - [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-* **Website** - [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-* **Source Code** - [MIT License](https://github.com/rnanosaur/nanosaur/blob/master/LICENSE)
-
-**CC BY-NC-SA 4.0** is [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-**CC BY-NC-ND 4.0** is [Attribution-NonCommercial-NoDerivatives 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/)

@@ -32,6 +32,8 @@ about:
         url: /press/
       - title: "🎟️ Events"
         url: /events/
+      - title: "🔑 License"
+        url: /license/
   - title: "🔧 Make"
     url: /make/
   - title: "💾 Install"
