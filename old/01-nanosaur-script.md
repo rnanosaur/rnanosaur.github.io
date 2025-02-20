@@ -13,7 +13,7 @@ header:
   overlay_image: /old/images/nanosaur-script/nanosaur_sheel.png
 ---
 
-**:construction: This part will be updated soon.**<br/>For any issue join on [Discord](https://discord.gg/NSrC52P5mw)
+**:construction: This part will be updated soon.**<br/>For any issue join on [Discord]({{ site.discord.link }})
 {: .notice--warning}
 
 The nanosaur script is an all-in-one script to manage nanosaur, updating the software, developing or running in simulation.

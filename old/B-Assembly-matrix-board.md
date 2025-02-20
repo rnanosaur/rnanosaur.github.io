@@ -12,6 +12,6 @@ If you want buy the Nanosaur expansion board or you want support this project, p
 
 To assembly the expansion board, is simple you need only to weld the female 2x20 connector and a switch.
 
-**:construction: This part will be updated soon.**<br/>For any issue join on [Discord](https://discord.gg/NSrC52P5mw)
+**:construction: This part will be updated soon.**<br/>For any issue join on [Discord]({{ site.discord.link }})
 {: .notice--warning}
 

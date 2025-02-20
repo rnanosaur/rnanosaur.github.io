@@ -20,7 +20,7 @@ sidebar:
   - nav: "about"
 ---
 
-**:construction: This page is under construction.**<br/>For any issue join on [Discord](https://discord.gg/NSrC52P5mw)
+**:construction: This page is under construction.**<br/>For any issue join on [Discord]({{ site.discord.link }})
 {: .notice--warning}
 
 You don't have a 3D printer and you want make a 🦕 nanosaur?

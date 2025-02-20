@@ -18,7 +18,7 @@ If you want make your nanosaur, it's simple and you can make directly at home, y
 If you don't want print or you don't have a 3D printer you can buy all parts you need, simple going on the [buy](/buy) page.
 -->
 
-**:bulb: Hint** There is a component missing, do you need an help? Ask on [Discord](https://discord.gg/kgqW7Hrk3u)
+**:bulb: Hint** There is a component missing, do you need an help? Ask on [Discord]({{ site.discord.link }})
 {: .notice--info}
 
 # BoM

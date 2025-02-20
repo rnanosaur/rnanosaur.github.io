@@ -15,7 +15,7 @@ header:
 
 Now you can manually drive 🦕 nanosaur on your desktop.
 
-If you are not familiar with it, please wait or join on [Discord](https://discord.gg/NSrC52P5mw)
+If you are not familiar with it, please wait or join on [Discord]({{ site.discord.link }})
 
 There are few steps to follow to install the required packages on your Ubuntu desktop and drive Nanosaur by Keyboard or by Joystick.
 

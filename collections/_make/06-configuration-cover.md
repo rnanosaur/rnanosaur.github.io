@@ -6,5 +6,5 @@ collection: make
 classes: wide
 ---
 
-**:construction: This part will be updated soon.**<br/>For any issue join on [Discord](https://discord.gg/NSrC52P5mw)
+**:construction: This part will be updated soon.**<br/>For any issue join on [Discord]({{ site.discord.link }})
 {: .notice--warning}
