@@ -1,7 +1,7 @@
 ---
 title: "Nanosaur simulator configuration"
 excerpt: "In this guide we configure the nanosaur cli to work with the right simulator"
-permalink: simulation/configuration/
+permalink: /simulation/configuration/
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
@@ -69,7 +69,7 @@ This command configure the world you want to use to test nanosaur. There are dif
 **:memo: Note** If you designed a new world you can use the special command `nanosaur simulation world --new NEW` to add in a customized setup.
 {: .notice}
 
-# Start simulation headless
+# Headless mode
 
 You don't need to visualize what is going on the simulation, you can always set up the headless mode to disable the simulator user interface.
 
