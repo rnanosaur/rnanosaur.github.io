@@ -23,6 +23,20 @@ about:
     btn_label: "📃 learn more"
     btn_class: "btn--success"
 feature_row:
+  - image_path: /assets/images/collections/tutorial/configure/nanosaur-robot-config-example-camera.png
+    alt: "Quick Start with nanosaur"
+    title: "🏃‍➡️ Quick Start"
+    excerpt: "If you don't know how to make nanosaur or how to use it, follow this page, to quickly set up your environment and start with the course!"
+    url: /quick-start/
+    btn_label: "📃 learn more"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/collections/courses/course.jpg
+    alt: "nanosaur courses"
+    title: "📚 Courses"
+    excerpt: "Let's learn how is it work nanosaur and how to build a ROS 2 package and work with Isaac ROS"
+    url: "/courses/"
+    btn_label: "🎓 learn"
+    btn_class: "btn--success"
   - image_path: /assets/images/nanosaur-wireframe-bw.png
     alt: "nanosaur"
     title: "📐 Architecture"
@@ -30,20 +44,6 @@ feature_row:
     url: "/architecture"
     btn_label: "👷 Deep dive"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/nanosaur_build.jpg
-    alt: "nanosaur quick-start"
-    title: ":wrench: Make"
-    excerpt: "If you read this message, you want build or setup your nanosaur. There is only a button to press and follow the guide!"
-    url: "/make/"
-    btn_label: "🚧 Let's go!"
-    btn_class: "btn--warning"
-  - image_path: /assets/images/nanosaur_follower.jpg
-    alt: "nanosaur tutorials"
-    title: "📚 Courses"
-    excerpt: "Let's learn how is it work nanosaur and how to build a ROS 2 package and work with Isaac ROS"
-    url: "/courses/"
-    btn_label: "🎓 learn"
-    btn_class: "btn--success"
 award:
   - image_path: /assets/images/nanosaur-award-2022.jpg
     alt: "nanosaur Best ROS Robot 2022"

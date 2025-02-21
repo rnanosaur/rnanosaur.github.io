@@ -1,0 +1,15 @@
+<div class="course-grid">
+  {% for course in site.courses %}
+    {% if course.level == include.level %}
+      <div class="course-card">
+        <a href="{{ course.url }}">
+          <img src="{{ course.header.teaser }}" alt="{{ course.title }}" class="course-image">
+        </a>
+        <div class="course-info">
+          <h3><a href="{{ course.url }}">{{ course.title }}</a></h3>
+          <p>{{ course.excerpt | truncate: 100 }}</p>
+        </div>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>

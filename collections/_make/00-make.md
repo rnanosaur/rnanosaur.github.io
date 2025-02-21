@@ -1,18 +1,16 @@
 ---
-title: "Quick-Start Guide"
+title: "Make nanosaur"
 excerpt: "Build nanosaur and follow the guide. Let's go!"
 layout: collection
 permalink: /make/
-redirect_from:
-  - /quick-start/
 collection: make
 hidden: true
 classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/collections/make/assembly/body-head-04-magnets.jpg
-  teaser: /assets/images/collections/make/assembly/body-head-04-magnets.jpg
+  overlay_image: /assets/images/nanosaur_build.jpg
+  teaser: /assets/images/nanosaur_build.jpg
   actions:
     - label: ":sparkling_heart: Sponsor"
       url: "https://github.com/sponsors/rbonghi"
@@ -23,8 +21,6 @@ header:
 sidebar:
   - nav: "make"
 ---
-
-{% include 3steps.md %}
 
 {% include video id="-EoeC1C1pi8" provider="youtube" %}
 

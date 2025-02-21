@@ -1,10 +1,7 @@
 ---
 title: "Hacker guide"
 excerpt: "How to modify nanosaur and hacking for your specific use case"
-layout: collection
 permalink: /courses/hacker/
-collection: hacker
-entries_layout: grid
 classes: wide
 header:
   overlay_color: "#000"
@@ -19,3 +16,11 @@ header:
     - label: "📓 Extra courses"
       url: /courses/extra/
 ---
+
+🤖 Welcome the hacker course!
+
+How to work with the nanosaur core! How to modify nanosaur work on your fork and help the nanosaur development pushing new features and helping the maintenance.
+
+# Hacker course
+
+{% include course_menu.html level="hacker" %}
