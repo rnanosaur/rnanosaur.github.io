@@ -19,4 +19,6 @@ header:
       url: "https://github.com/sponsors/rbonghi"
     - label: ":star: Star"
       url: "https://github.com/rnanosaur/nanosaur"
+    - label: "📰 Posts"
+      url: /posts/
 ---

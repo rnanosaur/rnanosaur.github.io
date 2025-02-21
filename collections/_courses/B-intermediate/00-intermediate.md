@@ -3,6 +3,7 @@ title: "Intermediate guide"
 excerpt: "In this course we start to make advance ROS 2 package that works with Isaac ROS"
 permalink: /courses/intermediate/
 classes: wide
+read_time: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

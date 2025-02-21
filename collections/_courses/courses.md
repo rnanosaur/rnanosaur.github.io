@@ -7,6 +7,8 @@ collection: courses
 hidden: true
 classes: wide
 author_profile: false
+share: false
+read_time: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

@@ -3,6 +3,7 @@ title: "Hacker guide"
 excerpt: "How to modify nanosaur and hacking for your specific use case"
 permalink: /courses/hacker/
 classes: wide
+read_time: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
